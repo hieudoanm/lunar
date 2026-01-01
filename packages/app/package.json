@@ -4,15 +4,15 @@
   "private": true,
   "description": "Lunar Calendar",
   "keywords": [
-    "lunar"
+    "calendar"
   ],
-  "homepage": "https://hieudoanm.github.io/lunar",
+  "homepage": "https://hieudoanm.github.io/calendar",
   "bugs": {
-    "url": "https://github.com/hieudoanm/lunar/issues"
+    "url": "https://github.com/hieudoanm/calendar/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/hieudoanm/lunar.git"
+    "url": "git+ssh://git@github.com/hieudoanm/calendar.git"
   },
   "license": "GPL-3.0",
   "author": "hieudoanm <hieumdoan@gmail.com> (https://hieudoanm.github.io)",
