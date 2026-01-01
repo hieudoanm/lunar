@@ -1,5 +1,6 @@
 year,month,date,title
 0,1,1,International New Year's Day
+0,1,1,Nguyễn Chí Thanh's birthday
 0,1,3,[Writer] J.R.R. Tolkien's birthday
 0,1,3,[Writer] Nguyễn Du's birthday
 0,1,4,[Physicist] Isaac Newton's birthday
@@ -14,12 +15,15 @@ year,month,date,title
 0,1,30,[US President] Franklin D. Roosevelt's birthday
 0,2,5,[Football] Cristiano Ronaldo's birthday
 0,2,7,[Writer] Charles Dickens's birthday
+0,2,9,Trường Chinh's birthday
 0,2,12,[US President] Abraham Lincoln's birthday
 0,2,12,[Biologist] Charles Darwin's birthday
 0,2,14,Valentine’s Day
 0,2,15,[Physicist] Galileo Galilei's birthday
+0,2,15,Nguyễn Khuyến's birthday
 0,2,18,Dr. Dre's birthday
 0,2,22,[US President] George Washington's birthday
+0,3,1,Phạm Văn Đồng's birthday
 0,3,4,[Composer] Antonio Vivaldi's birthday
 0,3,6,[Architect] Michelangelo's birthday
 0,3,8,International Women’s Day
@@ -28,46 +32,67 @@ year,month,date,title
 0,3,14,[Physicist] Albert Einstein's birthday
 0,3,21,[Football] Ronaldinho's birthday
 0,3,31,[Composer] Johann Sebastian Bach's birthday
+0,4,4,Đặng Văn Ngữ's birthday
 0,4,6,[Architect] Raphael's birthday
+0,4,7,Lê Duẩn's birthday
 0,4,13,[GM] Garry Kasparov's birthday
 0,4,13,[US President] Thomas Jefferson's birthday
 0,4,15,[Polymath] Leonardo da Vinci's birthday
 0,4,22,[Football] Kaká's birthday
 0,4,25,ANZAC Day (Australia & New Zealand)
+0,4,27,[US President] Ulysses S. Grant's birthday
 0,4,12,[Comedian] David Letterman's birthday
 0,4,23,[Comedian] John Oliver's birthday
 0,4,25,"[Football] Johan Cruyff's birthday"
 0,4,30,[Vietnam] Reunification Day
 0,5,1,International Workers’ Day
+0,5,7,Phạm Ngọc Thạch
 0,5,8,[Football] Franco Baresi's birthday
+0,5,10,Tôn Thất Tùng's birthday
 0,5,11,[Football] Andrés Iniesta's birthday
+0,5,11,Hồ Đắc Di's birthday
 0,5,12,[Comedian] George Carlin's birthday
+0,5,12,Tôn Thất Thuyết's birthday
+0,5,19,[President] Hồ Chí Minh's birthday
 0,5,22,[Writer] Arthur Conan Doyle's birthday
+0,5,26,Nguyễn Thị Bình's birthday
 0,5,29,[US President] John F. Kennedy's birthday
 0,5,30,[Liverpool] Steven Gerrard's birthday
 0,6,1,International Children’s Day
 0,6,23,[Football] Zinédine Zidane's birthday
 0,6,24,[Football] Lionel Messi's birthday
 0,6,26,[Football] Paolo Maldini's birthday
+0,6,28,Ngô Bảo Châu's birthday
+0,7,1,Nguyễn Văn Linh's birthday
+0,7,1,Nguyễn Đình Chiểu's birthday
 0,7,3,[Writer] Franz Kafka's birthday
 0,7,4,Independence Day (United States)
 0,7,6,50 Cent's birthday
 0,7,10,[Engineer] Nikola Tesla's birthday
 0,7,16,"[Football] Sergio Busquets's birthday"
+0,7,20,[General] Alexander the Great's birthday
 0,7,21,[Writer] Ernest Hemingway's birthday
+0,7,23,Tạ Quang Bửu's birthday
 0,7,30,[GM] Fabiano Caruana's birthday
 0,8,11,[Engineer] Steve Wozniak's birthday
+0,8,15,[General] Napoléon Bonaparte's birthday
 0,8,20,[Writer] H. P. Lovecraft's birthday
+0,8,25,[General] Võ Nguyên Giáp's birthday
 0,8,27,[US President] Lyndon B. Johnson's birthday
 0,9,2,[Vietnam] Independence Day
+0,9,9,Phan Châu Trinh's birthday
+0,9,10,[Monarch] Lê Lợi's Birthday
 0,9,11,[Football] Franz Beckenbauer's birthday
 0,9,13,"[Football] Thomas Müller's birthday"
 0,9,13,"[Football] Fabio Cannavaro's birthday"
+0,9,13,Trần Đại Nghĩa's birthday
 0,9,15,[Writer] Agatha Christie's birthday
 0,9,18,[Football] Ronaldo's birthday
 0,10,1,[US President] Jimmy Carter's birthday
+0,10,1,Lê Trọng Tấn's birthday
 0,10,3,German Unity Day
 0,10,9,[GM] Wesley So's birthday
+0,10,10,Lê Đức Thọ's birthday
 0,10,14,[US President] Dwight D. Eisenhower's birthday
 0,10,16,[Writer] Oscar Wilde's birthday
 0,10,17,Eminem's birthday
@@ -81,8 +106,10 @@ year,month,date,title
 0,11,9,[GM] Mikhail Tal's birthday
 0,11,11,[Football] Philipp Lahm's birthday
 0,11,13,[Writer] Robert Louis Stevenson's birthday
+0,11,15,Văn Cao's birthday
 0,11,19,[GM] José Raúl Capablanca's birthday
 0,11,20,[Vietnam] Teachers’ Day
+0,11,23,Võ Văn Kiệt's birthday
 0,11,25,[Football] Xabi Alonso's birthday
 0,11,28,[Comedian] Jon Stewart's birthday
 0,11,30,[GM] Magnus Carlsen's birthday
@@ -92,7 +119,10 @@ year,month,date,title
 0,12,9,[GM] Hikaru Nakamura's birthday
 0,12,11,[GM] Viswanathan Anand's birthday
 0,12,17,[Composer] Ludwig van Beethoven's Baptism Date
+0,12,22,[Monarch] Quang Trung (Nguyễn Huệ)'s Coronation
+0,12,22,Hàn Mặc Tử's birthday
 0,12,24,Christmas Eve
 0,12,25,Christmas Day
+0,12,26,Phan Bội Châu's birthday
 0,12,28,[Engineer] Linus Torvalds's birthday
 0,12,31,International New Year's Eve

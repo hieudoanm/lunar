@@ -15,6 +15,12 @@ export const events: Event[] = [
   {
     year: 0,
     month: 1,
+    date: 1,
+    title: "Nguyễn Chí Thanh's birthday",
+  },
+  {
+    year: 0,
+    month: 1,
     date: 3,
     title: "[Writer] J.R.R. Tolkien's birthday",
   },
@@ -99,6 +105,12 @@ export const events: Event[] = [
   {
     year: 0,
     month: 2,
+    date: 9,
+    title: "Trường Chinh's birthday",
+  },
+  {
+    year: 0,
+    month: 2,
     date: 12,
     title: "[US President] Abraham Lincoln's birthday",
   },
@@ -123,6 +135,12 @@ export const events: Event[] = [
   {
     year: 0,
     month: 2,
+    date: 15,
+    title: "Nguyễn Khuyến's birthday",
+  },
+  {
+    year: 0,
+    month: 2,
     date: 18,
     title: "Dr. Dre's birthday",
   },
@@ -131,6 +149,12 @@ export const events: Event[] = [
     month: 2,
     date: 22,
     title: "[US President] George Washington's birthday",
+  },
+  {
+    year: 0,
+    month: 3,
+    date: 1,
+    title: "Phạm Văn Đồng's birthday",
   },
   {
     year: 0,
@@ -183,8 +207,20 @@ export const events: Event[] = [
   {
     year: 0,
     month: 4,
+    date: 4,
+    title: "Đặng Văn Ngữ's birthday",
+  },
+  {
+    year: 0,
+    month: 4,
     date: 6,
     title: "[Architect] Raphael's birthday",
+  },
+  {
+    year: 0,
+    month: 4,
+    date: 7,
+    title: "Lê Duẩn's birthday",
   },
   {
     year: 0,
@@ -219,6 +255,12 @@ export const events: Event[] = [
   {
     year: 0,
     month: 4,
+    date: 27,
+    title: "[US President] Ulysses S. Grant's birthday",
+  },
+  {
+    year: 0,
+    month: 4,
     date: 12,
     title: "[Comedian] David Letterman's birthday",
   },
@@ -249,8 +291,20 @@ export const events: Event[] = [
   {
     year: 0,
     month: 5,
+    date: 7,
+    title: 'Phạm Ngọc Thạch',
+  },
+  {
+    year: 0,
+    month: 5,
     date: 8,
     title: "[Football] Franco Baresi's birthday",
+  },
+  {
+    year: 0,
+    month: 5,
+    date: 10,
+    title: "Tôn Thất Tùng's birthday",
   },
   {
     year: 0,
@@ -261,14 +315,38 @@ export const events: Event[] = [
   {
     year: 0,
     month: 5,
+    date: 11,
+    title: "Hồ Đắc Di's birthday",
+  },
+  {
+    year: 0,
+    month: 5,
     date: 12,
     title: "[Comedian] George Carlin's birthday",
   },
   {
     year: 0,
     month: 5,
+    date: 12,
+    title: "Tôn Thất Thuyết's birthday",
+  },
+  {
+    year: 0,
+    month: 5,
+    date: 19,
+    title: "[President] Hồ Chí Minh's birthday",
+  },
+  {
+    year: 0,
+    month: 5,
     date: 22,
     title: "[Writer] Arthur Conan Doyle's birthday",
+  },
+  {
+    year: 0,
+    month: 5,
+    date: 26,
+    title: "Nguyễn Thị Bình's birthday",
   },
   {
     year: 0,
@@ -308,6 +386,24 @@ export const events: Event[] = [
   },
   {
     year: 0,
+    month: 6,
+    date: 28,
+    title: "Ngô Bảo Châu's birthday",
+  },
+  {
+    year: 0,
+    month: 7,
+    date: 1,
+    title: "Nguyễn Văn Linh's birthday",
+  },
+  {
+    year: 0,
+    month: 7,
+    date: 1,
+    title: "Nguyễn Đình Chiểu's birthday",
+  },
+  {
+    year: 0,
     month: 7,
     date: 3,
     title: "[Writer] Franz Kafka's birthday",
@@ -339,8 +435,20 @@ export const events: Event[] = [
   {
     year: 0,
     month: 7,
+    date: 20,
+    title: "[General] Alexander the Great's birthday",
+  },
+  {
+    year: 0,
+    month: 7,
     date: 21,
     title: "[Writer] Ernest Hemingway's birthday",
+  },
+  {
+    year: 0,
+    month: 7,
+    date: 23,
+    title: "Tạ Quang Bửu's birthday",
   },
   {
     year: 0,
@@ -357,8 +465,20 @@ export const events: Event[] = [
   {
     year: 0,
     month: 8,
+    date: 15,
+    title: "[General] Napoléon Bonaparte's birthday",
+  },
+  {
+    year: 0,
+    month: 8,
     date: 20,
     title: "[Writer] H. P. Lovecraft's birthday",
+  },
+  {
+    year: 0,
+    month: 8,
+    date: 25,
+    title: "[General] Võ Nguyên Giáp's birthday",
   },
   {
     year: 0,
@@ -371,6 +491,18 @@ export const events: Event[] = [
     month: 9,
     date: 2,
     title: '[Vietnam] Independence Day',
+  },
+  {
+    year: 0,
+    month: 9,
+    date: 9,
+    title: "Phan Châu Trinh's birthday",
+  },
+  {
+    year: 0,
+    month: 9,
+    date: 10,
+    title: "[Monarch] Lê Lợi's Birthday",
   },
   {
     year: 0,
@@ -393,6 +525,12 @@ export const events: Event[] = [
   {
     year: 0,
     month: 9,
+    date: 13,
+    title: "Trần Đại Nghĩa's birthday",
+  },
+  {
+    year: 0,
+    month: 9,
     date: 15,
     title: "[Writer] Agatha Christie's birthday",
   },
@@ -411,6 +549,12 @@ export const events: Event[] = [
   {
     year: 0,
     month: 10,
+    date: 1,
+    title: "Lê Trọng Tấn's birthday",
+  },
+  {
+    year: 0,
+    month: 10,
     date: 3,
     title: 'German Unity Day',
   },
@@ -419,6 +563,12 @@ export const events: Event[] = [
     month: 10,
     date: 9,
     title: "[GM] Wesley So's birthday",
+  },
+  {
+    year: 0,
+    month: 10,
+    date: 10,
+    title: "Lê Đức Thọ's birthday",
   },
   {
     year: 0,
@@ -501,6 +651,12 @@ export const events: Event[] = [
   {
     year: 0,
     month: 11,
+    date: 15,
+    title: "Văn Cao's birthday",
+  },
+  {
+    year: 0,
+    month: 11,
     date: 19,
     title: "[GM] José Raúl Capablanca's birthday",
   },
@@ -509,6 +665,12 @@ export const events: Event[] = [
     month: 11,
     date: 20,
     title: '[Vietnam] Teachers’ Day',
+  },
+  {
+    year: 0,
+    month: 11,
+    date: 23,
+    title: "Võ Văn Kiệt's birthday",
   },
   {
     year: 0,
@@ -567,6 +729,18 @@ export const events: Event[] = [
   {
     year: 0,
     month: 12,
+    date: 22,
+    title: "[Monarch] Quang Trung (Nguyễn Huệ)'s Coronation",
+  },
+  {
+    year: 0,
+    month: 12,
+    date: 22,
+    title: "Hàn Mặc Tử's birthday",
+  },
+  {
+    year: 0,
+    month: 12,
     date: 24,
     title: 'Christmas Eve',
   },
@@ -575,6 +749,12 @@ export const events: Event[] = [
     month: 12,
     date: 25,
     title: 'Christmas Day',
+  },
+  {
+    year: 0,
+    month: 12,
+    date: 26,
+    title: "Phan Bội Châu's birthday",
   },
   {
     year: 0,
