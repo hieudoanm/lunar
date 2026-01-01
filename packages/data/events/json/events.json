@@ -8,6 +8,18 @@
   {
     "year": 0,
     "month": 1,
+    "date": 3,
+    "title": "[Writer] J.R.R. Tolkien's birthday"
+  },
+  {
+    "year": 0,
+    "month": 1,
+    "date": 3,
+    "title": "[Writer] Nguyễn Du's birthday"
+  },
+  {
+    "year": 0,
+    "month": 1,
     "date": 4,
     "title": "[Physicist] Isaac Newton's birthday"
   },
@@ -290,6 +302,12 @@
   {
     "year": 0,
     "month": 7,
+    "date": 3,
+    "title": "[Writer] Franz Kafka's birthday"
+  },
+  {
+    "year": 0,
+    "month": 7,
     "date": 4,
     "title": "Independence Day (United States)"
   },
@@ -314,6 +332,12 @@
   {
     "year": 0,
     "month": 7,
+    "date": 21,
+    "title": "[Writer] Ernest Hemingway's birthday"
+  },
+  {
+    "year": 0,
+    "month": 7,
     "date": 30,
     "title": "[GM] Fabiano Caruana's birthday"
   },
@@ -322,6 +346,12 @@
     "month": 8,
     "date": 11,
     "title": "[Engineer] Steve Wozniak's birthday"
+  },
+  {
+    "year": 0,
+    "month": 8,
+    "date": 20,
+    "title": "[Writer] H. P. Lovecraft's birthday"
   },
   {
     "year": 0,
@@ -424,6 +454,12 @@
     "month": 10,
     "date": 27,
     "title": "[US President] Theodore Roosevelt's birthday"
+  },
+  {
+    "year": 0,
+    "month": 10,
+    "date": 29,
+    "title": "[Writer] Nam Cao's birthday"
   },
   {
     "year": 0,
