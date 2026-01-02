@@ -26,16 +26,33 @@ def get_missing_days_by_month(rows):
       month: [missing_days]
     }
     """
+    DAYS_IN_MONTH = {
+        1: 31,
+        2: 29,
+        3: 31,
+        4: 30,
+        5: 31,
+        6: 30,
+        7: 31,
+        8: 31,
+        9: 30,
+        10: 31,
+        11: 30,
+        12: 31,
+    }
+
     result = {}
 
     for month in range(1, 13):
+        max_day = DAYS_IN_MONTH[month]
+
         existing_days = {
             row["date"]
             for row in rows
             if row.get("month") == month and row.get("date") is not None
         }
 
-        missing_days = [d for d in range(1, 32) if d not in existing_days]
+        missing_days = [d for d in range(1, max_day + 1) if d not in existing_days]
 
         if missing_days:
             result[month] = missing_days
