@@ -6,6 +6,7 @@
     "frequency": "annual",
     "type": "holiday",
     "country": "International",
+    "field": "",
     "title": "International New Year's Day"
   },
   {
@@ -15,6 +16,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Vietnam",
+    "field": "",
     "title": "Nguyễn Chí Thanh"
   },
   {
@@ -24,7 +26,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United Kingdom",
-    "title": "[Writer] J.R.R. Tolkien"
+    "field": "Literature",
+    "title": "J.R.R. Tolkien"
   },
   {
     "year": 0,
@@ -33,7 +36,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Vietnam",
-    "title": "[Writer] Nguyễn Du"
+    "field": "Literature",
+    "title": "Nguyễn Du"
   },
   {
     "year": 0,
@@ -42,7 +46,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United Kingdom",
-    "title": "[Physicist] Isaac Newton"
+    "field": "Physics",
+    "title": "Isaac Newton"
   },
   {
     "year": 0,
@@ -51,7 +56,18 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United Kingdom",
-    "title": "[Football] James Milner"
+    "field": "Football",
+    "title": "James Milner"
+  },
+  {
+    "year": 1800,
+    "month": 1,
+    "date": 7,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President",
+    "title": "Millard Fillmore"
   },
   {
     "year": 0,
@@ -60,7 +76,18 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United Kingdom",
-    "title": "[Physicist] Stephen Hawking"
+    "field": "Physics",
+    "title": "Stephen Hawking"
+  },
+  {
+    "year": 1913,
+    "month": 1,
+    "date": 9,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President",
+    "title": "Richard Nixon"
   },
   {
     "year": 0,
@@ -69,7 +96,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
-    "title": "[Secretary] Alexander Hamilton"
+    "field": "Secretary of the Treasury",
+    "title": "Alexander Hamilton"
   },
   {
     "year": 1995,
@@ -78,7 +106,18 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Japan",
-    "title": "[Football] Minamino Takumi"
+    "field": "Football",
+    "title": "Minamino Takumi"
+  },
+  {
+    "year": 0,
+    "month": 1,
+    "date": 17,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "",
+    "title": "[Polymath] Benjamin Franklin"
   },
   {
     "year": 0,
@@ -87,7 +126,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
-    "title": "[Writer] Edgar Allan Poe"
+    "field": "Literature",
+    "title": "Edgar Allan Poe"
   },
   {
     "year": 0,
@@ -96,7 +136,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Uruguay",
-    "title": "[Football] Luis Suárez"
+    "field": "Football",
+    "title": "Luis Suárez"
   },
   {
     "year": 1942,
@@ -105,7 +146,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Portugal",
-    "title": "[Football] Eusébio"
+    "field": "Football",
+    "title": "Eusébio"
   },
   {
     "year": 0,
@@ -114,6 +156,7 @@
     "frequency": "annual",
     "type": "holiday",
     "country": "Australia",
+    "field": "",
     "title": "Australia Day"
   },
   {
@@ -123,16 +166,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Austria",
+    "field": "",
     "title": "[Composer] Wolfgang Amadeus Mozart"
-  },
-  {
-    "year": 0,
-    "month": 1,
-    "date": 17,
-    "frequency": "annual",
-    "type": "birthday",
-    "country": "United States",
-    "title": "[Polymath] Benjamin Franklin"
   },
   {
     "year": 0,
@@ -141,16 +176,28 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United Kingdom",
-    "title": "[Liverpool] Jamie Carragher"
+    "field": "Football",
+    "title": "Jamie Carragher"
   },
   {
-    "year": 0,
+    "year": 1843,
+    "month": 1,
+    "date": 29,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President",
+    "title": "William McKinley"
+  },
+  {
+    "year": 1882,
     "month": 1,
     "date": 30,
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
-    "title": "[US President] Franklin D. Roosevelt"
+    "field": "President",
+    "title": "Franklin D. Roosevelt"
   },
   {
     "year": 1915,
@@ -159,7 +206,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United Kingdom",
-    "title": "[Football] Stanley Matthews"
+    "field": "Football",
+    "title": "Stanley Matthews"
   },
   {
     "year": 1985,
@@ -168,7 +216,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Portugal",
-    "title": "[Football] Cristiano Ronaldo"
+    "field": "Football",
+    "title": "Cristiano Ronaldo"
   },
   {
     "year": 1992,
@@ -177,7 +226,18 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Brazil",
-    "title": "[Football] Neymar"
+    "field": "Football",
+    "title": "Neymar"
+  },
+  {
+    "year": 1911,
+    "month": 2,
+    "date": 6,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President",
+    "title": "Ronald Reagan"
   },
   {
     "year": 0,
@@ -186,7 +246,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United Kingdom",
-    "title": "[Writer] Charles Dickens"
+    "field": "Literature",
+    "title": "Charles Dickens"
   },
   {
     "year": 0,
@@ -195,6 +256,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Vietnam",
+    "field": "",
     "title": "Trường Chinh"
   },
   {
@@ -204,7 +266,18 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Japan",
-    "title": "[Football] Endō Wataru"
+    "field": "Football",
+    "title": "Endō Wataru"
+  },
+  {
+    "year": 1773,
+    "month": 2,
+    "date": 9,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President",
+    "title": "William Henry Harrison"
   },
   {
     "year": 0,
@@ -213,7 +286,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
-    "title": "[US President] Abraham Lincoln"
+    "field": "President",
+    "title": "Abraham Lincoln"
   },
   {
     "year": 0,
@@ -222,6 +296,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United Kingdom",
+    "field": "",
     "title": "[Biologist] Charles Darwin"
   },
   {
@@ -231,6 +306,7 @@
     "frequency": "annual",
     "type": "celebration",
     "country": "International",
+    "field": "",
     "title": "Valentine’s Day"
   },
   {
@@ -240,7 +316,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "England",
-    "title": "[Football] Kevin Keegan"
+    "field": "Football",
+    "title": "Kevin Keegan"
   },
   {
     "year": 0,
@@ -249,7 +326,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Italy",
-    "title": "[Physicist] Galileo Galilei"
+    "field": "Physics",
+    "title": "Galileo Galilei"
   },
   {
     "year": 0,
@@ -258,6 +336,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Vietnam",
+    "field": "",
     "title": "Nguyễn Khuyến"
   },
   {
@@ -267,6 +346,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
+    "field": "",
     "title": "Dr. Dre"
   },
   {
@@ -276,7 +356,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Italy",
-    "title": "[Football] Roberto Baggio"
+    "field": "Football",
+    "title": "Roberto Baggio"
   },
   {
     "year": 0,
@@ -285,7 +366,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
-    "title": "[US President] George Washington"
+    "field": "President",
+    "title": "George Washington"
   },
   {
     "year": 0,
@@ -294,6 +376,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Vietnam",
+    "field": "",
     "title": "Phạm Văn Đồng"
   },
   {
@@ -303,6 +386,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Italy",
+    "field": "",
     "title": "[Composer] Antonio Vivaldi"
   },
   {
@@ -312,6 +396,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Italy",
+    "field": "",
     "title": "[Architect] Michelangelo"
   },
   {
@@ -321,6 +406,7 @@
     "frequency": "annual",
     "type": "celebration",
     "country": "International",
+    "field": "",
     "title": "International Women’s Day"
   },
   {
@@ -330,6 +416,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
+    "field": "",
     "title": "[GM] Bobby Fischer"
   },
   {
@@ -339,7 +426,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Scotland",
-    "title": "[Football] Andy Robertson"
+    "field": "Football",
+    "title": "Andy Robertson"
   },
   {
     "year": 0,
@@ -348,6 +436,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Vietnam",
+    "field": "",
     "title": "[GM] Le Quang Liem’s birthday"
   },
   {
@@ -357,7 +446,48 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Germany",
-    "title": "[Physicist] Albert Einstein"
+    "field": "Physics",
+    "title": "Albert Einstein"
+  },
+  {
+    "year": 1767,
+    "month": 3,
+    "date": 15,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President",
+    "title": "Andrew Jackson"
+  },
+  {
+    "year": 1933,
+    "month": 3,
+    "date": 15,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Supreme Court Justice",
+    "title": "Ruth Bader Ginsburg"
+  },
+  {
+    "year": 1751,
+    "month": 3,
+    "date": 16,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President",
+    "title": "James Madison"
+  },
+  {
+    "year": 1837,
+    "month": 3,
+    "date": 18,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President",
+    "title": "Grover Cleveland"
   },
   {
     "year": 0,
@@ -366,7 +496,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Brazil",
-    "title": "[Football] Ronaldinho"
+    "field": "Football",
+    "title": "Ronaldinho"
   },
   {
     "year": 1961,
@@ -375,7 +506,18 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Germany",
-    "title": "[Football] Lothar Matthäus"
+    "field": "Football",
+    "title": "Lothar Matthäus"
+  },
+  {
+    "year": 1790,
+    "month": 3,
+    "date": 29,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President",
+    "title": "John Tyler"
   },
   {
     "year": 0,
@@ -384,6 +526,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Germany",
+    "field": "",
     "title": "[Composer] Johann Sebastian Bach"
   },
   {
@@ -393,7 +536,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United Kingdom",
-    "title": "[Football] Harvey Elliott"
+    "field": "Football",
+    "title": "Harvey Elliott"
   },
   {
     "year": 0,
@@ -402,6 +546,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Vietnam",
+    "field": "",
     "title": "Đặng Văn Ngữ"
   },
   {
@@ -411,6 +556,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Italy",
+    "field": "",
     "title": "[Architect] Raphael"
   },
   {
@@ -420,6 +566,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Vietnam",
+    "field": "",
     "title": "Lê Duẩn"
   },
   {
@@ -429,7 +576,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Senegal",
-    "title": "[Football] Sadio Mané"
+    "field": "Football",
+    "title": "Sadio Mané"
   },
   {
     "year": 0,
@@ -438,7 +586,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Spain",
-    "title": "[Football] Thiago Alcântara"
+    "field": "Football",
+    "title": "Thiago Alcântara"
   },
   {
     "year": 0,
@@ -447,7 +596,18 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
+    "field": "",
     "title": "[Comedian] David Letterman"
+  },
+  {
+    "year": 1777,
+    "month": 4,
+    "date": 12,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House",
+    "title": "Henry Clay"
   },
   {
     "year": 0,
@@ -456,6 +616,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Russia",
+    "field": "",
     "title": "[GM] Garry Kasparov"
   },
   {
@@ -465,7 +626,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
-    "title": "[US President] Thomas Jefferson"
+    "field": "President",
+    "title": "Thomas Jefferson"
   },
   {
     "year": 0,
@@ -474,6 +636,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Italy",
+    "field": "",
     "title": "[Polymath] Leonardo da Vinci"
   },
   {
@@ -483,6 +646,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Russia",
+    "field": "",
     "title": "[GM] Daniil Dubov"
   },
   {
@@ -492,7 +656,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Brazil",
-    "title": "[Football] Rivaldo"
+    "field": "Football",
+    "title": "Rivaldo"
   },
   {
     "year": 1982,
@@ -501,7 +666,18 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Brazil",
-    "title": "[Football] Kaká"
+    "field": "Football",
+    "title": "Kaká"
+  },
+  {
+    "year": 1791,
+    "month": 4,
+    "date": 23,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President",
+    "title": "James Buchanan"
   },
   {
     "year": 1947,
@@ -510,16 +686,18 @@
     "frequency": "annual",
     "type": "celebration",
     "country": "Australia",
+    "field": "",
     "title": "ANZAC Day (Australia & New Zealand)"
   },
   {
-    "year": 0,
+    "year": 1822,
     "month": 4,
     "date": 27,
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
-    "title": "[US President] Ulysses S. Grant"
+    "field": "President",
+    "title": "Ulysses S. Grant"
   },
   {
     "year": 0,
@@ -528,6 +706,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United Kingdom",
+    "field": "",
     "title": "[Comedian] John Oliver"
   },
   {
@@ -537,7 +716,18 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Netherlands",
-    "title": "[Football] Johan Cruyff"
+    "field": "Football",
+    "title": "Johan Cruyff"
+  },
+  {
+    "year": 1758,
+    "month": 4,
+    "date": 28,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President",
+    "title": "James Monroe"
   },
   {
     "year": 0,
@@ -546,6 +736,7 @@
     "frequency": "annual",
     "type": "holiday",
     "country": "Vietnam",
+    "field": "",
     "title": "[Vietnam] Reunification Day"
   },
   {
@@ -555,6 +746,7 @@
     "frequency": "annual",
     "type": "holiday",
     "country": "International",
+    "field": "",
     "title": "International Workers’ Day"
   },
   {
@@ -564,6 +756,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Vietnam",
+    "field": "",
     "title": "Phạm Ngọc Thạch"
   },
   {
@@ -573,7 +766,18 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Italy",
-    "title": "[Football] Franco Baresi"
+    "field": "Football",
+    "title": "Franco Baresi"
+  },
+  {
+    "year": 1884,
+    "month": 5,
+    "date": 8,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President",
+    "title": "Harry S Truman"
   },
   {
     "year": 0,
@@ -582,6 +786,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Vietnam",
+    "field": "",
     "title": "Tôn Thất Tùng"
   },
   {
@@ -591,7 +796,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Spain",
-    "title": "[Football] Andrés Iniesta"
+    "field": "Football",
+    "title": "Andrés Iniesta"
   },
   {
     "year": 0,
@@ -600,6 +806,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Vietnam",
+    "field": "",
     "title": "Hồ Đắc Di"
   },
   {
@@ -609,6 +816,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
+    "field": "",
     "title": "[Comedian] George Carlin"
   },
   {
@@ -618,6 +826,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Vietnam",
+    "field": "",
     "title": "Tôn Thất Thuyết"
   },
   {
@@ -627,7 +836,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "France",
-    "title": "[Football] Ousmane Dembélé"
+    "field": "Football",
+    "title": "Ousmane Dembélé"
   },
   {
     "year": 0,
@@ -636,7 +846,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Netherlands",
-    "title": "[Football] Ryan Gravenberch"
+    "field": "Football",
+    "title": "Ryan Gravenberch"
   },
   {
     "year": 0,
@@ -645,6 +856,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Vietnam",
+    "field": "",
     "title": "[President] Hồ Chí Minh"
   },
   {
@@ -654,7 +866,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Japan",
-    "title": "[Football] Mitoma Kaoru"
+    "field": "Football",
+    "title": "Mitoma Kaoru"
   },
   {
     "year": 0,
@@ -663,7 +876,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United Kingdom",
-    "title": "[Writer] Arthur Conan Doyle"
+    "field": "Literature",
+    "title": "Arthur Conan Doyle"
   },
   {
     "year": 1946,
@@ -672,7 +886,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United Kingdom",
-    "title": "[Football] George Best"
+    "field": "Football",
+    "title": "George Best"
   },
   {
     "year": 2005,
@@ -681,7 +896,8 @@
     "frequency": "annual",
     "type": "milestone",
     "country": "United Kingdom",
-    "title": "[Football] Miracle of Istanbul"
+    "field": "Football",
+    "title": "Miracle of Istanbul"
   },
   {
     "year": 0,
@@ -690,16 +906,18 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Vietnam",
+    "field": "",
     "title": "Nguyễn Thị Bình"
   },
   {
-    "year": 0,
+    "year": 1917,
     "month": 5,
     "date": 29,
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
-    "title": "[US President] John F. Kennedy"
+    "field": "President",
+    "title": "John F. Kennedy"
   },
   {
     "year": 2006,
@@ -708,6 +926,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "India",
+    "field": "",
     "title": "[GM] Gukesh Dommaraju"
   },
   {
@@ -717,6 +936,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United Kingdom",
+    "field": "",
     "title": "[Liverpool] Steven Gerrard"
   },
   {
@@ -726,6 +946,7 @@
     "frequency": "annual",
     "type": "celebration",
     "country": "International",
+    "field": "",
     "title": "International Children’s Day"
   },
   {
@@ -735,7 +956,28 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Egypt",
-    "title": "[Football] Mohamed Salah"
+    "field": "Football",
+    "title": "Mohamed Salah"
+  },
+  {
+    "year": 1924,
+    "month": 6,
+    "date": 12,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President",
+    "title": "George H. W. Bush"
+  },
+  {
+    "year": 1946,
+    "month": 6,
+    "date": 14,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President",
+    "title": "Donald Trump"
   },
   {
     "year": 1215,
@@ -744,6 +986,7 @@
     "frequency": "annual",
     "type": "milestone",
     "country": "United Kingdom",
+    "field": "",
     "title": "Magna Carta was Sealed"
   },
   {
@@ -753,7 +996,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United Kingdom",
-    "title": "[Football] Jordan Henderson"
+    "field": "Football",
+    "title": "Jordan Henderson"
   },
   {
     "year": 1955,
@@ -762,7 +1006,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "France",
-    "title": "[Football] Michel Platini"
+    "field": "Football",
+    "title": "Michel Platini"
   },
   {
     "year": 1996,
@@ -771,7 +1016,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Spain",
-    "title": "[Football] Rodri"
+    "field": "Football",
+    "title": "Rodri"
   },
   {
     "year": 1972,
@@ -780,7 +1026,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "France",
-    "title": "[Football] Zinédine Zidane"
+    "field": "Football",
+    "title": "Zinédine Zidane"
   },
   {
     "year": 0,
@@ -789,7 +1036,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Argentina",
-    "title": "[Football] Lionel Messi"
+    "field": "Football",
+    "title": "Lionel Messi"
   },
   {
     "year": 0,
@@ -798,7 +1046,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Italy",
-    "title": "[Football] Paolo Maldini"
+    "field": "Football",
+    "title": "Paolo Maldini"
   },
   {
     "year": 0,
@@ -807,6 +1056,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Vietnam",
+    "field": "",
     "title": "Ngô Bảo Châu"
   },
   {
@@ -816,6 +1066,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Vietnam",
+    "field": "",
     "title": "Nguyễn Văn Linh"
   },
   {
@@ -825,7 +1076,18 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Vietnam",
+    "field": "",
     "title": "Nguyễn Đình Chiểu"
+  },
+  {
+    "year": 1908,
+    "month": 7,
+    "date": 2,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Supreme Court Justice",
+    "title": "Thurgood Marshall"
   },
   {
     "year": 0,
@@ -834,7 +1096,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Czech",
-    "title": "[Writer] Franz Kafka"
+    "field": "Literature",
+    "title": "Franz Kafka"
   },
   {
     "year": 0,
@@ -843,6 +1106,7 @@
     "frequency": "annual",
     "type": "holiday",
     "country": "United States",
+    "field": "",
     "title": "Independence Day (United States)"
   },
   {
@@ -852,7 +1116,18 @@
     "frequency": "annual",
     "type": "holiday",
     "country": "Spain",
-    "title": "[Football] Alfredo Di Stéfano"
+    "field": "Football",
+    "title": "Alfredo Di Stéfano"
+  },
+  {
+    "year": 1872,
+    "month": 7,
+    "date": 4,
+    "frequency": "annual",
+    "type": "holiday",
+    "country": "United States",
+    "field": "President",
+    "title": "Calvin Coolidge"
   },
   {
     "year": 0,
@@ -861,7 +1136,18 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
+    "field": "Rapper",
     "title": "50 Cent"
+  },
+  {
+    "year": 1946,
+    "month": 7,
+    "date": 6,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President",
+    "title": "George W. Bush"
   },
   {
     "year": 0,
@@ -870,7 +1156,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Netherlands",
-    "title": "[Football] Virgil van Dijk"
+    "field": "Football",
+    "title": "Virgil van Dijk"
   },
   {
     "year": 0,
@@ -879,7 +1166,28 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United Kingdom",
+    "field": "",
     "title": "[Engineer] Nikola Tesla"
+  },
+  {
+    "year": 1767,
+    "month": 7,
+    "date": 11,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President",
+    "title": "John Quincy Adams"
+  },
+  {
+    "year": 1913,
+    "month": 7,
+    "date": 14,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President",
+    "title": "Gerald Ford"
   },
   {
     "year": 0,
@@ -888,7 +1196,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Spain",
-    "title": "[Football] Sergio Busquets"
+    "field": "Football",
+    "title": "Sergio Busquets\""
   },
   {
     "year": 0,
@@ -897,6 +1206,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Macedon",
+    "field": "",
     "title": "[General] Alexander the Great"
   },
   {
@@ -906,6 +1216,7 @@
     "frequency": "annual",
     "type": "milestone",
     "country": "United States",
+    "field": "",
     "title": "First human landing on the Moon"
   },
   {
@@ -915,7 +1226,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
-    "title": "[Writer] Ernest Hemingway"
+    "field": "Literature",
+    "title": "Ernest Hemingway"
   },
   {
     "year": 0,
@@ -924,6 +1236,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Vietnam",
+    "field": "",
     "title": "Tạ Quang Bửu"
   },
   {
@@ -933,7 +1246,18 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
+    "field": "Chess",
     "title": "[GM] Fabiano Caruana"
+  },
+  {
+    "year": 1961,
+    "month": 8,
+    "date": 4,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President",
+    "title": "Barack Obama"
   },
   {
     "year": 0,
@@ -942,7 +1266,18 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Cameroon",
-    "title": "[Football] Joël Matip"
+    "field": "Football",
+    "title": "Joël Matip"
+  },
+  {
+    "year": 1874,
+    "month": 8,
+    "date": 10,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President",
+    "title": "Herbert Hoover"
   },
   {
     "year": 0,
@@ -951,7 +1286,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
-    "title": "[Engineer] Steve Wozniak"
+    "field": "Engineer",
+    "title": "Steve Wozniak"
   },
   {
     "year": 0,
@@ -960,7 +1296,18 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "France",
+    "field": "General",
     "title": "[General] Napoléon Bonaparte"
+  },
+  {
+    "year": 1946,
+    "month": 8,
+    "date": 19,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President",
+    "title": "Bill Clinton"
   },
   {
     "year": 0,
@@ -969,7 +1316,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
-    "title": "[Writer] H. P. Lovecraft"
+    "field": "Literature",
+    "title": "H. P. Lovecraft"
   },
   {
     "year": 1988,
@@ -978,7 +1326,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Poland",
-    "title": "[Football] Robert Lewandowski"
+    "field": "Football",
+    "title": "Robert Lewandowski"
   },
   {
     "year": 0,
@@ -987,16 +1336,18 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Vietnam",
+    "field": "",
     "title": "[General] Võ Nguyên Giáp"
   },
   {
-    "year": 0,
+    "year": 1908,
     "month": 8,
     "date": 27,
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
-    "title": "[US President] Lyndon B. Johnson"
+    "field": "President",
+    "title": "Lyndon B. Johnson"
   },
   {
     "year": 1972,
@@ -1005,7 +1356,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Czech",
-    "title": "[Football] Pavel Nedvěd"
+    "field": "Football",
+    "title": "Pavel Nedvěd"
   },
   {
     "year": 1962,
@@ -1014,7 +1366,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Netherlands",
-    "title": "[Football] Ruud Gullit"
+    "field": "Football",
+    "title": "Ruud Gullit"
   },
   {
     "year": 0,
@@ -1023,6 +1376,7 @@
     "frequency": "annual",
     "type": "holiday",
     "country": "Vietnam",
+    "field": "",
     "title": "[Vietnam] Independence Day"
   },
   {
@@ -1032,6 +1386,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Vietnam",
+    "field": "",
     "title": "Phan Châu Trinh"
   },
   {
@@ -1041,7 +1396,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Croatia",
-    "title": "[Football] Luka Modrić"
+    "field": "Football",
+    "title": "Luka Modrić"
   },
   {
     "year": 0,
@@ -1050,6 +1406,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Vietnam",
+    "field": "",
     "title": "[Monarch] Lê Lợi's Birthday"
   },
   {
@@ -1059,7 +1416,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Germany",
-    "title": "[Football] Franz Beckenbauer"
+    "field": "Football",
+    "title": "Franz Beckenbauer"
   },
   {
     "year": 0,
@@ -1068,7 +1426,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Germany",
-    "title": "[Football] Thomas Müller"
+    "field": "Football",
+    "title": "Thomas Müller\""
   },
   {
     "year": 0,
@@ -1077,7 +1436,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Italy",
-    "title": "[Football] Fabio Cannavaro"
+    "field": "Football",
+    "title": "Fabio Cannavaro\""
   },
   {
     "year": 0,
@@ -1086,6 +1446,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Vietnam",
+    "field": "",
     "title": "Trần Đại Nghĩa"
   },
   {
@@ -1095,7 +1456,18 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United Kingdom",
-    "title": "[Writer] Agatha Christie"
+    "field": "Literature",
+    "title": "Agatha Christie"
+  },
+  {
+    "year": 1957,
+    "month": 9,
+    "date": 15,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President",
+    "title": "William Howard Taft"
   },
   {
     "year": 0,
@@ -1104,7 +1476,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Brazil",
-    "title": "[Football] Ronaldo"
+    "field": "Football",
+    "title": "Ronaldo"
   },
   {
     "year": 2004,
@@ -1113,16 +1486,28 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Uzbekistan",
+    "field": "",
     "title": "[GM] Nodirbek Abdusattorov"
   },
   {
-    "year": 0,
+    "year": 1755,
+    "month": 9,
+    "date": 24,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Chief Justice",
+    "title": "John Marshall"
+  },
+  {
+    "year": 1924,
     "month": 10,
     "date": 1,
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
-    "title": "[US President] Jimmy Carter"
+    "field": "President",
+    "title": "Jimmy Carter"
   },
   {
     "year": 0,
@@ -1131,6 +1516,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Vietnam",
+    "field": "",
     "title": "Lê Trọng Tấn"
   },
   {
@@ -1140,7 +1526,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Brazil",
-    "title": "[Football] Roberto Firmino"
+    "field": "Football",
+    "title": "Roberto Firmino\""
   },
   {
     "year": 0,
@@ -1149,7 +1536,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Brazil",
-    "title": "[Football] Alisson Becker"
+    "field": "Football",
+    "title": "Alisson Becker\""
   },
   {
     "year": 0,
@@ -1158,7 +1546,28 @@
     "frequency": "annual",
     "type": "holiday",
     "country": "Germany",
+    "field": "",
     "title": "German Unity Day"
+  },
+  {
+    "year": 1822,
+    "month": 10,
+    "date": 4,
+    "frequency": "annual",
+    "type": "holiday",
+    "country": "United States",
+    "field": "President",
+    "title": "Rutherford B. Hayes"
+  },
+  {
+    "year": 1829,
+    "month": 10,
+    "date": 5,
+    "frequency": "annual",
+    "type": "holiday",
+    "country": "United States",
+    "field": "President",
+    "title": "Chester A. Arthur"
   },
   {
     "year": 1982,
@@ -1167,6 +1576,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Armenia",
+    "field": "",
     "title": "[GM] Levon Aronian"
   },
   {
@@ -1176,6 +1586,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
+    "field": "",
     "title": "[GM] Wesley So"
   },
   {
@@ -1185,6 +1596,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Vietnam",
+    "field": "",
     "title": "Lê Đức Thọ"
   },
   {
@@ -1194,16 +1606,18 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United Kingdom",
-    "title": "[Football] Bobby Charlton"
+    "field": "Football",
+    "title": "Bobby Charlton"
   },
   {
-    "year": 0,
+    "year": 1890,
     "month": 10,
     "date": 14,
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
-    "title": "[US President] Dwight D. Eisenhower"
+    "field": "President",
+    "title": "Dwight D. Eisenhower"
   },
   {
     "year": 0,
@@ -1212,7 +1626,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United Kingdom",
-    "title": "[Writer] Oscar Wilde"
+    "field": "Literature",
+    "title": "Oscar Wilde"
   },
   {
     "year": 0,
@@ -1221,6 +1636,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
+    "field": "",
     "title": "Eminem"
   },
   {
@@ -1230,6 +1646,7 @@
     "frequency": "annual",
     "type": "celebration",
     "country": "Vietnam",
+    "field": "",
     "title": "[Vietnam] Women’s Day"
   },
   {
@@ -1239,6 +1656,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Sweden",
+    "field": "",
     "title": "[Engineer] Alfred Nobel"
   },
   {
@@ -1248,7 +1666,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Russia",
-    "title": "[Football] Lev Ivanovich Yashin"
+    "field": "Football",
+    "title": "Lev Ivanovich Yashin\""
   },
   {
     "year": 1940,
@@ -1257,7 +1676,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Brazil",
-    "title": "[Football] Pelé"
+    "field": "Football",
+    "title": "Pelé"
   },
   {
     "year": 0,
@@ -1266,6 +1686,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "China",
+    "field": "",
     "title": "[GM] Ding Liren"
   },
   {
@@ -1275,16 +1696,18 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Hungary",
-    "title": "[Football] Dominik Szoboszlai"
+    "field": "Football",
+    "title": "Dominik Szoboszlai"
   },
   {
-    "year": 0,
+    "year": 1858,
     "month": 10,
     "date": 27,
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
-    "title": "[US President] Theodore Roosevelt"
+    "field": "President",
+    "title": "Theodore Roosevelt"
   },
   {
     "year": 1933,
@@ -1293,7 +1716,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Brazil",
-    "title": "[Football] Garrincha"
+    "field": "Football",
+    "title": "Garrincha"
   },
   {
     "year": 0,
@@ -1302,7 +1726,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Vietnam",
-    "title": "[Writer] Nam Cao"
+    "field": "Literature",
+    "title": "Nam Cao"
   },
   {
     "year": 1960,
@@ -1311,7 +1736,18 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Argentina",
-    "title": "[Football] Diego Maradona"
+    "field": "Football",
+    "title": "Diego Maradona"
+  },
+  {
+    "year": 1735,
+    "month": 10,
+    "date": 30,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President",
+    "title": "John Adams"
   },
   {
     "year": 1964,
@@ -1320,7 +1756,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Netherlands",
-    "title": "[Football] Marco van Basten"
+    "field": "Football",
+    "title": "Marco van Basten"
   },
   {
     "year": 1983,
@@ -1329,7 +1766,28 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Russia",
+    "field": "Chess",
     "title": "[GM] Alexander Grischuk"
+  },
+  {
+    "year": 1795,
+    "month": 11,
+    "date": 2,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President",
+    "title": "James K. Polk"
+  },
+  {
+    "year": 1865,
+    "month": 11,
+    "date": 2,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President",
+    "title": "Warren G. Harding"
   },
   {
     "year": 0,
@@ -1338,7 +1796,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Germany",
-    "title": "[Football] Gerd Müller"
+    "field": "Football",
+    "title": "Gerd Müller"
   },
   {
     "year": 1972,
@@ -1347,7 +1806,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Portugal",
-    "title": "[Football] Luís Figo"
+    "field": "Football",
+    "title": "Luís Figo\""
   },
   {
     "year": 0,
@@ -1356,7 +1816,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Poland",
-    "title": "[Physicist/Chemist] Marie Curie"
+    "field": "Physics",
+    "title": "Marie Curie"
   },
   {
     "year": 0,
@@ -1365,6 +1826,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Latvia",
+    "field": "Chess",
     "title": "[GM] Mikhail Tal"
   },
   {
@@ -1374,6 +1836,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
+    "field": "Chess",
     "title": "[GM] Daniel Naroditsky"
   },
   {
@@ -1383,6 +1846,7 @@
     "frequency": "annual",
     "type": "milestone",
     "country": "Germany",
+    "field": "",
     "title": "Fall of the Berlin Wall"
   },
   {
@@ -1392,7 +1856,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Germany",
-    "title": "[Football] Philipp Lahm"
+    "field": "Football",
+    "title": "Philipp Lahm"
   },
   {
     "year": 0,
@@ -1401,7 +1866,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Netherlands",
-    "title": "[Football] Georginio Wijnaldum"
+    "field": "Football",
+    "title": "Georginio Wijnaldum"
   },
   {
     "year": 0,
@@ -1410,7 +1876,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United Kingdom",
-    "title": "[Writer] Robert Louis Stevenson"
+    "field": "Literature",
+    "title": "Robert Louis Stevenson"
   },
   {
     "year": 0,
@@ -1419,6 +1886,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Vietnam",
+    "field": "Literature",
     "title": "Văn Cao"
   },
   {
@@ -1428,7 +1896,18 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Cuba",
+    "field": "Chess",
     "title": "[GM] José Raúl Capablanca"
+  },
+  {
+    "year": 1831,
+    "month": 11,
+    "date": 19,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President",
+    "title": "James A. Garfield"
   },
   {
     "year": 0,
@@ -1437,7 +1916,18 @@
     "frequency": "annual",
     "type": "celebration",
     "country": "Vietnam",
+    "field": "",
     "title": "[Vietnam] Teachers’ Day"
+  },
+  {
+    "year": 1942,
+    "month": 11,
+    "date": 20,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President",
+    "title": "Joe Biden"
   },
   {
     "year": 0,
@@ -1446,7 +1936,28 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Vietnam",
+    "field": "",
     "title": "Võ Văn Kiệt"
+  },
+  {
+    "year": 1804,
+    "month": 11,
+    "date": 23,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President",
+    "title": "Franklin Pierce"
+  },
+  {
+    "year": 1784,
+    "month": 11,
+    "date": 24,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President",
+    "title": "Zachary Taylor"
   },
   {
     "year": 0,
@@ -1455,7 +1966,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Spain",
-    "title": "[Football] Xabi Alonso"
+    "field": "Football",
+    "title": "Xabi Alonso"
   },
   {
     "year": 0,
@@ -1464,6 +1976,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
+    "field": "",
     "title": "[Comedian] Jon Stewart"
   },
   {
@@ -1473,6 +1986,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Norway",
+    "field": "",
     "title": "[GM] Magnus Carlsen"
   },
   {
@@ -1482,7 +1996,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
-    "title": "[Writer] Mark Twain"
+    "field": "Literature",
+    "title": "Mark Twain"
   },
   {
     "year": 0,
@@ -1491,6 +2006,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
+    "field": "Rapper",
     "title": "JAY-Z"
   },
   {
@@ -1500,7 +2016,18 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
+    "field": "Chess",
     "title": "[IM] Levy Rozman"
+  },
+  {
+    "year": 1782,
+    "month": 12,
+    "date": 5,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President",
+    "title": "Martin Van Buren"
   },
   {
     "year": 0,
@@ -1509,6 +2036,7 @@
     "frequency": "annual",
     "type": "holiday",
     "country": "Finland",
+    "field": "",
     "title": "[Finland] Independence Day"
   },
   {
@@ -1518,7 +2046,18 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
+    "field": "Chess",
     "title": "[GM] Hikaru Nakamura"
+  },
+  {
+    "year": 1912,
+    "month": 12,
+    "date": 9,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House",
+    "title": "Tip O'Neill"
   },
   {
     "year": 0,
@@ -1527,6 +2066,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "India",
+    "field": "Chess",
     "title": "[GM] Viswanathan Anand"
   },
   {
@@ -1536,7 +2076,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "England",
-    "title": "[Football] Michael Owen"
+    "field": "Football",
+    "title": "Michael Owen"
   },
   {
     "year": 0,
@@ -1545,6 +2086,7 @@
     "frequency": "annual",
     "type": "baptism",
     "country": "Germany",
+    "field": "Music",
     "title": "[Composer] Ludwig van Beethoven's Baptism Date"
   },
   {
@@ -1554,7 +2096,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "France",
-    "title": "[Football] Karim Benzema"
+    "field": "Football",
+    "title": "Karim Benzema"
   },
   {
     "year": 0,
@@ -1563,6 +2106,7 @@
     "frequency": "annual",
     "type": "coronation",
     "country": "Vietnam",
+    "field": "",
     "title": "[Monarch] Quang Trung (Nguyễn Huệ)'s Coronation"
   },
   {
@@ -1572,6 +2116,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Vietnam",
+    "field": "Literature",
     "title": "Hàn Mặc Tử"
   },
   {
@@ -1581,7 +2126,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Argentina",
-    "title": "[Football] Alexis Mac Allister"
+    "field": "Football",
+    "title": "Alexis Mac Allister"
   },
   {
     "year": 0,
@@ -1590,6 +2136,7 @@
     "frequency": "annual",
     "type": "holiday",
     "country": "International",
+    "field": "",
     "title": "Christmas Eve"
   },
   {
@@ -1599,6 +2146,7 @@
     "frequency": "annual",
     "type": "holiday",
     "country": "International",
+    "field": "",
     "title": "Christmas Day"
   },
   {
@@ -1608,6 +2156,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Vietnam",
+    "field": "",
     "title": "Phan Bội Châu"
   },
   {
@@ -1617,7 +2166,28 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Finland",
-    "title": "[Engineer] Linus Torvalds"
+    "field": "Engineer",
+    "title": "Linus Torvalds"
+  },
+  {
+    "year": 1856,
+    "month": 12,
+    "date": 28,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President",
+    "title": "Woodrow Wilson"
+  },
+  {
+    "year": 1808,
+    "month": 12,
+    "date": 29,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President",
+    "title": "Andrew Johnson"
   },
   {
     "year": 0,
@@ -1626,6 +2196,7 @@
     "frequency": "annual",
     "type": "holiday",
     "country": "International",
+    "field": "",
     "title": "International New Year's Eve"
   }
 ]
