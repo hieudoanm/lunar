@@ -10,17 +10,17 @@
     "title": "International New Year's Day"
   },
   {
-    "year": 0,
+    "year": 1914,
     "month": 1,
     "date": 1,
     "frequency": "annual",
     "type": "birthday",
     "country": "Vietnam",
-    "field": "",
+    "field": "General",
     "title": "Nguyễn Chí Thanh"
   },
   {
-    "year": 0,
+    "year": 1892,
     "month": 1,
     "date": 3,
     "frequency": "annual",
@@ -30,7 +30,7 @@
     "title": "J.R.R. Tolkien"
   },
   {
-    "year": 0,
+    "year": 1766,
     "month": 1,
     "date": 3,
     "frequency": "annual",
@@ -40,7 +40,7 @@
     "title": "Nguyễn Du"
   },
   {
-    "year": 0,
+    "year": 1643,
     "month": 1,
     "date": 4,
     "frequency": "annual",
@@ -50,7 +50,7 @@
     "title": "Isaac Newton"
   },
   {
-    "year": 0,
+    "year": 1986,
     "month": 1,
     "date": 4,
     "frequency": "annual",
@@ -80,7 +80,7 @@
     "title": "Millard Fillmore"
   },
   {
-    "year": 0,
+    "year": 1942,
     "month": 1,
     "date": 8,
     "frequency": "annual",
@@ -88,6 +88,16 @@
     "country": "United Kingdom",
     "field": "Physics",
     "title": "Stephen Hawking"
+  },
+  {
+    "year": 1986,
+    "month": 1,
+    "date": 8,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Spain",
+    "field": "Football",
+    "title": "David Silva"
   },
   {
     "year": 1902,
@@ -146,8 +156,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
-    "field": "",
-    "title": "[Polymath] Benjamin Franklin"
+    "field": "Polymath",
+    "title": "Benjamin Franklin"
   },
   {
     "year": 0,
@@ -178,6 +188,16 @@
     "country": "Portugal",
     "field": "Football",
     "title": "Eusébio"
+  },
+  {
+    "year": 1980,
+    "month": 1,
+    "date": 25,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Spain",
+    "field": "Football",
+    "title": "Xavi"
   },
   {
     "year": 0,
@@ -230,6 +250,16 @@
     "title": "Franklin D. Roosevelt"
   },
   {
+    "year": 1937,
+    "month": 1,
+    "date": 30,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Russia",
+    "field": "Chess",
+    "title": "Boris Spassky"
+  },
+  {
     "year": 1915,
     "month": 2,
     "date": 1,
@@ -238,6 +268,16 @@
     "country": "United Kingdom",
     "field": "Football",
     "title": "Stanley Matthews"
+  },
+  {
+    "year": 1987,
+    "month": 2,
+    "date": 2,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Spain",
+    "field": "Football",
+    "title": "Gerard Piqué"
   },
   {
     "year": 1985,
@@ -380,6 +420,16 @@
     "title": "Paul Ekman"
   },
   {
+    "year": 1963,
+    "month": 2,
+    "date": 17,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Basketball",
+    "title": "Michael Jordan"
+  },
+  {
     "year": 0,
     "month": 2,
     "date": 18,
@@ -398,6 +448,16 @@
     "country": "Italy",
     "field": "Football",
     "title": "Roberto Baggio"
+  },
+  {
+    "year": 1995,
+    "month": 2,
+    "date": 19,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Serbia",
+    "field": "Basketball",
+    "title": "Nikola Jokić"
   },
   {
     "year": 0,
@@ -490,6 +550,16 @@
     "title": "Albert Einstein"
   },
   {
+    "year": 1988,
+    "month": 3,
+    "date": 14,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Basketball",
+    "title": "Stephen Curry"
+  },
+  {
     "year": 1767,
     "month": 3,
     "date": 15,
@@ -540,7 +610,17 @@
     "title": "B. F. Skinner"
   },
   {
-    "year": 0,
+    "year": 1984,
+    "month": 3,
+    "date": 20,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Spain",
+    "field": "Football",
+    "title": "Fernando Torres"
+  },
+  {
+    "year": 1980,
     "month": 3,
     "date": 21,
     "frequency": "annual",
@@ -558,6 +638,16 @@
     "country": "Germany",
     "field": "Football",
     "title": "Lothar Matthäus"
+  },
+  {
+    "year": 1921,
+    "month": 3,
+    "date": 24,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Russia",
+    "field": "Chess",
+    "title": "Vasily Smyslov"
   },
   {
     "year": 1940,
@@ -580,14 +670,24 @@
     "title": "John Tyler"
   },
   {
+    "year": 1986,
+    "month": 3,
+    "date": 30,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Spain",
+    "field": "Football",
+    "title": "Sergio Ramos"
+  },
+  {
     "year": 0,
     "month": 3,
     "date": 31,
     "frequency": "annual",
     "type": "birthday",
     "country": "Germany",
-    "field": "",
-    "title": "[Composer] Johann Sebastian Bach"
+    "field": "Music",
+    "title": "Johann Sebastian Bach"
   },
   {
     "year": 1934,
@@ -626,8 +726,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Italy",
-    "field": "",
-    "title": "[Architect] Raphael"
+    "field": "Architecture",
+    "title": "Raphael"
   },
   {
     "year": 0,
@@ -676,8 +776,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
-    "field": "",
-    "title": "[Comedian] David Letterman"
+    "field": "Comedy",
+    "title": "David Letterman"
   },
   {
     "year": 1777,
@@ -696,7 +796,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Russia",
-    "field": "",
+    "field": "Chess",
     "title": "[GM] Garry Kasparov"
   },
   {
@@ -710,14 +810,34 @@
     "title": "Thomas Jefferson"
   },
   {
+    "year": 1978,
+    "month": 4,
+    "date": 13,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Spain",
+    "field": "Football",
+    "title": "Carles Puyol"
+  },
+  {
     "year": 0,
     "month": 4,
     "date": 15,
     "frequency": "annual",
     "type": "birthday",
     "country": "Italy",
-    "field": "",
-    "title": "[Polymath] Leonardo da Vinci"
+    "field": "Polymath",
+    "title": "Leonardo da Vinci"
+  },
+  {
+    "year": 1947,
+    "month": 4,
+    "date": 16,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Basketball",
+    "title": "Kareem Abdul-Jabbar"
   },
   {
     "year": 1996,
@@ -726,7 +846,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Russia",
-    "field": "",
+    "field": "Chess",
     "title": "[GM] Daniil Dubov"
   },
   {
@@ -786,8 +906,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United Kingdom",
-    "field": "",
-    "title": "[Comedian] John Oliver"
+    "field": "Comedy",
+    "title": "John Oliver"
   },
   {
     "year": 0,
@@ -810,6 +930,16 @@
     "title": "James Monroe"
   },
   {
+    "year": 1970,
+    "month": 4,
+    "date": 29,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Tennis",
+    "title": "Andre Agassi"
+  },
+  {
     "year": 0,
     "month": 4,
     "date": 30,
@@ -817,7 +947,7 @@
     "type": "holiday",
     "country": "Vietnam",
     "field": "",
-    "title": "[Vietnam] Reunification Day"
+    "title": "Reunification Day"
   },
   {
     "year": 1777,
@@ -837,7 +967,7 @@
     "type": "holiday",
     "country": "International",
     "field": "",
-    "title": "International Workers’ Day"
+    "title": "Workers’ Day"
   },
   {
     "year": 1856,
@@ -916,8 +1046,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
-    "field": "",
-    "title": "[Comedian] George Carlin"
+    "field": "Comedy",
+    "title": "George Carlin"
   },
   {
     "year": 0,
@@ -928,6 +1058,16 @@
     "country": "Vietnam",
     "field": "",
     "title": "Tôn Thất Thuyết"
+  },
+  {
+    "year": 1836,
+    "month": 5,
+    "date": 14,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Chess",
+    "title": "Wilhelm Steinitz"
   },
   {
     "year": 1997,
@@ -966,8 +1106,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Vietnam",
-    "field": "",
-    "title": "[President] Hồ Chí Minh"
+    "field": "President",
+    "title": "Hồ Chí Minh"
   },
   {
     "year": 1997,
@@ -978,6 +1118,26 @@
     "country": "Japan",
     "field": "Football",
     "title": "Mitoma Kaoru"
+  },
+  {
+    "year": 1901,
+    "month": 5,
+    "date": 20,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Netherlands",
+    "field": "Chess",
+    "title": "Max Euwe"
+  },
+  {
+    "year": 1981,
+    "month": 5,
+    "date": 20,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Spain",
+    "field": "Football",
+    "title": "Iker Casillas"
   },
   {
     "year": 0,
@@ -998,6 +1158,26 @@
     "country": "United Kingdom",
     "field": "Football",
     "title": "George Best"
+  },
+  {
+    "year": 1987,
+    "month": 5,
+    "date": 22,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Serbia",
+    "field": "Tennis",
+    "title": "Novak Djokovic"
+  },
+  {
+    "year": 1951,
+    "month": 5,
+    "date": 23,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Russia",
+    "field": "Chess",
+    "title": "Anatoly Karpov"
   },
   {
     "year": 2005,
@@ -1046,7 +1226,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "India",
-    "field": "",
+    "field": "Chess",
     "title": "[GM] Gukesh Dommaraju"
   },
   {
@@ -1056,8 +1236,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United Kingdom",
-    "field": "",
-    "title": "[Liverpool] Steven Gerrard"
+    "field": "Football",
+    "title": "Steven Gerrard"
   },
   {
     "year": 0,
@@ -1067,7 +1247,17 @@
     "type": "celebration",
     "country": "International",
     "field": "",
-    "title": "International Children’s Day"
+    "title": "Children’s Day"
+  },
+  {
+    "year": 1986,
+    "month": 6,
+    "date": 3,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Spain",
+    "field": "Tennis",
+    "title": "Rafael Nadal"
   },
   {
     "year": 0,
@@ -1130,6 +1320,16 @@
     "title": "Jordan Henderson"
   },
   {
+    "year": 1929,
+    "month": 6,
+    "date": 17,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Armenia",
+    "field": "Chess",
+    "title": "Tigran Petrosian"
+  },
+  {
     "year": 1623,
     "month": 6,
     "date": 19,
@@ -1180,6 +1380,16 @@
     "title": "Lionel Messi"
   },
   {
+    "year": 1975,
+    "month": 6,
+    "date": 25,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Russia",
+    "field": "Chess",
+    "title": "[GM] Vladimir Kramnik"
+  },
+  {
     "year": 0,
     "month": 6,
     "date": 26,
@@ -1196,7 +1406,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Vietnam",
-    "field": "",
+    "field": "Mathematics",
     "title": "Ngô Bảo Châu"
   },
   {
@@ -1337,7 +1547,7 @@
     "type": "birthday",
     "country": "Spain",
     "field": "Football",
-    "title": "Sergio Busquets\""
+    "title": "[DM] Sergio Busquets"
   },
   {
     "year": 0,
@@ -1430,6 +1640,16 @@
     "title": "Joël Matip"
   },
   {
+    "year": 1981,
+    "month": 8,
+    "date": 8,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Switzerland",
+    "field": "Tennis",
+    "title": "Roger Federer"
+  },
+  {
     "year": 1896,
     "month": 8,
     "date": 9,
@@ -1460,6 +1680,16 @@
     "title": "Steve Wozniak"
   },
   {
+    "year": 1959,
+    "month": 8,
+    "date": 14,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Basketball",
+    "title": "Magic Johnson"
+  },
+  {
     "year": 0,
     "month": 8,
     "date": 15,
@@ -1468,6 +1698,16 @@
     "country": "France",
     "field": "General",
     "title": "[General] Napoléon Bonaparte"
+  },
+  {
+    "year": 1911,
+    "month": 8,
+    "date": 17,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Russia",
+    "field": "Chess",
+    "title": "Mikhail Botvinnik"
   },
   {
     "year": 1946,
@@ -1816,7 +2056,7 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
-    "field": "",
+    "field": "Rapper",
     "title": "Eminem"
   },
   {
@@ -1827,7 +2067,7 @@
     "type": "celebration",
     "country": "Vietnam",
     "field": "",
-    "title": "[Vietnam] Women’s Day"
+    "title": "Women’s Day"
   },
   {
     "year": 0,
@@ -1836,8 +2076,8 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Sweden",
-    "field": "",
-    "title": "[Engineer] Alfred Nobel"
+    "field": "Engineer",
+    "title": "Alfred Nobel"
   },
   {
     "year": 1929,
@@ -1847,7 +2087,7 @@
     "type": "birthday",
     "country": "Russia",
     "field": "Football",
-    "title": "Lev Ivanovich Yashin\""
+    "title": "Lev Ivanovich Yashin"
   },
   {
     "year": 1940,
@@ -1866,8 +2106,18 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "China",
-    "field": "",
+    "field": "Chess",
     "title": "[GM] Ding Liren"
+  },
+  {
+    "year": 1996,
+    "month": 10,
+    "date": 24,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Basketball",
+    "title": "Jaylen Brown"
   },
   {
     "year": 0,
@@ -1948,6 +2198,16 @@
     "country": "Russia",
     "field": "Chess",
     "title": "[GM] Alexander Grischuk"
+  },
+  {
+    "year": 1892,
+    "month": 10,
+    "date": 31,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "France",
+    "field": "Chess",
+    "title": "Alexander Alekhine"
   },
   {
     "year": 1795,
@@ -2190,6 +2450,16 @@
     "title": "Mark Twain"
   },
   {
+    "year": 1981,
+    "month": 12,
+    "date": 3,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Spain",
+    "field": "Football",
+    "title": "David Villa"
+  },
+  {
     "year": 0,
     "month": 12,
     "date": 4,
@@ -2227,7 +2497,17 @@
     "type": "holiday",
     "country": "Finland",
     "field": "",
-    "title": "[Finland] Independence Day"
+    "title": "Independence Day"
+  },
+  {
+    "year": 1956,
+    "month": 12,
+    "date": 7,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Basketball",
+    "title": "Larry Bird"
   },
   {
     "year": 0,
@@ -2330,6 +2610,16 @@
     "title": "Christmas Eve"
   },
   {
+    "year": 1868,
+    "month": 12,
+    "date": 24,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Germany",
+    "field": "Chess",
+    "title": "Emanuel Lasker"
+  },
+  {
     "year": 0,
     "month": 12,
     "date": 25,
@@ -2378,6 +2668,16 @@
     "country": "United States",
     "field": "President",
     "title": "Andrew Johnson"
+  },
+  {
+    "year": 1984,
+    "month": 12,
+    "date": 30,
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Basketball",
+    "title": "LeBron James"
   },
   {
     "year": 0,
