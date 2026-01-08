@@ -490,7 +490,7 @@
     "field": "President"
   },
   {
-    "year": 0,
+    "year": 1812,
     "month": 2,
     "date": 7,
     "title": "Charles Dickens",
@@ -500,7 +500,7 @@
     "field": "Literature"
   },
   {
-    "year": 0,
+    "year": 1907,
     "month": 2,
     "date": 9,
     "title": "Trường Chinh",
@@ -510,7 +510,7 @@
     "field": ""
   },
   {
-    "year": 0,
+    "year": 1993,
     "month": 2,
     "date": 9,
     "title": "Endō Wataru",
@@ -700,6 +700,16 @@
     "field": ""
   },
   {
+    "year": 1980,
+    "month": 3,
+    "date": 1,
+    "title": "Ron Weasley",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United Kingdom",
+    "field": "Fictional"
+  },
+  {
     "year": 1847,
     "month": 3,
     "date": 3,
@@ -780,6 +790,16 @@
     "field": "Chess"
   },
   {
+    "year": 1989,
+    "month": 3,
+    "date": 9,
+    "title": "Kim Tae Yeon",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Korea",
+    "field": "Singer"
+  },
+  {
     "year": 1905,
     "month": 3,
     "date": 10,
@@ -840,7 +860,7 @@
     "field": "Banker"
   },
   {
-    "year": 0,
+    "year": 1879,
     "month": 3,
     "date": 14,
     "title": "Albert Einstein",
@@ -1658,6 +1678,16 @@
     "type": "birthday",
     "country": "Netherlands",
     "field": "Football"
+  },
+  {
+    "year": 1993,
+    "month": 5,
+    "date": 16,
+    "title": "IU",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Korea",
+    "field": "Singer"
   },
   {
     "year": 1970,
@@ -2490,6 +2520,16 @@
     "field": "Psychology"
   },
   {
+    "year": 1928,
+    "month": 7,
+    "date": 26,
+    "title": "Stanley Kubrick",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Director"
+  },
+  {
     "year": 1976,
     "month": 7,
     "date": 27,
@@ -2538,6 +2578,26 @@
     "type": "birthday",
     "country": "United States",
     "field": "Economist"
+  },
+  {
+    "year": 1965,
+    "month": 7,
+    "date": 31,
+    "title": "J. K. Rowling",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United Kingdom",
+    "field": "Literature"
+  },
+  {
+    "year": 1980,
+    "month": 7,
+    "date": 31,
+    "title": "Harry Potter",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United Kingdom",
+    "field": "Fictional"
   },
   {
     "year": 1970,
@@ -2690,6 +2750,16 @@
     "field": "Football"
   },
   {
+    "year": 1988,
+    "month": 8,
+    "date": 18,
+    "title": "G-Dragon",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Korea",
+    "field": "Rapper"
+  },
+  {
     "year": 1946,
     "month": 8,
     "date": 19,
@@ -2718,6 +2788,16 @@
     "type": "birthday",
     "country": "Poland",
     "field": "Football"
+  },
+  {
+    "year": 1920,
+    "month": 8,
+    "date": 22,
+    "title": "Ray Bradbury",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Literature"
   },
   {
     "year": 1978,
@@ -2987,13 +3067,33 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Uzbekistan",
-    "field": ""
+    "field": "Chess"
+  },
+  {
+    "year": 1979,
+    "month": 9,
+    "date": 19,
+    "title": "Hermione Granger",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United Kingdom",
+    "field": "Fictional"
   },
   {
     "year": 1948,
     "month": 9,
     "date": 20,
     "title": "George R. R. Martin",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Literature"
+  },
+  {
+    "year": 1947,
+    "month": 9,
+    "date": 21,
+    "title": "Stephen King",
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
@@ -3170,6 +3270,16 @@
     "field": "Football"
   },
   {
+    "year": 2013,
+    "month": 10,
+    "date": 8,
+    "title": "World Dyslexia Day",
+    "frequency": "annual",
+    "type": "celebration",
+    "country": "International",
+    "field": ""
+  },
+  {
     "year": 1993,
     "month": 10,
     "date": 9,
@@ -3208,6 +3318,16 @@
     "type": "birthday",
     "country": "United Kingdom",
     "field": "Football"
+  },
+  {
+    "year": 1892,
+    "month": 10,
+    "date": 12,
+    "title": "National Day",
+    "frequency": "annual",
+    "type": "holiday",
+    "country": "Spain",
+    "field": ""
   },
   {
     "year": 1925,
@@ -3268,6 +3388,16 @@
     "type": "founded",
     "country": "United Kingdom",
     "field": "Football"
+  },
+  {
+    "year": 1919,
+    "month": 10,
+    "date": 18,
+    "title": "Pierre Trudeau",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Canada",
+    "field": "Prime Minister"
   },
   {
     "year": 1910,
@@ -3630,6 +3760,16 @@
     "field": "Philosophy"
   },
   {
+    "year": 1960,
+    "month": 11,
+    "date": 10,
+    "title": "Neil Gaiman",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United Kingdom",
+    "field": "Literature"
+  },
+  {
     "year": 1983,
     "month": 11,
     "date": 11,
@@ -3872,6 +4012,16 @@
   {
     "year": 1995,
     "month": 12,
+    "date": 4,
+    "title": "JavaScript",
+    "frequency": "annual",
+    "type": "published",
+    "country": "United States",
+    "field": "Programming Language"
+  },
+  {
+    "year": 1995,
+    "month": 12,
     "date": 5,
     "title": "[IM] Levy Rozman",
     "frequency": "annual",
@@ -3970,6 +4120,16 @@
     "field": "Chair of the Federal Reserve"
   },
   {
+    "year": 1971,
+    "month": 12,
+    "date": 13,
+    "title": "J. Y. Park",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Singer"
+  },
+  {
     "year": 1979,
     "month": 12,
     "date": 14,
@@ -3980,10 +4140,30 @@
     "field": "Football"
   },
   {
+    "year": 1916,
+    "month": 12,
+    "date": 14,
+    "title": "Shirley Jackson",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United Kingdom",
+    "field": "Literature"
+  },
+  {
     "year": 1775,
     "month": 12,
     "date": 16,
     "title": "Jane Austen",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United Kingdom",
+    "field": "Literature"
+  },
+  {
+    "year": 1917,
+    "month": 12,
+    "date": 17,
+    "title": "Arthur C. Clarke",
     "frequency": "annual",
     "type": "birthday",
     "country": "United Kingdom",

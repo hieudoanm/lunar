@@ -1,4 +1,4 @@
-import { events } from '@calendar/data/events';
+import { events, Event } from '@calendar/data/events';
 import { months, monthsByQuarters } from '@calendar/data/months';
 import { yearsByDecades } from '@calendar/data/years';
 import {
@@ -21,18 +21,52 @@ const daysOfWeek: { short: string; long: string }[] = [
 
 const lunarCalendar = new LunarCalendar();
 
-const getEvents = (today: Date) => {
-  return events.filter(({ year = 0, month = 0, date = 0, frequency = '' }) => {
-    const isTodayYear: boolean =
-      year === 0 || frequency === 'annual'
-        ? true
-        : year === today.getFullYear();
-    const isTodayMonth: boolean =
-      month === 0 ? true : month === today.getMonth() + 1;
-    const isTodayDate: boolean = date === 0 ? true : date === today.getDate();
-    const isTodayEvent: boolean = isTodayYear && isTodayMonth && isTodayDate;
-    return isTodayEvent;
-  });
+const getEvents = (
+  today: Date,
+  { groupBy = '' }: { groupBy: string } = {
+    groupBy: '',
+  }
+) => {
+  const filteredEvents = events.filter(
+    ({ year = 0, month = 0, date = 0, frequency = '' }) => {
+      const isTodayYear: boolean =
+        year === 0 || frequency === 'annual'
+          ? true
+          : year === today.getFullYear();
+      const isTodayMonth: boolean =
+        month === 0 ? true : month === today.getMonth() + 1;
+      const isTodayDate: boolean = date === 0 ? true : date === today.getDate();
+      const isTodayEvent: boolean = isTodayYear && isTodayMonth && isTodayDate;
+      return isTodayEvent;
+    }
+  );
+
+  const groups: string[] =
+    groupBy !== ''
+      ? [
+          ...new Set(
+            filteredEvents.map((event) =>
+              (event[groupBy as keyof Event] ?? '').toString()
+            )
+          ),
+        ]
+      : [];
+
+  groups.sort((a, b) => (a > b ? 1 : -1));
+
+  const eventByGroups =
+    groups.length > 0
+      ? groups.map((group: string) => {
+          const eventsByGroup = filteredEvents.filter(
+            (event) => event[groupBy as keyof Event] === group
+          );
+          return { group, events: eventsByGroup };
+        })
+      : [{ group: '', events: filteredEvents }];
+
+  console.log({ groups, eventByGroups });
+
+  return { total: filteredEvents.length, events: eventByGroups };
 };
 
 const HomePage: NextPage = () => {
@@ -61,26 +95,35 @@ const HomePage: NextPage = () => {
     }
   };
 
+  const prefix = 'field';
+  const chosenDateEvents = getEvents(chosenDate, { groupBy: 'country' });
+
+  console.log(chosenDateEvents);
+
   return (
     <div className="bg-base-200 flex min-h-screen flex-col items-center justify-center p-4">
       <div className="flex flex-col gap-y-2 md:gap-y-4">
-        {getEvents(chosenDate).length > 0 && (
+        {chosenDateEvents.total > 0 && (
           <div className="flex flex-col gap-y-2 md:gap-y-4">
-            {getEvents(chosenDate).map(
-              (
-                { year = 0, month = 0, date = 0, title = '', country },
-                index = 0
-              ) => {
-                return (
-                  <div
-                    key={`${year}-${month}-${date}-${index}`}
-                    role="alert"
-                    className="alert alert-info">
-                    {date}/{month} - [{country}] {title}
-                  </div>
-                );
-              }
-            )}
+            {chosenDateEvents.events.map(({ group = '', events = [] }) => {
+              return (
+                <>
+                  {group && <p>{group}</p>}
+                  {events.map((event, index = 0) => {
+                    const { year = 0, month = 0, date = 0, title = '' } = event;
+                    const prefixValue = event[prefix as keyof Event];
+                    return (
+                      <div
+                        key={`${year}-${month}-${date}-${index}`}
+                        role="alert"
+                        className="alert alert-info">
+                        {date}/{month} - [{prefixValue}] {title}
+                      </div>
+                    );
+                  })}
+                </>
+              );
+            })}
           </div>
         )}
         <div className="bg-base-100 w-full max-w-fit rounded-lg p-4 shadow-lg">
@@ -208,7 +251,7 @@ const HomePage: NextPage = () => {
                       const hasEventsClass: string =
                         !isToday &&
                         currentMonth === 'current' &&
-                        toDateEvents.length > 0
+                        toDateEvents.total > 0
                           ? 'text-primary'
                           : '';
                       const toDateClassName =
