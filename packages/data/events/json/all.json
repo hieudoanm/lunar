@@ -220,6 +220,16 @@
     "field": "Football"
   },
   {
+    "year": 1992,
+    "month": 1,
+    "date": 11,
+    "title": "Dani Carvajal",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Spain",
+    "field": "Football"
+  },
+  {
     "year": 1757,
     "month": 1,
     "date": 11,
@@ -368,6 +378,16 @@
     "type": "birthday",
     "country": "United States",
     "field": "Supreme Court Chief Justice"
+  },
+  {
+    "year": 1984,
+    "month": 1,
+    "date": 23,
+    "title": "Arjen Robben",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Netherlands",
+    "field": "Football"
   },
   {
     "year": 1987,
@@ -520,6 +540,16 @@
     "field": "Football"
   },
   {
+    "year": 1969,
+    "month": 2,
+    "date": 1,
+    "title": "Gabriel Batistuta",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Argentina",
+    "field": "Football"
+  },
+  {
     "year": 1987,
     "month": 2,
     "date": 2,
@@ -588,6 +618,16 @@
     "type": "birthday",
     "country": "United Kingdom",
     "field": "Literature"
+  },
+  {
+    "year": 1995,
+    "month": 2,
+    "date": 8,
+    "title": "Joshua Kimmich",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Germany",
+    "field": "Football"
   },
   {
     "year": 1993,
@@ -680,6 +720,16 @@
     "field": "Football"
   },
   {
+    "year": 1988,
+    "month": 2,
+    "date": 14,
+    "title": "Ángel Di María",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Argentina",
+    "field": "Football"
+  },
+  {
     "year": 0,
     "month": 2,
     "date": 14,
@@ -737,6 +787,16 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Italy",
+    "field": "Football"
+  },
+  {
+    "year": 1975,
+    "month": 2,
+    "date": 18,
+    "title": "Gary Neville",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United Kingdom",
     "field": "Football"
   },
   {
@@ -798,6 +858,16 @@
     "type": "birthday",
     "country": "Israel",
     "field": "Historian"
+  },
+  {
+    "year": 1983,
+    "month": 2,
+    "date": 26,
+    "title": "Pepe",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Portugal",
+    "field": "Football"
   },
   {
     "year": 1802,
@@ -1180,6 +1250,16 @@
     "field": "Football"
   },
   {
+    "year": 1963,
+    "month": 3,
+    "date": 21,
+    "title": "Ronald Koeman",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Netherlands",
+    "field": "Football"
+  },
+  {
     "year": 1961,
     "month": 3,
     "date": 21,
@@ -1248,6 +1328,16 @@
     "type": "birthday",
     "country": "United States",
     "field": "Speaker of the House"
+  },
+  {
+    "year": 1986,
+    "month": 3,
+    "date": 27,
+    "title": "Manuel Neuer",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Germany",
+    "field": "Football"
   },
   {
     "year": 1963,
@@ -1440,6 +1530,16 @@
     "field": "Football"
   },
   {
+    "year": 1986,
+    "month": 4,
+    "date": 10,
+    "title": "Vincent Kompany",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Belgium",
+    "field": "Football"
+  },
+  {
     "year": 1991,
     "month": 4,
     "date": 11,
@@ -1507,6 +1607,16 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Spain",
+    "field": "Football"
+  },
+  {
+    "year": 1983,
+    "month": 4,
+    "date": 13,
+    "title": "Claudio Bravo",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Chile",
     "field": "Football"
   },
   {
@@ -1600,6 +1710,16 @@
     "field": "Football"
   },
   {
+    "year": 1992,
+    "month": 4,
+    "date": 21,
+    "title": "Isco",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Spain",
+    "field": "Football"
+  },
+  {
     "year": 1926,
     "month": 4,
     "date": 21,
@@ -1667,6 +1787,16 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Netherlands",
+    "field": "Football"
+  },
+  {
+    "year": 1993,
+    "month": 4,
+    "date": 25,
+    "title": "Raphaël Varane",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "France",
     "field": "Football"
   },
   {
@@ -1870,6 +2000,16 @@
     "field": "President"
   },
   {
+    "year": 1945,
+    "month": 5,
+    "date": 9,
+    "title": "Jupp Heynckes",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Germany",
+    "field": "Football"
+  },
+  {
     "year": 1988,
     "month": 5,
     "date": 10,
@@ -1918,6 +2058,16 @@
     "type": "birthday",
     "country": "Vietnam",
     "field": ""
+  },
+  {
+    "year": 1988,
+    "month": 5,
+    "date": 12,
+    "title": "Marcelo Vieira",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Brazil",
+    "field": "Football"
   },
   {
     "year": 1937,
@@ -2090,6 +2240,16 @@
     "field": "Football"
   },
   {
+    "year": 1987,
+    "month": 5,
+    "date": 22,
+    "title": "Arturo Vidal",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Chile",
+    "field": "Football"
+  },
+  {
     "year": 1859,
     "month": 5,
     "date": 22,
@@ -2250,6 +2410,16 @@
     "field": "Tennis"
   },
   {
+    "year": 1985,
+    "month": 6,
+    "date": 4,
+    "title": "Lukas Podolski",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Germany",
+    "field": "Football"
+  },
+  {
     "year": 1992,
     "month": 6,
     "date": 6,
@@ -2277,6 +2447,26 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Argentina",
+    "field": "Football"
+  },
+  {
+    "year": 1984,
+    "month": 6,
+    "date": 9,
+    "title": "Wesley Sneijder",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Netherlands",
+    "field": "Football"
+  },
+  {
+    "year": 1978,
+    "month": 6,
+    "date": 9,
+    "title": "Miroslav Klose",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Germany",
     "field": "Football"
   },
   {
@@ -2328,6 +2518,36 @@
     "type": "birthday",
     "country": "United States",
     "field": "President"
+  },
+  {
+    "year": 1992,
+    "month": 6,
+    "date": 15,
+    "title": "Mohamed Salah",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Egypt",
+    "field": "Football"
+  },
+  {
+    "year": 1964,
+    "month": 6,
+    "date": 15,
+    "title": "Michael Laudrup",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Denmark",
+    "field": "Football"
+  },
+  {
+    "year": 1969,
+    "month": 6,
+    "date": 15,
+    "title": "Oliver Kahn",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Germany",
+    "field": "Football"
   },
   {
     "year": 1902,
@@ -2620,6 +2840,16 @@
     "field": "Philosophy"
   },
   {
+    "year": 2003,
+    "month": 6,
+    "date": 29,
+    "title": "Jude Bellingham",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United Kingdom",
+    "field": "Football"
+  },
+  {
     "year": 1900,
     "month": 6,
     "date": 29,
@@ -2628,6 +2858,16 @@
     "type": "birthday",
     "country": "France",
     "field": "Literature"
+  },
+  {
+    "year": 1976,
+    "month": 7,
+    "date": 1,
+    "title": "Patrick Kluivert",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Netherlands",
+    "field": "Football"
   },
   {
     "year": 1915,
@@ -2712,6 +2952,16 @@
   {
     "year": 1975,
     "month": 7,
+    "date": 5,
+    "title": "Hernán Crespo",
+    "frequency": "annual",
+    "type": "founded",
+    "country": "Argentina",
+    "field": "Football"
+  },
+  {
+    "year": 1975,
+    "month": 7,
     "date": 6,
     "title": "50 Cent",
     "frequency": "annual",
@@ -2770,6 +3020,16 @@
     "field": "President"
   },
   {
+    "year": 1991,
+    "month": 7,
+    "date": 12,
+    "title": "James Rodríguez",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Colombia",
+    "field": "Football"
+  },
+  {
     "year": 1913,
     "month": 7,
     "date": 14,
@@ -2793,10 +3053,30 @@
     "year": 1988,
     "month": 7,
     "date": 16,
-    "title": "[DM] Sergio Busquets",
+    "title": "Sergio Busquets",
     "frequency": "annual",
     "type": "birthday",
     "country": "Spain",
+    "field": "Football"
+  },
+  {
+    "year": 1989,
+    "month": 7,
+    "date": 16,
+    "title": "Gareth Bale",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United Kingdom",
+    "field": "Football"
+  },
+  {
+    "year": 1972,
+    "month": 7,
+    "date": 17,
+    "title": "Jaap Stam",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Netherlands",
     "field": "Football"
   },
   {
@@ -2828,6 +3108,16 @@
     "type": "milestone",
     "country": "United States",
     "field": ""
+  },
+  {
+    "year": 2000,
+    "month": 7,
+    "date": 21,
+    "title": "Erling Haaland",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Norway",
+    "field": "Football"
   },
   {
     "year": 1899,
@@ -2910,6 +3200,26 @@
     "field": "Data Scientist"
   },
   {
+    "year": 1993,
+    "month": 7,
+    "date": 28,
+    "title": "Harry Kane",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United Kingdom",
+    "field": "Football"
+  },
+  {
+    "year": 1964,
+    "month": 7,
+    "date": 30,
+    "title": "Jürgen Klinsmann",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Germany",
+    "field": "Football"
+  },
+  {
     "year": 1992,
     "month": 7,
     "date": 30,
@@ -2990,6 +3300,16 @@
     "field": "Football"
   },
   {
+    "year": 1984,
+    "month": 8,
+    "date": 1,
+    "title": "Bastian Schweinsteiger",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Germany",
+    "field": "Football"
+  },
+  {
     "year": 1961,
     "month": 8,
     "date": 4,
@@ -3010,6 +3330,16 @@
     "field": "Astronaut"
   },
   {
+    "year": 1983,
+    "month": 8,
+    "date": 6,
+    "title": "Robin van Persie",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Netherlands",
+    "field": "Football"
+  },
+  {
     "year": 1991,
     "month": 8,
     "date": 8,
@@ -3017,6 +3347,16 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Cameroon",
+    "field": "Football"
+  },
+  {
+    "year": 1951,
+    "month": 8,
+    "date": 8,
+    "title": "Louis van Gaal",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Netherlands",
     "field": "Football"
   },
   {
@@ -3510,6 +3850,16 @@
     "field": "Chess"
   },
   {
+    "year": 1963,
+    "month": 9,
+    "date": 19,
+    "title": "David Seaman",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United Kingdom",
+    "field": "Football"
+  },
+  {
     "year": 1979,
     "month": 9,
     "date": 19,
@@ -3590,6 +3940,16 @@
     "field": "Chief Justice"
   },
   {
+    "year": 1976,
+    "month": 9,
+    "date": 26,
+    "title": "Michael Ballack",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Germany",
+    "field": "Football"
+  },
+  {
     "year": 1849,
     "month": 9,
     "date": 26,
@@ -3617,6 +3977,16 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Ukraine",
+    "field": "Football"
+  },
+  {
+    "year": 1962,
+    "month": 9,
+    "date": 30,
+    "title": "Frank Rijkaard",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Netherlands",
     "field": "Football"
   },
   {
@@ -3828,6 +4198,16 @@
     "type": "birthday",
     "country": "United States",
     "field": "President"
+  },
+  {
+    "year": 1988,
+    "month": 10,
+    "date": 15,
+    "title": "Mesut Özil",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Germany",
+    "field": "Football"
   },
   {
     "year": 1844,
@@ -4060,6 +4440,26 @@
     "field": "Football"
   },
   {
+    "year": 1973,
+    "month": 10,
+    "date": 29,
+    "title": "Robert Pirès",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "France",
+    "field": "Football"
+  },
+  {
+    "year": 1970,
+    "month": 10,
+    "date": 29,
+    "title": "Edwin van der Sar",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Netherlands",
+    "field": "Football"
+  },
+  {
     "year": 1917,
     "month": 10,
     "date": 29,
@@ -4190,6 +4590,16 @@
     "field": "Football"
   },
   {
+    "year": 1986,
+    "month": 11,
+    "date": 5,
+    "title": "Kasper Schmeichel",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Denmark",
+    "field": "Football"
+  },
+  {
     "year": 1978,
     "month": 11,
     "date": 7,
@@ -4197,6 +4607,16 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United Kingdom",
+    "field": "Football"
+  },
+  {
+    "year": 1990,
+    "month": 11,
+    "date": 7,
+    "title": "David de Gea",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Spain",
     "field": "Football"
   },
   {
@@ -4227,6 +4647,16 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United Kingdom",
+    "field": "Football"
+  },
+  {
+    "year": 1946,
+    "month": 11,
+    "date": 8,
+    "title": "Guus Hiddink",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Netherlands",
     "field": "Football"
   },
   {
@@ -4278,6 +4708,16 @@
     "type": "milestone",
     "country": "Germany",
     "field": ""
+  },
+  {
+    "year": 1969,
+    "month": 11,
+    "date": 10,
+    "title": "Jens Lehmann",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Germany",
+    "field": "Football"
   },
   {
     "year": 1483,
@@ -4358,6 +4798,16 @@
     "type": "birthday",
     "country": "United States",
     "field": "Director"
+  },
+  {
+    "year": 1963,
+    "month": 11,
+    "date": 18,
+    "title": "Peter Schmeichel",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Denmark",
+    "field": "Football"
   },
   {
     "year": 1888,
@@ -4670,6 +5120,16 @@
     "field": "Chess"
   },
   {
+    "year": 2001,
+    "month": 12,
+    "date": 12,
+    "title": "Michael Olise",
+    "frequency": "annual",
+    "type": "founded",
+    "country": "United Kingdom",
+    "field": "Football"
+  },
+  {
     "year": 1953,
     "month": 12,
     "date": 13,
@@ -4760,6 +5220,16 @@
     "field": "Football"
   },
   {
+    "year": 1988,
+    "month": 12,
+    "date": 19,
+    "title": "Alexis Sánchez",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Chile",
+    "field": "Football"
+  },
+  {
     "year": 1980,
     "month": 12,
     "date": 20,
@@ -4767,6 +5237,16 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "United Kingdom",
+    "field": "Football"
+  },
+  {
+    "year": 1998,
+    "month": 12,
+    "date": 20,
+    "title": "Kylian Mbappé",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "France",
     "field": "Football"
   },
   {
