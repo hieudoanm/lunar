@@ -1,4 +1,28 @@
 year,month,date,title,frequency,type,country,field
+1963,1,21,Hakeem Olajuwon,annual,birthday,United States,Nigeria
+1934,2,12,Bill Russell,annual,birthday,United States,Basketball
+1963,2,17,Michael Jordan,annual,birthday,United States,Basketball
+1995,2,19,Nikola Jokić,annual,birthday,Serbia,Basketball
+1999,2,28,Luka Dončić,annual,birthday,Slovenia,Basketball
+1998,3,3,Jayson Tatum,annual,birthday,United States,Basketball
+1972,3,6,Shaquille O'Neal,annual,birthday,United States,Basketball
+1993,3,11,Anthony Davis,annual,birthday,United States,Basketball
+1988,3,14,Stephen Curry,annual,birthday,United States,Basketball
+1994,3,16,Joel Embiid,annual,birthday,United States,Basketball
+1947,4,16,Kareem Abdul-Jabbar,annual,birthday,United States,Basketball
+1976,4,25,Tim Duncan,annual,birthday,United States,Basketball
+1984,5,6,Chris Paul,annual,birthday,United States,Basketball
+1978,6,19,Dirk Nowitzki,annual,birthday,Germany,Basketball
+1959,8,14,Magic Johnson,annual,birthday,United States,Basketball
+1936,8,21,Wilt Chamberlain,annual,birthday,United States,Basketball
+1978,8,23,Kobe Bryant,annual,birthday,United States,Basketball
+1989,8,26,James Harden,annual,birthday,United States,Basketball
+1988,9,29,Kevin Durant,annual,birthday,United States,Basketball
+1996,10,24,Jaylen Brown,annual,birthday,United States,Basketball
+1988,11,12,Russell Westbrook,annual,birthday,United States,Basketball
+1994,12,6,Giannis Antetokounmpo,annual,birthday,Greece,Basketball
+1956,12,7,Larry Bird,annual,birthday,United States,Basketball
+1984,12,30,LeBron James,annual,birthday,United States,Basketball
 1986,1,4,James Milner,annual,birthday,United Kingdom,Football
 1990,1,4,Toni Kroos,annual,birthday,Germany,Football
 1991,1,7,Eden Hazard,annual,birthday,Belgium,Football
@@ -244,9 +268,7 @@ year,month,date,title,frequency,type,country,field
 1564,2,15,Galileo Galilei,annual,birthday,Italy,Physics
 1835,2,15,Nguyễn Khuyến,annual,birthday,Vietnam,
 1934,2,15,Paul Ekman,annual,birthday,United States,Psychology
-1963,2,17,Michael Jordan,annual,birthday,United States,Basketball
 1965,2,18,Dr. Dre,annual,birthday,United States,
-1995,2,19,Nikola Jokić,annual,birthday,Serbia,Basketball
 1979,2,21,Jordan Peele,annual,birthday,United States,Director
 1732,2,22,George Washington,annual,birthday,United States,President
 1976,2,24,Yuval Noah Harari,annual,birthday,Israel,Historian
@@ -259,7 +281,6 @@ year,month,date,title,frequency,type,country,field
 1678,3,4,Antonio Vivaldi,annual,birthday,Italy,Music
 1934,3,5,Daniel Kahneman,annual,birthday,Israel,Economist
 1475,3,6,Michelangelo,annual,birthday,Italy,Architecture
-1972,3,6,Shaquille O'Neal,annual,birthday,United States,Basketball
 1929,3,6,Tom Foley,annual,birthday,United States,Speaker of the House
 1850,3,7,Champ Clark,annual,birthday,United States,Speaker of the House
 0,3,8,Women’s Day,annual,celebration,International,
@@ -271,7 +292,6 @@ year,month,date,title,frequency,type,country,field
 1991,3,13,[GM] Le Quang Liem,annual,birthday,Vietnam,Chess
 1956,3,13,Jamie Dimon,annual,birthday,United States,Banker
 1879,3,14,Albert Einstein,annual,birthday,Germany,Physics
-1988,3,14,Stephen Curry,annual,birthday,United States,Basketball
 1767,3,15,Andrew Jackson,annual,birthday,United States,President
 1933,3,15,Ruth Bader Ginsburg,annual,birthday,United States,Supreme Court Justice
 1751,3,16,James Madison,annual,birthday,United States,President
@@ -306,7 +326,6 @@ year,month,date,title,frequency,type,country,field
 1963,4,13,[GM] Garry Kasparov,annual,birthday,Russia,Chess
 1743,4,13,Thomas Jefferson,annual,birthday,United States,President
 1452,4,15,Leonardo da Vinci,annual,birthday,Italy,Polymath
-1947,4,16,Kareem Abdul-Jabbar,annual,birthday,United States,Basketball
 1889,4,16,Charlie Chaplin,annual,birthday,United Kingdom,Comedy
 1996,4,18,[GM] Daniil Dubov,annual,birthday,Russia,Chess
 1926,4,21,Elizabeth II,annual,birthday,United Kingdom,Monarch
@@ -410,7 +429,6 @@ year,month,date,title,frequency,type,country,field
 1950,8,11,Steve Wozniak,annual,birthday,United States,Engineer
 1887,8,12,Erwin Schrödinger,annual,birthday,Austria,Physics
 1946,8,13,Janet Yellen,annual,birthday,United States,Secretary of the Treasury
-1959,8,14,Magic Johnson,annual,birthday,United States,Basketball
 1769,8,15,Napoléon Bonaparte,annual,birthday,France,General
 1963,8,15,Alejandro González Iñárritu,annual,birthday,United States,Mexico
 1911,8,17,Mikhail Botvinnik,annual,birthday,Russia,Chess
@@ -418,7 +436,6 @@ year,month,date,title,frequency,type,country,field
 1946,8,19,Bill Clinton,annual,birthday,United States,President
 1890,8,20,H. P. Lovecraft,annual,birthday,United States,Literature
 1920,8,22,Ray Bradbury,annual,birthday,United States,Literature
-1978,8,23,Kobe Bryant,annual,birthday,United States,Basketball
 1973,8,24,Dave Chappelle,annual,birthday,United States,Comedy
 1911,8,25,Võ Nguyên Giáp,annual,birthday,Vietnam,General
 1908,8,27,Lyndon B. Johnson,annual,birthday,United States,President
@@ -469,7 +486,6 @@ year,month,date,title,frequency,type,country,field
 1990,10,21,[Chess] Maxime Vachier-Lagrave,annual,birthday,France,Chess
 1954,10,23,Ang Lee,annual,birthday,Taiwan,Director
 1992,10,24,[GM] Ding Liren,annual,birthday,China,Chess
-1996,10,24,Jaylen Brown,annual,birthday,United States,Basketball
 1881,10,25,Pablo Picasso,annual,birthday,Spain,Painter
 1947,10,26,Hillary Clinton,annual,birthday,United States,Secretary of State
 1858,10,27,Theodore Roosevelt,annual,birthday,United States,President
@@ -514,7 +530,6 @@ year,month,date,title,frequency,type,country,field
 1995,12,5,[IM] Levy Rozman,annual,birthday,United States,Chess
 1782,12,5,Martin Van Buren,annual,birthday,United States,President
 1917,12,6,Independence Day,annual,holiday,Finland,
-1956,12,7,Larry Bird,annual,birthday,United States,Basketball
 2005,12,8,[GM] Javokhir Sindarov,annual,birthday,Uzbekistan,Chess
 1987,12,9,[GM] Hikaru Nakamura,annual,birthday,United States,Chess
 1912,12,9,Tip O'Neill,annual,birthday,United States,Speaker of the House
@@ -538,7 +553,6 @@ year,month,date,title,frequency,type,country,field
 1903,12,28,John von Neumann,annual,birthday,United States,Mathematics
 1922,12,28,Stan Lee,annual,birthday,United States,Comics
 1808,12,29,Andrew Johnson,annual,birthday,United States,President
-1984,12,30,LeBron James,annual,birthday,United States,Basketball
 -1,12,31,International New Year's Eve,annual,holiday,International,
 1880,12,31,George C. Marshall,annual,birthday,United States,Secretary of State
 1824,12,31,Theodore M. Pomeroy,annual,birthday,United States,Speaker of the House

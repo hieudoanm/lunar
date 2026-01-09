@@ -360,6 +360,16 @@
     "field": "TV Series"
   },
   {
+    "year": 1963,
+    "month": 1,
+    "date": 21,
+    "title": "Hakeem Olajuwon",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Nigeria"
+  },
+  {
     "year": 1561,
     "month": 1,
     "date": 22,
@@ -690,6 +700,16 @@
     "field": "Supreme Court Chief Justice"
   },
   {
+    "year": 1934,
+    "month": 2,
+    "date": 12,
+    "title": "Bill Russell",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Basketball"
+  },
+  {
     "year": 1809,
     "month": 2,
     "date": 12,
@@ -880,6 +900,16 @@
     "field": "Literature"
   },
   {
+    "year": 1999,
+    "month": 2,
+    "date": 28,
+    "title": "Luka Dončić",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Slovenia",
+    "field": "Basketball"
+  },
+  {
     "year": 1906,
     "month": 3,
     "date": 1,
@@ -918,6 +948,16 @@
     "type": "birthday",
     "country": "Russia",
     "field": "President"
+  },
+  {
+    "year": 1998,
+    "month": 3,
+    "date": 3,
+    "title": "Jayson Tatum",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Basketball"
   },
   {
     "year": 1847,
@@ -960,16 +1000,6 @@
     "field": "Economist"
   },
   {
-    "year": 1475,
-    "month": 3,
-    "date": 6,
-    "title": "Michelangelo",
-    "frequency": "annual",
-    "type": "birthday",
-    "country": "Italy",
-    "field": "Architecture"
-  },
-  {
     "year": 1972,
     "month": 3,
     "date": 6,
@@ -978,6 +1008,16 @@
     "type": "birthday",
     "country": "United States",
     "field": "Basketball"
+  },
+  {
+    "year": 1475,
+    "month": 3,
+    "date": 6,
+    "title": "Michelangelo",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Italy",
+    "field": "Architecture"
   },
   {
     "year": 1929,
@@ -1050,6 +1090,16 @@
     "field": "Mangaka"
   },
   {
+    "year": 1993,
+    "month": 3,
+    "date": 11,
+    "title": "Anthony Davis",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Basketball"
+  },
+  {
     "year": 1994,
     "month": 3,
     "date": 11,
@@ -1110,16 +1160,6 @@
     "field": "Banker"
   },
   {
-    "year": 1879,
-    "month": 3,
-    "date": 14,
-    "title": "Albert Einstein",
-    "frequency": "annual",
-    "type": "birthday",
-    "country": "Germany",
-    "field": "Physics"
-  },
-  {
     "year": 1988,
     "month": 3,
     "date": 14,
@@ -1128,6 +1168,16 @@
     "type": "birthday",
     "country": "United States",
     "field": "Basketball"
+  },
+  {
+    "year": 1879,
+    "month": 3,
+    "date": 14,
+    "title": "Albert Einstein",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Germany",
+    "field": "Physics"
   },
   {
     "year": 1767,
@@ -1148,6 +1198,16 @@
     "type": "birthday",
     "country": "United States",
     "field": "Supreme Court Justice"
+  },
+  {
+    "year": 1994,
+    "month": 3,
+    "date": 16,
+    "title": "Joel Embiid",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Basketball"
   },
   {
     "year": 1751,
@@ -1650,6 +1710,16 @@
     "field": "Polymath"
   },
   {
+    "year": 1947,
+    "month": 4,
+    "date": 16,
+    "title": "Kareem Abdul-Jabbar",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Basketball"
+  },
+  {
     "year": 1894,
     "month": 4,
     "date": 16,
@@ -1668,16 +1738,6 @@
     "type": "birthday",
     "country": "Spain",
     "field": "Football"
-  },
-  {
-    "year": 1947,
-    "month": 4,
-    "date": 16,
-    "title": "Kareem Abdul-Jabbar",
-    "frequency": "annual",
-    "type": "birthday",
-    "country": "United States",
-    "field": "Basketball"
   },
   {
     "year": 1889,
@@ -1778,6 +1838,16 @@
     "type": "founded",
     "country": "United Kingdom",
     "field": "Football"
+  },
+  {
+    "year": 1976,
+    "month": 4,
+    "date": 25,
+    "title": "Tim Duncan",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Basketball"
   },
   {
     "year": 1947,
@@ -1918,6 +1988,16 @@
     "type": "birthday",
     "country": "Germany",
     "field": "Economist"
+  },
+  {
+    "year": 1984,
+    "month": 5,
+    "date": 6,
+    "title": "Chris Paul",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Basketball"
   },
   {
     "year": 1856,
@@ -2628,6 +2708,16 @@
     "type": "birthday",
     "country": "Italy",
     "field": "Football"
+  },
+  {
+    "year": 1978,
+    "month": 6,
+    "date": 19,
+    "title": "Dirk Nowitzki",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Germany",
+    "field": "Basketball"
   },
   {
     "year": 1623,
@@ -3440,16 +3530,6 @@
     "field": "Secretary of the Treasury"
   },
   {
-    "year": 1984,
-    "month": 8,
-    "date": 14,
-    "title": "Giorgio Chiellini",
-    "frequency": "annual",
-    "type": "birthday",
-    "country": "Italy",
-    "field": "Football"
-  },
-  {
     "year": 1959,
     "month": 8,
     "date": 14,
@@ -3458,6 +3538,16 @@
     "type": "birthday",
     "country": "United States",
     "field": "Basketball"
+  },
+  {
+    "year": 1984,
+    "month": 8,
+    "date": 14,
+    "title": "Giorgio Chiellini",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Italy",
+    "field": "Football"
   },
   {
     "year": 1769,
@@ -3530,6 +3620,16 @@
     "field": "Literature"
   },
   {
+    "year": 1936,
+    "month": 8,
+    "date": 21,
+    "title": "Wilt Chamberlain",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Basketball"
+  },
+  {
     "year": 1988,
     "month": 8,
     "date": 21,
@@ -3578,6 +3678,16 @@
     "type": "birthday",
     "country": "Vietnam",
     "field": "General"
+  },
+  {
+    "year": 1989,
+    "month": 8,
+    "date": 26,
+    "title": "James Harden",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Basketball"
   },
   {
     "year": 1908,
@@ -3970,6 +4080,16 @@
     "field": "Football"
   },
   {
+    "year": 1988,
+    "month": 9,
+    "date": 29,
+    "title": "Kevin Durant",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Basketball"
+  },
+  {
     "year": 1976,
     "month": 9,
     "date": 29,
@@ -4350,6 +4470,16 @@
     "field": "Director"
   },
   {
+    "year": 1996,
+    "month": 10,
+    "date": 24,
+    "title": "Jaylen Brown",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Basketball"
+  },
+  {
     "year": 1985,
     "month": 10,
     "date": 24,
@@ -4368,16 +4498,6 @@
     "type": "birthday",
     "country": "China",
     "field": "Chess"
-  },
-  {
-    "year": 1996,
-    "month": 10,
-    "date": 24,
-    "title": "Jaylen Brown",
-    "frequency": "annual",
-    "type": "birthday",
-    "country": "United States",
-    "field": "Basketball"
   },
   {
     "year": 2000,
@@ -4760,6 +4880,16 @@
     "field": "Football"
   },
   {
+    "year": 1988,
+    "month": 11,
+    "date": 12,
+    "title": "Russell Westbrook",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Basketball"
+  },
+  {
     "year": 1850,
     "month": 11,
     "date": 13,
@@ -5048,6 +5178,16 @@
     "type": "birthday",
     "country": "United States",
     "field": "President"
+  },
+  {
+    "year": 1994,
+    "month": 12,
+    "date": 6,
+    "title": "Giannis Antetokounmpo",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Greece",
+    "field": "Basketball"
   },
   {
     "year": 1917,
