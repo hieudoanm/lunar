@@ -124,6 +124,7 @@ year,month,date,title,frequency,type,country,field
 1981,3,30,Park Ji-sung,annual,birthday,Korea,Football
 1853,3,30,Vincent van Gogh,annual,birthday,Netherlands,Painter
 1685,3,31,Johann Sebastian Bach,annual,birthday,Germany,Music
+1976,4,1,Clarence Seedorf,annual,birthday,Netherlands,Football
 1805,4,2,Hans Christian Andersen,annual,birthday,Denmark,Literature
 1934,4,3,Jane Goodall,annual,birthday,United Kingdom,
 1961,4,3,Eddie Murphy,annual,birthday,United States,Comedy
@@ -140,10 +141,10 @@ year,month,date,title,frequency,type,country,field
 1947,4,12,David Letterman,annual,birthday,United States,Comedy
 1777,4,12,Henry Clay,annual,birthday,United States,Speaker of the House
 1985,4,12,[GM] Shakhriyar Mamedyarov,annual,birthday,Azerbaijan,Chess
-0,4,13,[GM] Garry Kasparov,annual,birthday,Russia,Chess
-0,4,13,Thomas Jefferson,annual,birthday,United States,President
+1963,4,13,[GM] Garry Kasparov,annual,birthday,Russia,Chess
+1743,4,13,Thomas Jefferson,annual,birthday,United States,President
 1978,4,13,Carles Puyol,annual,birthday,Spain,Football
-0,4,15,Leonardo da Vinci,annual,birthday,Italy,Polymath
+1452,4,15,Leonardo da Vinci,annual,birthday,Italy,Polymath
 1947,4,16,Kareem Abdul-Jabbar,annual,birthday,United States,Basketball
 1889,4,16,Charlie Chaplin,annual,birthday,United Kingdom,Comedy
 1894,4,16,Manchester City F.C.,annual,founded,United Kingdom,Football
@@ -158,8 +159,8 @@ year,month,date,title,frequency,type,country,field
 1947,4,25,ANZAC Day (Australia & New Zealand),annual,celebration,Australia,
 1998,4,26,[GM] Jan-Krzysztof Duda,annual,birthday,Poland,Chess
 1822,4,27,Ulysses S. Grant,annual,birthday,United States,President
-0,4,23,John Oliver,annual,birthday,United Kingdom,Comedy
-0,4,25,Johan Cruyff,annual,birthday,Netherlands,Football
+1977,4,23,John Oliver,annual,birthday,United Kingdom,Comedy
+1947,4,25,Johan Cruyff,annual,birthday,Netherlands,Football
 1758,4,28,James Monroe,annual,birthday,United States,President
 1970,4,29,Andre Agassi,annual,birthday,United States,Tennis
 1745,4,29,Oliver Ellsworth,annual,birthday,United States,Supreme Court Chief Justice

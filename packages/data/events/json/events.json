@@ -1250,6 +1250,16 @@
     "field": "Music"
   },
   {
+    "year": 1976,
+    "month": 4,
+    "date": 1,
+    "title": "Clarence Seedorf",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Netherlands",
+    "field": "Football"
+  },
+  {
     "year": 1805,
     "month": 4,
     "date": 2,
@@ -1410,7 +1420,7 @@
     "field": "Chess"
   },
   {
-    "year": 0,
+    "year": 1963,
     "month": 4,
     "date": 13,
     "title": "[GM] Garry Kasparov",
@@ -1420,7 +1430,7 @@
     "field": "Chess"
   },
   {
-    "year": 0,
+    "year": 1743,
     "month": 4,
     "date": 13,
     "title": "Thomas Jefferson",
@@ -1440,7 +1450,7 @@
     "field": "Football"
   },
   {
-    "year": 0,
+    "year": 1452,
     "month": 4,
     "date": 15,
     "title": "Leonardo da Vinci",
@@ -1590,7 +1600,7 @@
     "field": "President"
   },
   {
-    "year": 0,
+    "year": 1977,
     "month": 4,
     "date": 23,
     "title": "John Oliver",
@@ -1600,7 +1610,7 @@
     "field": "Comedy"
   },
   {
-    "year": 0,
+    "year": 1947,
     "month": 4,
     "date": 25,
     "title": "Johan Cruyff",

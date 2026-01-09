@@ -1171,6 +1171,16 @@ export const events: Event[] = [
     field: 'Speaker of the House',
   },
   {
+    year: 1947,
+    month: 3,
+    date: 25,
+    title: 'Elton John',
+    frequency: 'annual',
+    type: 'birthday',
+    country: 'United Kingdom',
+    field: 'Singer',
+  },
+  {
     year: 1963,
     month: 3,
     date: 27,
@@ -1249,6 +1259,16 @@ export const events: Event[] = [
     type: 'birthday',
     country: 'Germany',
     field: 'Music',
+  },
+  {
+    year: 1976,
+    month: 4,
+    date: 1,
+    title: 'Clarence Seedorf',
+    frequency: 'annual',
+    type: 'birthday',
+    country: 'Netherlands',
+    field: 'Football',
   },
   {
     year: 1805,
@@ -1411,7 +1431,7 @@ export const events: Event[] = [
     field: 'Chess',
   },
   {
-    year: 0,
+    year: 1963,
     month: 4,
     date: 13,
     title: '[GM] Garry Kasparov',
@@ -1421,7 +1441,7 @@ export const events: Event[] = [
     field: 'Chess',
   },
   {
-    year: 0,
+    year: 1743,
     month: 4,
     date: 13,
     title: 'Thomas Jefferson',
@@ -1441,7 +1461,7 @@ export const events: Event[] = [
     field: 'Football',
   },
   {
-    year: 0,
+    year: 1452,
     month: 4,
     date: 15,
     title: 'Leonardo da Vinci',
@@ -1591,7 +1611,7 @@ export const events: Event[] = [
     field: 'President',
   },
   {
-    year: 0,
+    year: 1977,
     month: 4,
     date: 23,
     title: 'John Oliver',
@@ -1601,7 +1621,7 @@ export const events: Event[] = [
     field: 'Comedy',
   },
   {
-    year: 0,
+    year: 1947,
     month: 4,
     date: 25,
     title: 'Johan Cruyff',
