@@ -22,6 +22,7 @@ year,month,date,title,frequency,type,country,field
 1990,1,12,Sergey Karjakin,annual,birthday,Russia,Chess
 1949,1,12,Murakami Haruki,annual,birthday,Japan,Literature
 1997,1,13,Luis Díaz,annual,birthday,Colombia,Football
+1808,1,13,Salmon P. Chase,annual,birthday,United States,Supreme Court Chief Justice
 1929,1,15,"Martin Luther King, Jr.",annual,birthday,United States,
 1995,1,16,Minamino Takumi,annual,birthday,Japan,Football
 1706,1,17,Benjamin Franklin,annual,birthday,United States,Polymath
@@ -30,12 +31,14 @@ year,month,date,title,frequency,type,country,field
 1930,1,20,Buzz Aldrin,annual,birthday,United States,Astronaut
 2008,1,20,Breaking Bad,annual,released,United States,TV Series
 1561,1,22,Francis Bacon,annual,birthday,United Kingdom,Philosophy
+1890,1,22,Fred M. Vinson,annual,birthday,United States,Supreme Court Chief Justice
 1987,1,24,Luis Suárez,annual,birthday,Uruguay,Football
 1942,1,25,Eusébio,annual,birthday,Portugal,Football
 1980,1,25,Xavi,annual,birthday,Spain,Football
 1788,1,26,Australia Day,annual,holiday,Australia,
 1963,1,26,José Mourinho,annual,birthday,Portugal,Football
 1756,1,27,Wolfgang Amadeus Mozart,annual,birthday,Austria,
+1955,1,27,John Roberts,annual,birthday,United States,Supreme Court Chief Justice
 1978,1,28,Jamie Carragher,annual,birthday,United Kingdom,Football
 1843,1,29,William McKinley,annual,birthday,United States,President
 1882,1,30,Franklin D. Roosevelt,annual,birthday,United States,President
@@ -54,6 +57,7 @@ year,month,date,title,frequency,type,country,field
 1773,2,9,William Henry Harrison,annual,birthday,United States,President
 1988,2,10,Daniel Kwan,annual,birthday,United States,Director
 1847,2,11,Thomas Edison,annual,birthday,United States,Engineer
+1833,2,11,Melville Fuller,annual,birthday,United States,Supreme Court Chief Justice
 1809,2,12,Abraham Lincoln,annual,birthday,United States,President
 1809,2,12,Charles Darwin,annual,birthday,United Kingdom,Biology
 0,2,14,Valentine’s Day,annual,celebration,International,
@@ -82,6 +86,7 @@ year,month,date,title,frequency,type,country,field
 1905,3,10,Chelsea F.C.,annual,founded,United Kingdom,Football
 1934,3,10,Motoo Abiko,annual,birthday,Japan,Mangaka
 1994,3,11,Andy Robertson,annual,birthday,United Kingdom,Football
+1936,3,11,Antonin Scalia,annual,birthday,United States,Supreme Court Justice
 1987,3,12,[GM] Teimour Radjabov,annual,birthday,Azerbaijan,Chess
 1991,3,13,[GM] Le Quang Liem,annual,birthday,Vietnam,Chess
 1956,3,13,Jamie Dimon,annual,birthday,United States,Banker
@@ -90,8 +95,10 @@ year,month,date,title,frequency,type,country,field
 1767,3,15,Andrew Jackson,annual,birthday,United States,President
 1933,3,15,Ruth Bader Ginsburg,annual,birthday,United States,Supreme Court Justice
 1751,3,16,James Madison,annual,birthday,United States,President
+1777,3,17,Roger B. Taney,annual,birthday,United States,Supreme Court Chief Justice
 1837,3,18,Grover Cleveland,annual,birthday,United States,President
 1969,3,18,[GM] Vasyl Ivanchuk,annual,birthday,Ukraine,Chess
+1891,3,19,Earl Warren,annual,birthday,United States,Supreme Court Chief Justice
 1904,3,20,B. F. Skinner,annual,birthday,United States,Psychology
 1984,3,20,Fernando Torres,annual,birthday,Spain,Football
 1980,3,21,Ronaldinho,annual,birthday,Brazil,Football
@@ -120,6 +127,7 @@ year,month,date,title,frequency,type,country,field
 1992,4,10,Sadio Mané,annual,birthday,Senegal,Football
 1991,4,11,Thiago Alcântara,annual,birthday,Spain,Football
 1893,4,11,Dean Acheson,annual,birthday,United States,Secretary of State
+1862,4,11,Charles Evans Hughes,annual,birthday,United States,Supreme Court Chief Justice
 1947,4,12,David Letterman,annual,birthday,United States,Comedy
 1777,4,12,Henry Clay,annual,birthday,United States,Speaker of the House
 1985,4,12,[GM] Shakhriyar Mamedyarov,annual,birthday,Azerbaijan,Chess
@@ -145,6 +153,7 @@ year,month,date,title,frequency,type,country,field
 0,4,25,Johan Cruyff,annual,birthday,Netherlands,Football
 1758,4,28,James Monroe,annual,birthday,United States,President
 1970,4,29,Andre Agassi,annual,birthday,United States,Tennis
+1745,4,29,Oliver Ellsworth,annual,birthday,United States,Supreme Court Chief Justice
 0,4,30,Reunification Day,annual,holiday,Vietnam,
 1777,4,30,Carl Friedrich Gauss,annual,birthday,Germany,Polymath
 1916,4,30,Claude Shannon,annual,birthday,United States,Mathematics
@@ -250,6 +259,7 @@ year,month,date,title,frequency,type,country,field
 1951,7,21,Robin Williams,annual,birthday,United States,Comedy
 1980,7,22,Dirk Kuyt,annual,birthday,Netherlands,Football
 1910,7,23,Tạ Quang Bửu,annual,birthday,Vietnam,
+1936,7,23,Anthony Kennedy,annual,birthday,United States,Supreme Court Justice
 1875,7,26,Carl Jung,annual,birthday,Switzerland,Psychology
 1928,7,26,Stanley Kubrick,annual,birthday,United States,Director
 1976,7,27,Demis Hassabis,annual,birthday,United Kingdom,Data Scientist
@@ -304,6 +314,8 @@ year,month,date,title,frequency,type,country,field
 1969,9,14,Bong Joon-ho,annual,birthday,Korea,Director
 1890,9,15,Agatha Christie,annual,birthday,United Kingdom,Literature
 1957,9,15,William Howard Taft,annual,birthday,United States,President
+1739,9,17,John Rutledge,annual,birthday,United States,Supreme Court Chief Justice
+1907,9,17,Warren E. Burger,annual,birthday,United States,Supreme Court Chief Justice
 1976,9,18,Ronaldo,annual,birthday,Brazil,Football
 2004,9,18,[GM] Nodirbek Abdusattorov,annual,birthday,Uzbekistan,Chess
 1979,9,19,Hermione Granger,annual,birthday,United Kingdom,Fictional
@@ -317,6 +329,7 @@ year,month,date,title,frequency,type,country,field
 1849,9,26,Ivan Pavlov,annual,birthday,Russia,Psychology
 1924,10,1,Jimmy Carter,annual,birthday,United States,President
 1914,10,1,Lê Trọng Tấn,annual,birthday,Vietnam,
+1924,10,1,William Rehnquist,annual,birthday,United States,Supreme Court Chief Justice
 1991,10,2,Roberto Firmino,annual,birthday,Brazil,Football
 1992,10,2,Alisson Becker,annual,birthday,Brazil,Football
 1990,10,3,German Unity Day,annual,holiday,Germany,
@@ -331,6 +344,7 @@ year,month,date,title,frequency,type,country,field
 1964,10,9,Guillermo del Toro,annual,birthday,United States,Director
 1911,10,10,Lê Đức Thọ,annual,birthday,Vietnam,
 1937,10,11,Bobby Charlton,annual,birthday,United Kingdom,Football
+1872,10,11,Harlan F. Stone,annual,birthday,United States,Supreme Court Chief Justice
 1892,10,12,National Day,annual,holiday,Spain,
 1925,10,13,Margaret Thatcher,annual,birthday,United Kingdom,Prime Minister
 1890,10,14,Dwight D. Eisenhower,annual,birthday,United States,President
@@ -367,6 +381,7 @@ year,month,date,title,frequency,type,country,field
 1865,11,2,Warren G. Harding,annual,birthday,United States,President
 1952,11,2,Larry Fink,annual,birthday,United States,Banker
 1945,11,3,Gerd Müller,annual,birthday,Germany,Football
+1845,11,3,Edward Douglass White,annual,birthday,United States,Supreme Court Chief Justice
 1972,11,4,Luís Figo,annual,birthday,Portugal,Football
 1867,11,7,Marie Curie,annual,birthday,Poland,Physics
 1913,11,7,Albert Camus,annual,birthday,France,Literature
@@ -393,6 +408,7 @@ year,month,date,title,frequency,type,country,field
 1981,11,25,Xabi Alonso,annual,birthday,Spain,Football
 1962,11,28,Jon Stewart,annual,birthday,United States,Comedy
 1898,11,29,C. S. Lewis,annual,birthday,United Kingdom,Literature
+1816,11,29,Morrison Waite,annual,birthday,United States,Supreme Court Chief Justice
 1990,11,30,[GM] Magnus Carlsen,annual,birthday,Norway,
 1835,11,30,Mark Twain,annual,birthday,United States,Literature
 1940,12,1,Richard Pryor,annual,birthday,United States,Comedy
@@ -421,6 +437,7 @@ year,month,date,title,frequency,type,country,field
 1987,12,19,Karim Benzema,annual,birthday,France,Football
 1788,12,22,Quang Trung (Nguyễn Huệ)'s Coronation,annual,coronation,Vietnam,Monarch
 1912,12,22,Hàn Mặc Tử,annual,birthday,Vietnam,Literature
+1745,12,23,John Jay,annual,birthday,United States,Supreme Court Chief Justice
 1998,12,24,Alexis Mac Allister,annual,birthday,Argentina,Football
 0,12,24,Christmas Eve,annual,holiday,International,
 1868,12,24,Emanuel Lasker,annual,birthday,Germany,Chess

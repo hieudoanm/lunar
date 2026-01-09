@@ -230,6 +230,16 @@
     "field": "Football"
   },
   {
+    "year": 1808,
+    "month": 1,
+    "date": 13,
+    "title": "Salmon P. Chase",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Supreme Court Chief Justice"
+  },
+  {
     "year": 1929,
     "month": 1,
     "date": 15,
@@ -310,6 +320,16 @@
     "field": "Philosophy"
   },
   {
+    "year": 1890,
+    "month": 1,
+    "date": 22,
+    "title": "Fred M. Vinson",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Supreme Court Chief Justice"
+  },
+  {
     "year": 1987,
     "month": 1,
     "date": 24,
@@ -368,6 +388,16 @@
     "type": "birthday",
     "country": "Austria",
     "field": ""
+  },
+  {
+    "year": 1955,
+    "month": 1,
+    "date": 27,
+    "title": "John Roberts",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Supreme Court Chief Justice"
   },
   {
     "year": 1978,
@@ -548,6 +578,16 @@
     "type": "birthday",
     "country": "United States",
     "field": "Engineer"
+  },
+  {
+    "year": 1833,
+    "month": 2,
+    "date": 11,
+    "title": "Melville Fuller",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Supreme Court Chief Justice"
   },
   {
     "year": 1809,
@@ -830,6 +870,16 @@
     "field": "Football"
   },
   {
+    "year": 1936,
+    "month": 3,
+    "date": 11,
+    "title": "Antonin Scalia",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Supreme Court Justice"
+  },
+  {
     "year": 1987,
     "month": 3,
     "date": 12,
@@ -910,6 +960,16 @@
     "field": "President"
   },
   {
+    "year": 1777,
+    "month": 3,
+    "date": 17,
+    "title": "Roger B. Taney",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Supreme Court Chief Justice"
+  },
+  {
     "year": 1837,
     "month": 3,
     "date": 18,
@@ -928,6 +988,16 @@
     "type": "birthday",
     "country": "Ukraine",
     "field": "Chess"
+  },
+  {
+    "year": 1891,
+    "month": 3,
+    "date": 19,
+    "title": "Earl Warren",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Supreme Court Chief Justice"
   },
   {
     "year": 1904,
@@ -1210,6 +1280,16 @@
     "field": "Secretary of State"
   },
   {
+    "year": 1862,
+    "month": 4,
+    "date": 11,
+    "title": "Charles Evans Hughes",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Supreme Court Chief Justice"
+  },
+  {
     "year": 1947,
     "month": 4,
     "date": 12,
@@ -1458,6 +1538,16 @@
     "type": "birthday",
     "country": "United States",
     "field": "Tennis"
+  },
+  {
+    "year": 1745,
+    "month": 4,
+    "date": 29,
+    "title": "Oliver Ellsworth",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Supreme Court Chief Justice"
   },
   {
     "year": 0,
@@ -2510,6 +2600,16 @@
     "field": ""
   },
   {
+    "year": 1936,
+    "month": 7,
+    "date": 23,
+    "title": "Anthony Kennedy",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Supreme Court Justice"
+  },
+  {
     "year": 1875,
     "month": 7,
     "date": 26,
@@ -3050,6 +3150,26 @@
     "field": "President"
   },
   {
+    "year": 1739,
+    "month": 9,
+    "date": 17,
+    "title": "John Rutledge",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Supreme Court Chief Justice"
+  },
+  {
+    "year": 1907,
+    "month": 9,
+    "date": 17,
+    "title": "Warren E. Burger",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Supreme Court Chief Justice"
+  },
+  {
     "year": 1976,
     "month": 9,
     "date": 18,
@@ -3178,6 +3298,16 @@
     "type": "birthday",
     "country": "Vietnam",
     "field": ""
+  },
+  {
+    "year": 1924,
+    "month": 10,
+    "date": 1,
+    "title": "William Rehnquist",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Supreme Court Chief Justice"
   },
   {
     "year": 1991,
@@ -3318,6 +3448,16 @@
     "type": "birthday",
     "country": "United Kingdom",
     "field": "Football"
+  },
+  {
+    "year": 1872,
+    "month": 10,
+    "date": 11,
+    "title": "Harlan F. Stone",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Supreme Court Chief Justice"
   },
   {
     "year": 1892,
@@ -3680,6 +3820,16 @@
     "field": "Football"
   },
   {
+    "year": 1845,
+    "month": 11,
+    "date": 3,
+    "title": "Edward Douglass White",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Supreme Court Chief Justice"
+  },
+  {
     "year": 1972,
     "month": 11,
     "date": 4,
@@ -3938,6 +4088,16 @@
     "type": "birthday",
     "country": "United Kingdom",
     "field": "Literature"
+  },
+  {
+    "year": 1816,
+    "month": 11,
+    "date": 29,
+    "title": "Morrison Waite",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Supreme Court Chief Justice"
   },
   {
     "year": 1990,
@@ -4218,6 +4378,16 @@
     "type": "birthday",
     "country": "Vietnam",
     "field": "Literature"
+  },
+  {
+    "year": 1745,
+    "month": 12,
+    "date": 23,
+    "title": "John Jay",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Supreme Court Chief Justice"
   },
   {
     "year": 1998,
