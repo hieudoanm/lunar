@@ -6,17 +6,14 @@ year,month,date,title,frequency,type,country,field
 1942,1,2,Dennis Hastert,annual,birthday,United States,Speaker of the House
 1892,1,3,J.R.R. Tolkien,annual,birthday,United Kingdom,Literature
 1766,1,3,Nguyễn Du,annual,birthday,Vietnam,Literature
-1643,1,4,Isaac Newton,annual,birthday,United Kingdom,Physics
 1941,1,5,Hayao Miyazaki,annual,birthday,Japan,Mangaka
 1882,1,6,Sam Rayburn,annual,birthday,United States,Speaker of the House
 1955,1,6,Rowan Atkinson,annual,birthday,United Kingdom,Comedy
 1800,1,7,Millard Fillmore,annual,birthday,United States,President
-1942,1,8,Stephen Hawking,annual,birthday,United Kingdom,Physics
 1902,1,8,Carl Rogers,annual,birthday,United States,Psychology
 1913,1,9,Richard Nixon,annual,birthday,United States,President
 1878,1,9,John B. Watson,annual,birthday,United States,Psychology
 1757,1,11,Alexander Hamilton,annual,birthday,United States,Secretary of the Treasury
-1990,1,12,Sergey Karjakin,annual,birthday,Russia,Chess
 1949,1,12,Murakami Haruki,annual,birthday,Japan,Literature
 1808,1,13,Salmon P. Chase,annual,birthday,United States,Supreme Court Chief Justice
 1929,1,15,"Martin Luther King, Jr.",annual,birthday,United States,
@@ -31,8 +28,6 @@ year,month,date,title,frequency,type,country,field
 1955,1,27,John Roberts,annual,birthday,United States,Supreme Court Chief Justice
 1843,1,29,William McKinley,annual,birthday,United States,President
 1882,1,30,Franklin D. Roosevelt,annual,birthday,United States,President
-1937,1,30,Boris Spassky,annual,birthday,Russia,Chess
-1736,1,30,James Watt,annual,birthday,United Kingdom,Engineer
 1830,1,31,James G. Blaine,annual,birthday,United States,Speaker of the House
 2013,2,2,House of Cards,annual,released,United States,
 1953,2,4,Jerome Powell,annual,birthday,United States,Chair of the Federal Reserve
@@ -46,7 +41,6 @@ year,month,date,title,frequency,type,country,field
 1809,2,12,Abraham Lincoln,annual,birthday,United States,President
 1809,2,12,Charles Darwin,annual,birthday,United Kingdom,Biology
 0,2,14,Valentine’s Day,annual,celebration,International,
-1564,2,15,Galileo Galilei,annual,birthday,Italy,Physics
 1835,2,15,Nguyễn Khuyến,annual,birthday,Vietnam,
 1934,2,15,Paul Ekman,annual,birthday,United States,Psychology
 1965,2,18,Dr. Dre,annual,birthday,United States,
@@ -60,30 +54,23 @@ year,month,date,title,frequency,type,country,field
 1931,3,2,Mikhail Gorbachev,annual,birthday,Russia,President
 1847,3,3,Alexander Graham Bell,annual,birthday,United States,Engineer
 1678,3,4,Antonio Vivaldi,annual,birthday,Italy,Music
-1934,3,5,Daniel Kahneman,annual,birthday,Israel,Economist
 1475,3,6,Michelangelo,annual,birthday,Italy,Architecture
 1929,3,6,Tom Foley,annual,birthday,United States,Speaker of the House
 1850,3,7,Champ Clark,annual,birthday,United States,Speaker of the House
 0,3,8,Women’s Day,annual,celebration,International,
-1943,3,9,[GM] Bobby Fischer,annual,birthday,United States,Chess
 1989,3,9,Kim Tae Yeon,annual,birthday,Korea,Singer
 1934,3,10,Motoo Abiko,annual,birthday,Japan,Mangaka
 1936,3,11,Antonin Scalia,annual,birthday,United States,Supreme Court Justice
-1987,3,12,[GM] Teimour Radjabov,annual,birthday,Azerbaijan,Chess
-1991,3,13,[GM] Le Quang Liem,annual,birthday,Vietnam,Chess
 1956,3,13,Jamie Dimon,annual,birthday,United States,Banker
-1879,3,14,Albert Einstein,annual,birthday,Germany,Physics
 1767,3,15,Andrew Jackson,annual,birthday,United States,President
 1933,3,15,Ruth Bader Ginsburg,annual,birthday,United States,Supreme Court Justice
 1751,3,16,James Madison,annual,birthday,United States,President
 1777,3,17,Roger B. Taney,annual,birthday,United States,Supreme Court Chief Justice
 1837,3,18,Grover Cleveland,annual,birthday,United States,President
-1969,3,18,[GM] Vasyl Ivanchuk,annual,birthday,Ukraine,Chess
 1891,3,19,Earl Warren,annual,birthday,United States,Supreme Court Chief Justice
 1904,3,20,B. F. Skinner,annual,birthday,United States,Psychology
 1971,3,22,Keegan-Michael Key,annual,birthday,United States,Comedy
 1912,3,23,Wernher von Braun,annual,birthday,Germany,Engineer
-1921,3,24,Vasily Smyslov,annual,birthday,Russia,Chess
 1940,3,26,Nancy Pelosi,annual,birthday,United States,Speaker of the House
 1947,3,25,Elton John,annual,birthday,United Kingdom,Singer
 1963,3,27,Quentin Tarantino,annual,birthday,United States,Director
@@ -103,27 +90,22 @@ year,month,date,title,frequency,type,country,field
 1862,4,11,Charles Evans Hughes,annual,birthday,United States,Supreme Court Chief Justice
 1947,4,12,David Letterman,annual,birthday,United States,Comedy
 1777,4,12,Henry Clay,annual,birthday,United States,Speaker of the House
-1985,4,12,[GM] Shakhriyar Mamedyarov,annual,birthday,Azerbaijan,Chess
-1963,4,13,[GM] Garry Kasparov,annual,birthday,Russia,Chess
 1743,4,13,Thomas Jefferson,annual,birthday,United States,President
 1452,4,15,Leonardo da Vinci,annual,birthday,Italy,Polymath
 1889,4,16,Charlie Chaplin,annual,birthday,United Kingdom,Comedy
-1996,4,18,[GM] Daniil Dubov,annual,birthday,Russia,Chess
 1926,4,21,Elizabeth II,annual,birthday,United Kingdom,Monarch
 1791,4,23,James Buchanan,annual,birthday,United States,President
 1947,4,25,ANZAC Day (Australia & New Zealand),annual,celebration,Australia,
-1998,4,26,[GM] Jan-Krzysztof Duda,annual,birthday,Poland,Chess
 1822,4,27,Ulysses S. Grant,annual,birthday,United States,President
 1977,4,23,John Oliver,annual,birthday,United Kingdom,Comedy
 1758,4,28,James Monroe,annual,birthday,United States,President
-1970,4,29,Andre Agassi,annual,birthday,United States,Tennis
+1970,4,29,Andre Agassi,annual,birthday,United States,
 1745,4,29,Oliver Ellsworth,annual,birthday,United States,Supreme Court Chief Justice
 0,4,30,Reunification Day,annual,holiday,Vietnam,
 1777,4,30,Carl Friedrich Gauss,annual,birthday,Germany,Polymath
 1916,4,30,Claude Shannon,annual,birthday,United States,Mathematics
 0,5,1,Workers’ Day,annual,holiday,International,
 1818,5,5,Karl Marx,annual,birthday,Germany,Economist
-1856,5,6,Sigmund Freud,annual,birthday,Austria,Neurology
 1953,5,6,Tony Blair,annual,birthday,United Kingdom,Prime Minister
 1909,5,7,Phạm Ngọc Thạch,annual,birthday,Vietnam,
 1996,5,7,Lee Sang-hyeok (Faker),annual,birthday,Korea,Gamer
@@ -134,24 +116,17 @@ year,month,date,title,frequency,type,country,field
 1900,5,11,Hồ Đắc Di,annual,birthday,Vietnam,
 1937,5,12,George Carlin,annual,birthday,United States,Comedy
 1839,5,12,Tôn Thất Thuyết,annual,birthday,Vietnam,
-1836,5,14,Wilhelm Steinitz,annual,birthday,United States,Chess
 1944,5,14,George Lucas,annual,birthday,United States,Director
 1937,5,15,Madeleine Albright,annual,birthday,United States,Secretary of State
 1993,5,16,IU,annual,birthday,Korea,Singer
 1970,5,18,Tina Fey,annual,birthday,United States,Comedy
 1890,5,19,Hồ Chí Minh,annual,birthday,Vietnam,President
-1901,5,20,Max Euwe,annual,birthday,Netherlands,Chess
 1859,5,22,Arthur Conan Doyle,annual,birthday,United Kingdom,Literature
-1987,5,22,Novak Djokovic,annual,birthday,Serbia,Tennis
-1951,5,23,Anatoly Karpov,annual,birthday,Russia,Chess
 1927,5,26,Nguyễn Thị Bình,annual,birthday,Vietnam,
 1923,5,27,Henry Kissinger,annual,birthday,United States,Secretary of State
 1908,5,28,Ian Fleming,annual,birthday,United Kingdom,Literature
 1917,5,29,John F. Kennedy,annual,birthday,United States,President
-2006,5,29,[GM] Gukesh Dommaraju,annual,birthday,India,Chess
 1949,6,1,Children’s Day,annual,celebration,International,
-1974,6,2,[GM] Gata Kamsky,annual,birthday,United States,Chess
-1986,6,3,Rafael Nadal,annual,birthday,Spain,Tennis
 1987,6,7,Daniel Scheinert,annual,birthday,United States,Director
 1924,6,12,George H. W. Bush,annual,birthday,United States,President
 1928,6,13,John Forbes Nash Jr.,annual,birthday,United States,Economist
@@ -159,14 +134,9 @@ year,month,date,title,frequency,type,country,field
 1902,6,15,Erik Erikson,annual,birthday,Germany,Psychology
 1215,6,15,Magna Carta was Sealed,annual,milestone,United Kingdom,
 1723,6,16,Adam Smith,annual,baptism,United Kingdom,Economist
-1929,6,17,Tigran Petrosian,annual,birthday,Armenia,Chess
-1976,6,17,Peter Svidler,annual,birthday,Russia,Chess
-1623,6,19,Blaise Pascal,annual,birthday,France,Polymath
 1963,6,21,Gosho Aoyama,annual,birthday,Japan,Mangaka
 1912,6,23,Alan Turing,annual,birthday,United Kingdom,Mathematics
-1968,6,24,[GM] Boris Gelfand,annual,birthday,Israel,Chess
 1564,6,24,William Shakespeare,annual,baptism,United Kingdom,Literature
-1975,6,25,[GM] Vladimir Kramnik,annual,birthday,Russia,Chess
 1961,6,25,Ricky Gervais,annual,birthday,United Kingdom,Comedy
 1903,6,25,George Orwell,annual,birthday,United Kingdom,Literature
 1945,6,26,United Nations,annual,founded,International,
@@ -182,10 +152,8 @@ year,month,date,title,frequency,type,country,field
 1872,7,4,Calvin Coolidge,annual,holiday,United States,President
 1975,7,6,50 Cent,annual,birthday,United States,Rapper
 1946,7,6,George W. Bush,annual,birthday,United States,President
-1856,7,10,Nikola Tesla,annual,birthday,United Kingdom,Engineer
 1767,7,11,John Quincy Adams,annual,birthday,United States,President
 1913,7,14,Gerald Ford,annual,birthday,United States,President
-1990,7,14,[GM] Ian Nepomniachtchi,annual,birthday,Russia,Chess
 1918,7,18,Nelson Mandela,annual,birthday,South Africa,President
 -336,7,20,[General] Alexander the Great,annual,birthday,Macedon,
 1969,7,20,First human landing on the Moon,annual,milestone,United States,
@@ -196,7 +164,6 @@ year,month,date,title,frequency,type,country,field
 1875,7,26,Carl Jung,annual,birthday,Switzerland,Psychology
 1928,7,26,Stanley Kubrick,annual,birthday,United States,Director
 1976,7,27,Demis Hassabis,annual,birthday,United Kingdom,Data Scientist
-1992,7,30,[GM] Fabiano Caruana,annual,birthday,United States,Chess
 1863,7,30,Henry Ford,annual,birthday,United States,Engineer
 1970,7,30,Christopher Nolan,annual,birthday,United States,Director
 1912,7,31,Milton Friedman,annual,birthday,United States,Economist
@@ -204,15 +171,11 @@ year,month,date,title,frequency,type,country,field
 1980,7,31,Harry Potter,annual,birthday,United Kingdom,Fictional
 1961,8,4,Barack Obama,annual,birthday,United States,President
 1930,8,5,Neil Armstrong,annual,birthday,United States,Astronaut
-1981,8,8,Roger Federer,annual,birthday,Switzerland,Tennis
-1896,8,9,Jean Piaget,annual,birthday,Switzerland,Psychologist
 1874,8,10,Herbert Hoover,annual,birthday,United States,President
 1950,8,11,Steve Wozniak,annual,birthday,United States,Engineer
-1887,8,12,Erwin Schrödinger,annual,birthday,Austria,Physics
 1946,8,13,Janet Yellen,annual,birthday,United States,Secretary of the Treasury
 1769,8,15,Napoléon Bonaparte,annual,birthday,France,General
-1963,8,15,Alejandro González Iñárritu,annual,birthday,United States,Mexico
-1911,8,17,Mikhail Botvinnik,annual,birthday,Russia,Chess
+1963,8,15,Alejandro González Iñárritu,annual,birthday,United States,Director
 1988,8,18,G-Dragon,annual,birthday,Korea,Rapper
 1946,8,19,Bill Clinton,annual,birthday,United States,President
 1890,8,20,H. P. Lovecraft,annual,birthday,United States,Literature
@@ -234,7 +197,6 @@ year,month,date,title,frequency,type,country,field
 1957,9,15,William Howard Taft,annual,birthday,United States,President
 1739,9,17,John Rutledge,annual,birthday,United States,Supreme Court Chief Justice
 1907,9,17,Warren E. Burger,annual,birthday,United States,Supreme Court Chief Justice
-2004,9,18,[GM] Nodirbek Abdusattorov,annual,birthday,Uzbekistan,Chess
 1979,9,19,Hermione Granger,annual,birthday,United Kingdom,Fictional
 1948,9,20,George R. R. Martin,annual,birthday,United States,Literature
 1947,9,21,Stephen King,annual,birthday,United States,Literature
@@ -248,9 +210,7 @@ year,month,date,title,frequency,type,country,field
 1822,10,4,Rutherford B. Hayes,annual,holiday,United States,President
 1829,10,5,Chester A. Arthur,annual,holiday,United States,President
 1958,10,5,Neil deGrasse Tyson,annual,birthday,United States,Astrophysics
-1982,10,6,[GM] Levon Aronian,annual,birthday,Armenia,Chess
 2013,10,8,World Dyslexia Day,annual,celebration,International,
-1993,10,9,[GM] Wesley So,annual,birthday,United States,Chess
 1964,10,9,Guillermo del Toro,annual,birthday,United States,Director
 1911,10,10,Lê Đức Thọ,annual,birthday,Vietnam,
 1872,10,11,Harlan F. Stone,annual,birthday,United States,Supreme Court Chief Justice
@@ -261,36 +221,27 @@ year,month,date,title,frequency,type,country,field
 1854,10,16,Oscar Wilde,annual,birthday,United Kingdom,Literature
 1972,10,17,Eminem,annual,birthday,United States,Rapper
 1919,10,18,Pierre Trudeau,annual,birthday,Canada,Prime Minister
-1910,10,19,Subrahmanyan Chandrasekhar,annual,birthday,India,Physics
 0,10,20,Women’s Day,annual,celebration,Vietnam,
 1833,10,21,Alfred Nobel,annual,birthday,Sweden,Engineer
-1990,10,21,[Chess] Maxime Vachier-Lagrave,annual,birthday,France,Chess
 1954,10,23,Ang Lee,annual,birthday,Taiwan,Director
-1992,10,24,[GM] Ding Liren,annual,birthday,China,Chess
 1881,10,25,Pablo Picasso,annual,birthday,Spain,Painter
 1947,10,26,Hillary Clinton,annual,birthday,United States,Secretary of State
 1858,10,27,Theodore Roosevelt,annual,birthday,United States,President
 1917,10,29,Nam Cao,annual,birthday,Vietnam,Literature
 1735,10,30,John Adams,annual,birthday,United States,President
-1983,10,31,[GM] Alexander Grischuk,annual,birthday,Russia,Chess
-1892,10,31,Alexander Alekhine,annual,birthday,France,Chess
 1930,10,31,Michael Collins,annual,birthday,United States,Astronaut
 1795,11,2,James K. Polk,annual,birthday,United States,President
 1865,11,2,Warren G. Harding,annual,birthday,United States,President
 1952,11,2,Larry Fink,annual,birthday,United States,Banker
 1845,11,3,Edward Douglass White,annual,birthday,United States,Supreme Court Chief Justice
-1867,11,7,Marie Curie,annual,birthday,Poland,Physics
 1913,11,7,Albert Camus,annual,birthday,France,Literature
 1974,11,8,Masashi Kishimoto,annual,birthday,Japan,Mangaka
-1936,11,9,[GM] Mikhail Tal,annual,birthday,Latvia,Chess
-1995,11,9,[GM] Daniel Naroditsky,annual,birthday,United States,Chess
 1989,11,9,Fall of the Berlin Wall,annual,milestone,Germany,
 1483,11,10,Martin Luther,annual,birthday,Germany,Philosophy
 1960,11,10,Neil Gaiman,annual,birthday,United Kingdom,Literature
 1850,11,13,Robert Louis Stevenson,annual,birthday,United Kingdom,Literature
 1923,11,15,Văn Cao,annual,birthday,Vietnam,Literature
 1942,11,17,Martin Scorsese,annual,birthday,United States,Director
-1888,11,19,[GM] José Raúl Capablanca,annual,birthday,Cuba,Chess
 1831,11,19,James A. Garfield,annual,birthday,United States,President
 0,11,20,Teachers’ Day,annual,celebration,Vietnam,
 1942,11,20,Joe Biden,annual,birthday,United States,President
@@ -301,20 +252,15 @@ year,month,date,title,frequency,type,country,field
 1962,11,28,Jon Stewart,annual,birthday,United States,Comedy
 1898,11,29,C. S. Lewis,annual,birthday,United Kingdom,Literature
 1816,11,29,Morrison Waite,annual,birthday,United States,Supreme Court Chief Justice
-1990,11,30,[GM] Magnus Carlsen,annual,birthday,Norway,
 1835,11,30,Mark Twain,annual,birthday,United States,Literature
 1940,12,1,Richard Pryor,annual,birthday,United States,Comedy
 1933,12,1,Hiroshi Fujimoto,annual,birthday,Japan,Mangaka
 1930,12,2,Gary Becker,annual,birthday,United States,Economist
 1969,12,4,Jay-Z,annual,birthday,United States,Rapper
 1995,12,4,JavaScript,annual,published,United States,Programming Language
-1995,12,5,[IM] Levy Rozman,annual,birthday,United States,Chess
 1782,12,5,Martin Van Buren,annual,birthday,United States,President
 1917,12,6,Independence Day,annual,holiday,Finland,
-2005,12,8,[GM] Javokhir Sindarov,annual,birthday,Uzbekistan,Chess
-1987,12,9,[GM] Hikaru Nakamura,annual,birthday,United States,Chess
 1912,12,9,Tip O'Neill,annual,birthday,United States,Speaker of the House
-1969,12,11,[GM] Viswanathan Anand,annual,birthday,India,Chess
 1953,12,13,Ben Bernanke,annual,birthday,United States,Chair of the Federal Reserve
 1971,12,13,J. Y. Park,annual,birthday,United States,Singer
 1916,12,14,Shirley Jackson,annual,birthday,United Kingdom,Literature
@@ -326,7 +272,6 @@ year,month,date,title,frequency,type,country,field
 1912,12,22,Hàn Mặc Tử,annual,birthday,Vietnam,Literature
 1745,12,23,John Jay,annual,birthday,United States,Supreme Court Chief Justice
 0,12,24,Christmas Eve,annual,holiday,International,
-1868,12,24,Emanuel Lasker,annual,birthday,Germany,Chess
 0,12,25,Christmas Day,annual,holiday,International,
 1867,12,26,Phan Bội Châu,annual,birthday,Vietnam,
 1969,12,28,Linus Torvalds,annual,birthday,Finland,Engineer

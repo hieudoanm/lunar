@@ -3,6 +3,7 @@ import json
 import glob
 import os
 import logging
+from pathlib import Path
 
 
 # =========================
@@ -10,17 +11,24 @@ import logging
 # =========================
 
 logging.basicConfig(
-    level=logging.INFO,  # change to DEBUG for more verbosity
+    level=logging.INFO,
     format="%(asctime)s | %(levelname)-7s | %(message)s",
 )
 log = logging.getLogger(__name__)
 
 
+# =========================
+# Helpers
+# =========================
+
+
 def parse_value(value):
     if value is None:
-        return value
+        return None
 
     value = value.strip()
+    if value == "":
+        return None
 
     if value.isdigit() or (value.startswith("-") and value[1:].isdigit()):
         return int(value)
@@ -29,6 +37,25 @@ def parse_value(value):
         return float(value)
     except ValueError:
         return value
+
+
+def add_zero(number: int) -> str:
+    return f"{number:02d}"
+
+
+def sort_rows_by_month_date(rows):
+    log.info("Sorting rows by month and date")
+
+    def sort_key(row):
+        month = row.get("month")
+        date = row.get("date")
+
+        return (
+            month if isinstance(month, int) else 99,
+            date if isinstance(date, int) else 99,
+        )
+
+    return sorted(rows, key=sort_key)
 
 
 def get_missing_days_by_month(rows):
@@ -49,144 +76,123 @@ def get_missing_days_by_month(rows):
 
     result = {}
 
-    log.info("Calculating missing dates by month")
-
-    for month in range(1, 13):
-        max_day = DAYS_IN_MONTH[month]
-
+    for month, max_day in DAYS_IN_MONTH.items():
         existing_days = {
-            row["date"]
-            for row in rows
-            if row.get("month") == month and row.get("date") is not None
+            r["date"]
+            for r in rows
+            if r.get("month") == month and isinstance(r.get("date"), int)
         }
 
-        missing_days = [d for d in range(1, max_day + 1) if d not in existing_days]
-
-        if missing_days:
-            result[month] = missing_days
-            log.debug(
-                "Month %02d: %d missing days",
-                month,
-                len(missing_days),
-            )
+        missing = [d for d in range(1, max_day + 1) if d not in existing_days]
+        if missing:
+            result[month] = missing
 
     return result
 
 
-def add_zero(number: int) -> str:
-    return f"{number:02d}"
+# =========================
+# Configuration
+# =========================
+
+CSV_ROOT = Path("csv")
+JSON_DIR = Path("json")
+MERGED_CSV = CSV_ROOT / "all.csv"
+MERGED_JSON = JSON_DIR / "all.json"
+
+CSV_GLOB = "**/*.csv"  # recursive
+
+CSV_ROOT.mkdir(exist_ok=True)
+JSON_DIR.mkdir(exist_ok=True)
 
 
-def sort_rows_by_month_date(rows):
-    log.info("Sorting rows by month and date")
+# =========================
+# Discover CSV files (recursive)
+# =========================
 
-    def sort_key(row):
-        month = row.get("month")
-        date = row.get("date")
+log.info("Scanning for CSV files under %s", CSV_ROOT.resolve())
 
-        # Push invalid rows to the end safely
-        month = month if isinstance(month, int) else 99
-        date = date if isinstance(date, int) else 99
+csv_files = [
+    p
+    for p in CSV_ROOT.glob(CSV_GLOB)
+    if p.is_file() and p.resolve() != MERGED_CSV.resolve()
+]
 
-        return (month, date)
+if not csv_files:
+    log.error("No CSV files found recursively under %s", CSV_ROOT)
+    raise FileNotFoundError("No CSV files found")
 
-    sorted_rows = sorted(rows, key=sort_key)
+log.info("Found %d CSV files (recursive)", len(csv_files))
 
-    log.info("Sorted %d rows by (month, date)", len(sorted_rows))
-    log.debug("First row after sort: %s", sorted_rows[0] if sorted_rows else None)
-    log.debug("Last row after sort: %s", sorted_rows[-1] if sorted_rows else None)
-
-    return sorted_rows
+for p in csv_files:
+    depth = len(p.relative_to(CSV_ROOT).parts) - 1
+    log.debug("  %s (depth=%d)", p, depth)
 
 
 # =========================
 # Merge CSV files
 # =========================
 
-CSV_DIR = "csv"
-JSON_DIR = "json"
+log.info("Merging CSV files → %s", MERGED_CSV)
 
-log.info("Starting CSV merge process")
-
-os.makedirs(CSV_DIR, exist_ok=True)
-os.makedirs(JSON_DIR, exist_ok=True)
-
-csv_files = sorted(glob.glob(os.path.join(CSV_DIR, "*.csv")))
-merged_csv = os.path.join(CSV_DIR, "all.csv")
-
-if not csv_files:
-    log.error("No CSV files found in %s", CSV_DIR)
-    raise FileNotFoundError("No CSV files found in csv/")
-
-log.info("Found %d CSV files", len(csv_files))
-
-header_written = False
+header = None
 total_rows = 0
-processed_files = 0
 
-with open(merged_csv, "w", newline="", encoding="utf-8") as out:
+with MERGED_CSV.open("w", newline="", encoding="utf-8") as out:
     writer = None
 
-    for file in csv_files:
-        if file == "all.csv":
-            log.debug("Skipping existing merged file: %s", file)
-            continue
+    for csv_path in sorted(csv_files):
+        log.info("Processing: %s", csv_path)
 
-        log.info("Processing file: %s", file)
-
-        with open(file, newline="", encoding="utf-8") as f:
+        with csv_path.open(newline="", encoding="utf-8") as f:
             reader = csv.DictReader(f)
 
             if not reader.fieldnames:
-                log.warning("Skipping empty or invalid CSV: %s", file)
+                log.warning("Skipping empty CSV: %s", csv_path)
                 continue
 
-            if not header_written:
-                writer = csv.DictWriter(out, fieldnames=reader.fieldnames)
+            if header is None:
+                header = reader.fieldnames
+                writer = csv.DictWriter(out, fieldnames=header)
                 writer.writeheader()
-                header_written = True
-                log.debug("CSV header written")
+                log.debug("Header written: %s", header)
+            elif reader.fieldnames != header:
+                log.warning(
+                    "Header mismatch in %s\nExpected: %s\nFound:    %s",
+                    csv_path,
+                    header,
+                    reader.fieldnames,
+                )
+                continue
 
             file_rows = 0
             for row in reader:
                 writer.writerow(row)
                 file_rows += 1
 
-            log.info("  → %d rows merged", file_rows)
             total_rows += file_rows
-            processed_files += 1
+            log.info("  → %d rows merged", file_rows)
 
-log.info(
-    "Merged %d files (%d total rows) → %s",
-    processed_files,
-    total_rows,
-    merged_csv,
-)
+log.info("CSV merge complete (%d total rows)", total_rows)
 
 
 # =========================
 # Convert CSV → JSON
 # =========================
 
-log.info("Starting CSV → JSON conversion")
+log.info("Converting merged CSV → JSON")
 
-csv_file = merged_csv
-json_file = os.path.join(JSON_DIR, "all.json")
-
-with open(csv_file, newline="", encoding="utf-8") as f:
+with MERGED_CSV.open(newline="", encoding="utf-8") as f:
     reader = csv.DictReader(f)
     rows = [{k: parse_value(v) for k, v in row.items()} for row in reader]
 
-log.info("Parsed %d rows from merged CSV", len(rows))
-
+log.info("Parsed %d rows", len(rows))
 
 rows = sort_rows_by_month_date(rows)
 
-
-with open(json_file, "w", encoding="utf-8") as f:
+with MERGED_JSON.open("w", encoding="utf-8") as f:
     json.dump(rows, f, indent=2, ensure_ascii=False)
 
-log.info("JSON written to %s", json_file)
+log.info("JSON written → %s", MERGED_JSON)
 
 
 # =========================
