@@ -1981,6 +1981,16 @@ export const events: Event[] = [
     field: '',
   },
   {
+    year: 1938,
+    month: 4,
+    date: 8,
+    title: 'Kofi Annan',
+    frequency: 'annual',
+    type: 'birthday',
+    country: 'Ghana',
+    field: '',
+  },
+  {
     year: 1975,
     month: 4,
     date: 9,
