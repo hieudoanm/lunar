@@ -58,7 +58,11 @@ year,month,date,title,frequency,type,country,field
 1907,4,7,Lê Duẩn,annual,birthday,Vietnam,
 1947,4,12,David Letterman,annual,birthday,United States,Comedy
 1452,4,15,Leonardo da Vinci,annual,birthday,Italy,Polymath
+1894,4,15,Nikita Khrushchev,annual,birthday,Russia,Premier
 1889,4,16,Charlie Chaplin,annual,birthday,United Kingdom,Comedy
+1946,4,17,Independence Day,annual,holiday,Syria,
+1889,4,20,Adolf Hitler,annual,birthday,Germany,Chancellor
+1745,4,20,Philippe Pinel,annual,birthday,France,Physician
 1926,4,21,Elizabeth II,annual,birthday,United Kingdom,Monarch
 1947,4,25,ANZAC Day (Australia & New Zealand),annual,celebration,Australia,
 1977,4,23,John Oliver,annual,birthday,United Kingdom,Comedy
@@ -193,6 +197,7 @@ year,month,date,title,frequency,type,country,field
 1969,12,4,Jay-Z,annual,birthday,United States,Rapper
 1995,12,4,JavaScript,annual,published,United States,Programming Language
 1917,12,6,Independence Day,annual,holiday,Finland,
+1948,12,10,Human Rights Day,annual,celebration,International,
 1953,12,13,Ben Bernanke,annual,birthday,United States,Chair of the Federal Reserve
 1971,12,13,J. Y. Park,annual,birthday,United States,Singer
 1916,12,14,Shirley Jackson,annual,birthday,United Kingdom,Literature
@@ -205,6 +210,7 @@ year,month,date,title,frequency,type,country,field
 0,12,24,Christmas Eve,annual,holiday,International,
 0,12,25,Christmas Day,annual,holiday,International,
 1867,12,26,Phan Bội Châu,annual,birthday,Vietnam,
+1571,12,27,Johannes Kepler,annual,birthday,Germany,Mathematics
 1969,12,28,Linus Torvalds,annual,birthday,Finland,Engineer
 1903,12,28,John von Neumann,annual,birthday,United States,Mathematics
 1922,12,28,Stan Lee,annual,birthday,United States,Comics

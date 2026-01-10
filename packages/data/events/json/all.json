@@ -2090,6 +2090,16 @@
     "field": "President"
   },
   {
+    "year": 1629,
+    "month": 4,
+    "date": 14,
+    "title": "Christiaan Huygens",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Netherlands",
+    "field": "Physics"
+  },
+  {
     "year": 1452,
     "month": 4,
     "date": 15,
@@ -2098,6 +2108,16 @@
     "type": "birthday",
     "country": "Italy",
     "field": "Polymath"
+  },
+  {
+    "year": 1894,
+    "month": 4,
+    "date": 15,
+    "title": "Nikita Khrushchev",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Russia",
+    "field": "Premier"
   },
   {
     "year": 1889,
@@ -2150,6 +2170,16 @@
     "field": "Speaker of the House"
   },
   {
+    "year": 1946,
+    "month": 4,
+    "date": 17,
+    "title": "Independence Day",
+    "frequency": "annual",
+    "type": "holiday",
+    "country": "Syria",
+    "field": null
+  },
+  {
     "year": 1996,
     "month": 4,
     "date": 18,
@@ -2178,6 +2208,26 @@
     "type": "birthday",
     "country": "Brazil",
     "field": "Football"
+  },
+  {
+    "year": 1889,
+    "month": 4,
+    "date": 20,
+    "title": "Adolf Hitler",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Germany",
+    "field": "Chancellor"
+  },
+  {
+    "year": 1745,
+    "month": 4,
+    "date": 20,
+    "title": "Philippe Pinel",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "France",
+    "field": "Physician"
   },
   {
     "year": 1926,
@@ -6520,6 +6570,16 @@
     "field": "Speaker of the House"
   },
   {
+    "year": 1948,
+    "month": 12,
+    "date": 10,
+    "title": "Human Rights Day",
+    "frequency": "annual",
+    "type": "celebration",
+    "country": "International",
+    "field": null
+  },
+  {
     "year": 1969,
     "month": 12,
     "date": 11,
@@ -6838,6 +6898,16 @@
     "type": "birthday",
     "country": "Vietnam",
     "field": null
+  },
+  {
+    "year": 1571,
+    "month": 12,
+    "date": 27,
+    "title": "Johannes Kepler",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Germany",
+    "field": "Mathematics"
   },
   {
     "year": 1969,
