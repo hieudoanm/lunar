@@ -9,6 +9,7 @@ year,month,date,title,frequency,type,country,field
 1955,1,6,Rowan Atkinson,annual,birthday,United Kingdom,Comedy
 1920,1,10,League of Nations,annual,established,International,
 1949,1,12,Murakami Haruki,annual,birthday,Japan,Literature
+1875,1,14,Albert Schweitzer,annual,birthday,France,Philosophy
 1929,1,15,"Martin Luther King, Jr.",annual,birthday,United States,
 1706,1,17,Benjamin Franklin,annual,birthday,United States,Polymath
 1809,1,19,Edgar Allan Poe,annual,birthday,United States,Literature
@@ -182,6 +183,7 @@ year,month,date,title,frequency,type,country,field
 1952,11,2,Larry Fink,annual,birthday,United States,Banker
 1913,11,7,Albert Camus,annual,birthday,France,Literature
 1974,11,8,Masashi Kishimoto,annual,birthday,Japan,Mangaka
+1847,11,8,Bram Stoker,annual,birthday,Japan,Literature
 1989,11,9,Fall of the Berlin Wall,annual,milestone,Germany,
 1483,11,10,Martin Luther,annual,birthday,Germany,Philosophy
 1960,11,10,Neil Gaiman,annual,birthday,United Kingdom,Literature

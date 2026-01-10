@@ -331,6 +331,16 @@ export const events: Event[] = [
     field: 'Supreme Court Chief Justice',
   },
   {
+    year: 1875,
+    month: 1,
+    date: 14,
+    title: 'Albert Schweitzer',
+    frequency: 'annual',
+    type: 'birthday',
+    country: 'France',
+    field: 'Philosophy',
+  },
+  {
     year: 1929,
     month: 1,
     date: 15,
@@ -6009,6 +6019,16 @@ export const events: Event[] = [
     type: 'birthday',
     country: 'Japan',
     field: 'Mangaka',
+  },
+  {
+    year: 1847,
+    month: 11,
+    date: 8,
+    title: 'Bram Stoker',
+    frequency: 'annual',
+    type: 'birthday',
+    country: 'Japan',
+    field: 'Literature',
   },
   {
     year: 1981,
