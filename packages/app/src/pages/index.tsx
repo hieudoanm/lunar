@@ -64,8 +64,6 @@ const getEvents = (
         })
       : [{ group: '', events: filteredEvents }];
 
-  console.log({ groups, eventByGroups });
-
   return { total: filteredEvents.length, events: eventByGroups };
 };
 

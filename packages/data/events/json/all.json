@@ -30,6 +30,16 @@
     "field": "General"
   },
   {
+    "year": 1750,
+    "month": 1,
+    "date": 1,
+    "title": "Frederick Muhlenberg",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
+  },
+  {
     "year": 1960,
     "month": 1,
     "date": 2,
@@ -110,16 +120,6 @@
     "field": "Mangaka"
   },
   {
-    "year": 1882,
-    "month": 1,
-    "date": 6,
-    "title": "Sam Rayburn",
-    "frequency": "annual",
-    "type": "birthday",
-    "country": "United States",
-    "field": "Speaker of the House"
-  },
-  {
     "year": 1955,
     "month": 1,
     "date": 6,
@@ -130,14 +130,14 @@
     "field": "Comedy"
   },
   {
-    "year": 1800,
+    "year": 1882,
     "month": 1,
-    "date": 7,
-    "title": "Millard Fillmore",
+    "date": 6,
+    "title": "Sam Rayburn",
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
-    "field": "President"
+    "field": "Speaker of the House"
   },
   {
     "year": 1991,
@@ -150,14 +150,14 @@
     "field": "Football"
   },
   {
-    "year": 1902,
+    "year": 1800,
     "month": 1,
-    "date": 8,
-    "title": "Carl Rogers",
+    "date": 7,
+    "title": "Millard Fillmore",
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
-    "field": "Psychology"
+    "field": "President"
   },
   {
     "year": 1942,
@@ -190,26 +190,6 @@
     "field": "Football"
   },
   {
-    "year": 1913,
-    "month": 1,
-    "date": 9,
-    "title": "Richard Nixon",
-    "frequency": "annual",
-    "type": "birthday",
-    "country": "United States",
-    "field": "President"
-  },
-  {
-    "year": 1878,
-    "month": 1,
-    "date": 9,
-    "title": "John B. Watson",
-    "frequency": "annual",
-    "type": "birthday",
-    "country": "United States",
-    "field": "Psychology"
-  },
-  {
     "year": 1878,
     "month": 1,
     "date": 9,
@@ -230,14 +210,14 @@
     "field": "Football"
   },
   {
-    "year": 1757,
+    "year": 1913,
     "month": 1,
-    "date": 11,
-    "title": "Alexander Hamilton",
+    "date": 9,
+    "title": "Richard Nixon",
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
-    "field": "Secretary of the Treasury"
+    "field": "President"
   },
   {
     "year": 1842,
@@ -280,6 +260,16 @@
     "field": "Football"
   },
   {
+    "year": 1757,
+    "month": 1,
+    "date": 11,
+    "title": "Alexander Hamilton",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Secretary of the Treasury"
+  },
+  {
     "year": 1949,
     "month": 1,
     "date": 12,
@@ -300,16 +290,6 @@
     "field": "Chess"
   },
   {
-    "year": 1808,
-    "month": 1,
-    "date": 13,
-    "title": "Salmon P. Chase",
-    "frequency": "annual",
-    "type": "birthday",
-    "country": "United States",
-    "field": "Supreme Court Chief Justice"
-  },
-  {
     "year": 1997,
     "month": 1,
     "date": 13,
@@ -318,6 +298,16 @@
     "type": "birthday",
     "country": "Colombia",
     "field": "Football"
+  },
+  {
+    "year": 1808,
+    "month": 1,
+    "date": 13,
+    "title": "Salmon P. Chase",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Supreme Court Chief Justice"
   },
   {
     "year": 1929,
@@ -420,6 +410,16 @@
     "field": "Basketball"
   },
   {
+    "year": 1784,
+    "month": 1,
+    "date": 21,
+    "title": "Andrew Stevenson",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
+  },
+  {
     "year": 1561,
     "month": 1,
     "date": 22,
@@ -500,6 +500,16 @@
     "field": "Football"
   },
   {
+    "year": 1965,
+    "month": 1,
+    "date": 26,
+    "title": "Kevin McCarthy",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
+  },
+  {
     "year": 1756,
     "month": 1,
     "date": 27,
@@ -550,14 +560,34 @@
     "field": "President"
   },
   {
-    "year": 1882,
+    "year": 1750,
     "month": 1,
-    "date": 30,
-    "title": "Franklin D. Roosevelt",
+    "date": 29,
+    "title": "Joseph Bradley Varnum",
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
-    "field": "President"
+    "field": "Speaker of the House"
+  },
+  {
+    "year": 1845,
+    "month": 1,
+    "date": 29,
+    "title": "Charles F. Crisp",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
+  },
+  {
+    "year": 1970,
+    "month": 1,
+    "date": 29,
+    "title": "Paul Ryan",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
   },
   {
     "year": 1736,
@@ -580,10 +610,40 @@
     "field": "Chess"
   },
   {
-    "year": 1830,
+    "year": 1882,
     "month": 1,
-    "date": 31,
-    "title": "James G. Blaine",
+    "date": 30,
+    "title": "Franklin D. Roosevelt",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President"
+  },
+  {
+    "year": 1816,
+    "month": 1,
+    "date": 30,
+    "title": "Nathaniel P. Banks",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
+  },
+  {
+    "year": 1836,
+    "month": 1,
+    "date": 30,
+    "title": "J. Warren Keifer",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
+  },
+  {
+    "year": 1972,
+    "month": 1,
+    "date": 30,
+    "title": "Mike Johnson",
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
@@ -598,6 +658,16 @@
     "type": "birthday",
     "country": "China",
     "field": "Chess"
+  },
+  {
+    "year": 1830,
+    "month": 1,
+    "date": 31,
+    "title": "James G. Blaine",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
   },
   {
     "year": 1915,
@@ -720,6 +790,16 @@
     "field": null
   },
   {
+    "year": 1993,
+    "month": 2,
+    "date": 9,
+    "title": "Endō Wataru",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Japan",
+    "field": "Football"
+  },
+  {
     "year": 1773,
     "month": 2,
     "date": 9,
@@ -730,14 +810,14 @@
     "field": "President"
   },
   {
-    "year": 1993,
+    "year": 1909,
     "month": 2,
     "date": 9,
-    "title": "Endō Wataru",
+    "title": "Dean Rusk",
     "frequency": "annual",
     "type": "birthday",
-    "country": "Japan",
-    "field": "Football"
+    "country": "United States",
+    "field": "Secretary of State"
   },
   {
     "year": 1988,
@@ -773,16 +853,6 @@
     "year": 1809,
     "month": 2,
     "date": 12,
-    "title": "Abraham Lincoln",
-    "frequency": "annual",
-    "type": "birthday",
-    "country": "United States",
-    "field": "President"
-  },
-  {
-    "year": 1809,
-    "month": 2,
-    "date": 12,
     "title": "Charles Darwin",
     "frequency": "annual",
     "type": "birthday",
@@ -798,6 +868,16 @@
     "type": "birthday",
     "country": "United States",
     "field": "Basketball"
+  },
+  {
+    "year": 1809,
+    "month": 2,
+    "date": 12,
+    "title": "Abraham Lincoln",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President"
   },
   {
     "year": 1948,
@@ -840,6 +920,16 @@
     "field": "Football"
   },
   {
+    "year": 1802,
+    "month": 2,
+    "date": 14,
+    "title": "John D. White",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
+  },
+  {
     "year": 1835,
     "month": 2,
     "date": 15,
@@ -848,16 +938,6 @@
     "type": "birthday",
     "country": "Vietnam",
     "field": null
-  },
-  {
-    "year": 1934,
-    "month": 2,
-    "date": 15,
-    "title": "Paul Ekman",
-    "frequency": "annual",
-    "type": "birthday",
-    "country": "United States",
-    "field": "Psychology"
   },
   {
     "year": 1564,
@@ -940,6 +1020,16 @@
     "field": "Football"
   },
   {
+    "year": 1796,
+    "month": 2,
+    "date": 18,
+    "title": "John Bell",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
+  },
+  {
     "year": 1995,
     "month": 2,
     "date": 19,
@@ -960,16 +1050,6 @@
     "field": "Director"
   },
   {
-    "year": 1732,
-    "month": 2,
-    "date": 22,
-    "title": "George Washington",
-    "frequency": "annual",
-    "type": "birthday",
-    "country": "United States",
-    "field": "President"
-  },
-  {
     "year": 1857,
     "month": 2,
     "date": 22,
@@ -978,6 +1058,16 @@
     "type": "birthday",
     "country": "Germany",
     "field": "Physics"
+  },
+  {
+    "year": 1732,
+    "month": 2,
+    "date": 22,
+    "title": "George Washington",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President"
   },
   {
     "year": 1990,
@@ -1008,6 +1098,16 @@
     "type": "birthday",
     "country": "Israel",
     "field": "Historian"
+  },
+  {
+    "year": 1888,
+    "month": 2,
+    "date": 25,
+    "title": "John Foster Dulles",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Secretary of State"
   },
   {
     "year": 1802,
@@ -1160,16 +1260,6 @@
     "field": "Architecture"
   },
   {
-    "year": 1929,
-    "month": 3,
-    "date": 6,
-    "title": "Tom Foley",
-    "frequency": "annual",
-    "type": "birthday",
-    "country": "United States",
-    "field": "Speaker of the House"
-  },
-  {
     "year": 1972,
     "month": 3,
     "date": 6,
@@ -1188,6 +1278,16 @@
     "type": "founded",
     "country": "Spain",
     "field": "Football"
+  },
+  {
+    "year": 1929,
+    "month": 3,
+    "date": 6,
+    "title": "Tom Foley",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
   },
   {
     "year": 1850,
@@ -1360,14 +1460,14 @@
     "field": "Basketball"
   },
   {
-    "year": 1767,
+    "year": 1840,
     "month": 3,
-    "date": 15,
-    "title": "Andrew Jackson",
+    "date": 14,
+    "title": "David B. Henderson",
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
-    "field": "President"
+    "field": "Speaker of the House"
   },
   {
     "year": 1933,
@@ -1380,14 +1480,24 @@
     "field": "Supreme Court Justice"
   },
   {
-    "year": 1751,
+    "year": 1767,
     "month": 3,
-    "date": 16,
-    "title": "James Madison",
+    "date": 15,
+    "title": "Andrew Jackson",
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
     "field": "President"
+  },
+  {
+    "year": 1827,
+    "month": 3,
+    "date": 15,
+    "title": "Michael C. Kerr",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
   },
   {
     "year": 1789,
@@ -1420,14 +1530,14 @@
     "field": "Football"
   },
   {
-    "year": 1777,
+    "year": 1751,
     "month": 3,
-    "date": 17,
-    "title": "Roger B. Taney",
+    "date": 16,
+    "title": "James Madison",
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
-    "field": "Supreme Court Chief Justice"
+    "field": "President"
   },
   {
     "year": 1986,
@@ -1440,14 +1550,14 @@
     "field": "Football"
   },
   {
-    "year": 1837,
+    "year": 1777,
     "month": 3,
-    "date": 18,
-    "title": "Grover Cleveland",
+    "date": 17,
+    "title": "Roger B. Taney",
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
-    "field": "President"
+    "field": "Supreme Court Chief Justice"
   },
   {
     "year": 1969,
@@ -1470,14 +1580,14 @@
     "field": "Football"
   },
   {
-    "year": 1891,
+    "year": 1837,
     "month": 3,
-    "date": 19,
-    "title": "Earl Warren",
+    "date": 18,
+    "title": "Grover Cleveland",
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
-    "field": "Supreme Court Chief Justice"
+    "field": "President"
   },
   {
     "year": 1976,
@@ -1490,14 +1600,14 @@
     "field": "Football"
   },
   {
-    "year": 1904,
+    "year": 1891,
     "month": 3,
-    "date": 20,
-    "title": "B. F. Skinner",
+    "date": 19,
+    "title": "Earl Warren",
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
-    "field": "Psychology"
+    "field": "Supreme Court Chief Justice"
   },
   {
     "year": 1904,
@@ -1590,6 +1700,16 @@
     "field": "Football"
   },
   {
+    "year": 1823,
+    "month": 3,
+    "date": 23,
+    "title": "Schuyler Colfax",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
+  },
+  {
     "year": 1921,
     "month": 3,
     "date": 24,
@@ -1614,6 +1734,26 @@
     "month": 3,
     "date": 26,
     "title": "Nancy Pelosi",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
+  },
+  {
+    "year": 1740,
+    "month": 3,
+    "date": 26,
+    "title": "Jonathan Trumbull Jr.",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
+  },
+  {
+    "year": 1784,
+    "month": 3,
+    "date": 26,
+    "title": "John W. Taylor",
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
@@ -1650,16 +1790,6 @@
     "field": "Secretary of the Treasury"
   },
   {
-    "year": 1790,
-    "month": 3,
-    "date": 29,
-    "title": "John Tyler",
-    "frequency": "annual",
-    "type": "birthday",
-    "country": "United States",
-    "field": "President"
-  },
-  {
     "year": 1943,
     "month": 3,
     "date": 29,
@@ -1668,6 +1798,16 @@
     "type": "birthday",
     "country": "United Kingdom",
     "field": "Prime Minister"
+  },
+  {
+    "year": 1790,
+    "month": 3,
+    "date": 29,
+    "title": "John Tyler",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President"
   },
   {
     "year": 1853,
@@ -1780,6 +1920,16 @@
     "field": "Mangaka"
   },
   {
+    "year": 1937,
+    "month": 4,
+    "date": 5,
+    "title": "Colin Powell",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Secretary of State"
+  },
+  {
     "year": 1483,
     "month": 4,
     "date": 6,
@@ -1830,14 +1980,14 @@
     "field": "Football"
   },
   {
-    "year": 1893,
+    "year": 1991,
     "month": 4,
     "date": 11,
-    "title": "Dean Acheson",
+    "title": "Thiago Alcântara",
     "frequency": "annual",
     "type": "birthday",
-    "country": "United States",
-    "field": "Secretary of State"
+    "country": "Spain",
+    "field": "Football"
   },
   {
     "year": 1862,
@@ -1850,14 +2000,14 @@
     "field": "Supreme Court Chief Justice"
   },
   {
-    "year": 1991,
+    "year": 1893,
     "month": 4,
     "date": 11,
-    "title": "Thiago Alcântara",
+    "title": "Dean Acheson",
     "frequency": "annual",
     "type": "birthday",
-    "country": "Spain",
-    "field": "Football"
+    "country": "United States",
+    "field": "Secretary of State"
   },
   {
     "year": 1947,
@@ -1870,16 +2020,6 @@
     "field": "Comedy"
   },
   {
-    "year": 1777,
-    "month": 4,
-    "date": 12,
-    "title": "Henry Clay",
-    "frequency": "annual",
-    "type": "birthday",
-    "country": "United States",
-    "field": "Speaker of the House"
-  },
-  {
     "year": 1985,
     "month": 4,
     "date": 12,
@@ -1890,14 +2030,24 @@
     "field": "Chess"
   },
   {
-    "year": 1743,
+    "year": 1777,
     "month": 4,
-    "date": 13,
-    "title": "Thomas Jefferson",
+    "date": 12,
+    "title": "Henry Clay",
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
-    "field": "President"
+    "field": "Speaker of the House"
+  },
+  {
+    "year": 1874,
+    "month": 4,
+    "date": 12,
+    "title": "William B. Bankhead",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
   },
   {
     "year": 1963,
@@ -1928,6 +2078,16 @@
     "type": "birthday",
     "country": "Chile",
     "field": "Football"
+  },
+  {
+    "year": 1743,
+    "month": 4,
+    "date": 13,
+    "title": "Thomas Jefferson",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President"
   },
   {
     "year": 1452,
@@ -1980,6 +2140,16 @@
     "field": "Football"
   },
   {
+    "year": 1799,
+    "month": 4,
+    "date": 16,
+    "title": "John Wesley Davis",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
+  },
+  {
     "year": 1996,
     "month": 4,
     "date": 18,
@@ -2030,6 +2200,16 @@
     "field": "Football"
   },
   {
+    "year": 1809,
+    "month": 4,
+    "date": 21,
+    "title": "Robert M. T. Hunter",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
+  },
+  {
     "year": 1982,
     "month": 4,
     "date": 22,
@@ -2040,16 +2220,6 @@
     "field": "Football"
   },
   {
-    "year": 1791,
-    "month": 4,
-    "date": 23,
-    "title": "James Buchanan",
-    "frequency": "annual",
-    "type": "birthday",
-    "country": "United States",
-    "field": "President"
-  },
-  {
     "year": 1977,
     "month": 4,
     "date": 23,
@@ -2058,6 +2228,16 @@
     "type": "birthday",
     "country": "United Kingdom",
     "field": "Comedy"
+  },
+  {
+    "year": 1791,
+    "month": 4,
+    "date": 23,
+    "title": "James Buchanan",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President"
   },
   {
     "year": 1902,
@@ -2160,6 +2340,16 @@
     "field": "President"
   },
   {
+    "year": 1930,
+    "month": 4,
+    "date": 28,
+    "title": "James Baker",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Secretary of State"
+  },
+  {
     "year": 1970,
     "month": 4,
     "date": 29,
@@ -2170,16 +2360,6 @@
     "field": null
   },
   {
-    "year": 1745,
-    "month": 4,
-    "date": 29,
-    "title": "Oliver Ellsworth",
-    "frequency": "annual",
-    "type": "birthday",
-    "country": "United States",
-    "field": "Supreme Court Chief Justice"
-  },
-  {
     "year": 1970,
     "month": 4,
     "date": 29,
@@ -2188,6 +2368,16 @@
     "type": "birthday",
     "country": "United States",
     "field": "Tennis"
+  },
+  {
+    "year": 1745,
+    "month": 4,
+    "date": 29,
+    "title": "Oliver Ellsworth",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Supreme Court Chief Justice"
   },
   {
     "year": 0,
@@ -2230,6 +2420,46 @@
     "field": null
   },
   {
+    "year": 1729,
+    "month": 5,
+    "date": 2,
+    "title": "Catherine the Great",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Russia",
+    "field": "Empress"
+  },
+  {
+    "year": 1975,
+    "month": 5,
+    "date": 2,
+    "title": "David Beckham",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United Kingdom",
+    "field": "Football"
+  },
+  {
+    "year": 1898,
+    "month": 5,
+    "date": 3,
+    "title": "Golda Meir",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Israel",
+    "field": "Prime Minister"
+  },
+  {
+    "year": null,
+    "month": 5,
+    "date": 3,
+    "title": "Golda Meir",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Israel",
+    "field": null
+  },
+  {
     "year": 1987,
     "month": 5,
     "date": 4,
@@ -2238,6 +2468,16 @@
     "type": "birthday",
     "country": "Spain",
     "field": "Football"
+  },
+  {
+    "year": 1796,
+    "month": 5,
+    "date": 4,
+    "title": "William Pennington",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
   },
   {
     "year": 1818,
@@ -2320,6 +2560,16 @@
     "field": "Gamer"
   },
   {
+    "year": 1999,
+    "month": 5,
+    "date": 7,
+    "title": "Cody Gakpo",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Netherlands",
+    "field": "Football"
+  },
+  {
     "year": 1836,
     "month": 5,
     "date": 7,
@@ -2330,13 +2580,13 @@
     "field": "Speaker of the House"
   },
   {
-    "year": 1999,
+    "year": 1960,
     "month": 5,
-    "date": 7,
-    "title": "Cody Gakpo",
+    "date": 8,
+    "title": "Franco Baresi",
     "frequency": "annual",
     "type": "birthday",
-    "country": "Netherlands",
+    "country": "Italy",
     "field": "Football"
   },
   {
@@ -2350,16 +2600,6 @@
     "field": "President"
   },
   {
-    "year": 1960,
-    "month": 5,
-    "date": 8,
-    "title": "Franco Baresi",
-    "frequency": "annual",
-    "type": "birthday",
-    "country": "Italy",
-    "field": "Football"
-  },
-  {
     "year": 1945,
     "month": 5,
     "date": 9,
@@ -2368,6 +2608,16 @@
     "type": "birthday",
     "country": "Germany",
     "field": "Football"
+  },
+  {
+    "year": 1746,
+    "month": 5,
+    "date": 9,
+    "title": "Theodore Sedgwick",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
   },
   {
     "year": 1912,
@@ -2380,16 +2630,6 @@
     "field": null
   },
   {
-    "year": 1908,
-    "month": 5,
-    "date": 10,
-    "title": "Carl Albert",
-    "frequency": "annual",
-    "type": "birthday",
-    "country": "United States",
-    "field": "Speaker of the House"
-  },
-  {
     "year": 1988,
     "month": 5,
     "date": 10,
@@ -2398,6 +2638,16 @@
     "type": "birthday",
     "country": "United Kingdom",
     "field": "Football"
+  },
+  {
+    "year": 1908,
+    "month": 5,
+    "date": 10,
+    "title": "Carl Albert",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
   },
   {
     "year": 1900,
@@ -2418,6 +2668,16 @@
     "type": "birthday",
     "country": "Spain",
     "field": "Football"
+  },
+  {
+    "year": 1891,
+    "month": 5,
+    "date": 11,
+    "title": "Henry Morgenthau Jr.",
+    "frequency": null,
+    "type": null,
+    "country": null,
+    "field": null
   },
   {
     "year": 1937,
@@ -2450,6 +2710,26 @@
     "field": "Football"
   },
   {
+    "year": 1809,
+    "month": 5,
+    "date": 12,
+    "title": "Robert C. Winthrop",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
+  },
+  {
+    "year": 1822,
+    "month": 5,
+    "date": 12,
+    "title": "James Lawrence Orr",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
+  },
+  {
     "year": 1983,
     "month": 5,
     "date": 13,
@@ -2478,16 +2758,6 @@
     "type": "birthday",
     "country": "United States",
     "field": "Chess"
-  },
-  {
-    "year": 1937,
-    "month": 5,
-    "date": 15,
-    "title": "Madeleine Albright",
-    "frequency": "annual",
-    "type": "birthday",
-    "country": "United States",
-    "field": "Secretary of State"
   },
   {
     "year": 1859,
@@ -2520,6 +2790,16 @@
     "field": "Tennis"
   },
   {
+    "year": 1937,
+    "month": 5,
+    "date": 15,
+    "title": "Madeleine Albright",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Secretary of State"
+  },
+  {
     "year": 1993,
     "month": 5,
     "date": 16,
@@ -2538,6 +2818,26 @@
     "type": "birthday",
     "country": "Netherlands",
     "field": "Football"
+  },
+  {
+    "year": 1801,
+    "month": 5,
+    "date": 16,
+    "title": "William H. Seward",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Secretary of State"
+  },
+  {
+    "year": 1749,
+    "month": 5,
+    "date": 17,
+    "title": "Edward Jenner",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United Kingdom",
+    "field": "Psysician"
   },
   {
     "year": 1970,
@@ -2617,6 +2917,26 @@
     "frequency": "annual",
     "type": "birthday",
     "country": "Spain",
+    "field": "Football"
+  },
+  {
+    "year": 1921,
+    "month": 5,
+    "date": 21,
+    "title": "Andrei Sakharov",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Russia",
+    "field": null
+  },
+  {
+    "year": 1904,
+    "month": 5,
+    "date": 21,
+    "title": "FIFA",
+    "frequency": "annual",
+    "type": "founded",
+    "country": "France",
     "field": "Football"
   },
   {
@@ -2700,6 +3020,16 @@
     "field": "Football"
   },
   {
+    "year": 1783,
+    "month": 5,
+    "date": 25,
+    "title": "Philip P. Barbour",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
+  },
+  {
     "year": 1927,
     "month": 5,
     "date": 26,
@@ -2740,16 +3070,6 @@
     "field": "Literature"
   },
   {
-    "year": 1917,
-    "month": 5,
-    "date": 29,
-    "title": "John F. Kennedy",
-    "frequency": "annual",
-    "type": "birthday",
-    "country": "United States",
-    "field": "President"
-  },
-  {
     "year": 2006,
     "month": 5,
     "date": 29,
@@ -2760,6 +3080,16 @@
     "field": "Chess"
   },
   {
+    "year": 1917,
+    "month": 5,
+    "date": 29,
+    "title": "John F. Kennedy",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President"
+  },
+  {
     "year": 1980,
     "month": 5,
     "date": 30,
@@ -2768,6 +3098,16 @@
     "type": "birthday",
     "country": "United Kingdom",
     "field": "Football"
+  },
+  {
+    "year": 1819,
+    "month": 5,
+    "date": 31,
+    "title": "Walt Whitman",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Literature"
   },
   {
     "year": 1949,
@@ -2890,16 +3230,6 @@
     "field": "Football"
   },
   {
-    "year": 1924,
-    "month": 6,
-    "date": 12,
-    "title": "George H. W. Bush",
-    "frequency": "annual",
-    "type": "birthday",
-    "country": "United States",
-    "field": "President"
-  },
-  {
     "year": 1992,
     "month": 6,
     "date": 12,
@@ -2908,6 +3238,16 @@
     "type": "birthday",
     "country": "Brazil",
     "field": "Football"
+  },
+  {
+    "year": 1924,
+    "month": 6,
+    "date": 12,
+    "title": "George H. W. Bush",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President"
   },
   {
     "year": 1928,
@@ -2920,16 +3260,6 @@
     "field": "Economist"
   },
   {
-    "year": 1946,
-    "month": 6,
-    "date": 14,
-    "title": "Donald Trump",
-    "frequency": "annual",
-    "type": "birthday",
-    "country": "United States",
-    "field": "President"
-  },
-  {
     "year": 1736,
     "month": 6,
     "date": 14,
@@ -2940,14 +3270,14 @@
     "field": "Physics"
   },
   {
-    "year": 1902,
+    "year": 1946,
     "month": 6,
-    "date": 15,
-    "title": "Erik Erikson",
+    "date": 14,
+    "title": "Donald Trump",
     "frequency": "annual",
     "type": "birthday",
-    "country": "Germany",
-    "field": "Psychology"
+    "country": "United States",
+    "field": "President"
   },
   {
     "year": 1215,
@@ -3058,6 +3388,16 @@
     "type": "birthday",
     "country": "United States",
     "field": "Tennis"
+  },
+  {
+    "year": 1943,
+    "month": 6,
+    "date": 17,
+    "title": "Newt Gingrich",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
   },
   {
     "year": 2003,
@@ -3420,6 +3760,16 @@
     "field": null
   },
   {
+    "year": 1926,
+    "month": 7,
+    "date": 4,
+    "title": "Alfredo Di Stéfano",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Spain",
+    "field": "Football"
+  },
+  {
     "year": 1872,
     "month": 7,
     "date": 4,
@@ -3430,14 +3780,14 @@
     "field": "President"
   },
   {
-    "year": 1926,
+    "year": 1962,
     "month": 7,
-    "date": 4,
-    "title": "Alfredo Di Stéfano",
+    "date": 5,
+    "title": "Independence Day",
     "frequency": "annual",
-    "type": "birthday",
-    "country": "Spain",
-    "field": "Football"
+    "type": "holiday",
+    "country": "Algeria",
+    "field": null
   },
   {
     "year": 1900,
@@ -3500,6 +3850,16 @@
     "field": "Football"
   },
   {
+    "year": 2011,
+    "month": 7,
+    "date": 9,
+    "title": "Independence Day",
+    "frequency": "annual",
+    "type": "holiday",
+    "country": "South Sudan",
+    "field": null
+  },
+  {
     "year": 1856,
     "month": 7,
     "date": 10,
@@ -3530,16 +3890,6 @@
     "field": "Football"
   },
   {
-    "year": 1913,
-    "month": 7,
-    "date": 14,
-    "title": "Gerald Ford",
-    "frequency": "annual",
-    "type": "birthday",
-    "country": "United States",
-    "field": "President"
-  },
-  {
     "year": 1990,
     "month": 7,
     "date": 14,
@@ -3548,6 +3898,16 @@
     "type": "birthday",
     "country": "Russia",
     "field": "Chess"
+  },
+  {
+    "year": 1913,
+    "month": 7,
+    "date": 14,
+    "title": "Gerald Ford",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President"
   },
   {
     "year": 1988,
@@ -3620,6 +3980,16 @@
     "field": null
   },
   {
+    "year": 1869,
+    "month": 7,
+    "date": 20,
+    "title": "Jo Byrns",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
+  },
+  {
     "year": 1899,
     "month": 7,
     "date": 21,
@@ -3690,14 +4060,14 @@
     "field": "Chess"
   },
   {
-    "year": 1875,
+    "year": 1897,
     "month": 7,
-    "date": 26,
-    "title": "Carl Jung",
+    "date": 24,
+    "title": "Amelia Earhart",
     "frequency": "annual",
     "type": "birthday",
-    "country": "Switzerland",
-    "field": "Psychology"
+    "country": "United States",
+    "field": "Pilot"
   },
   {
     "year": 1928,
@@ -3738,6 +4108,36 @@
     "type": "birthday",
     "country": "United Kingdom",
     "field": "Football"
+  },
+  {
+    "year": 1958,
+    "month": 7,
+    "date": 29,
+    "title": "NASA",
+    "frequency": "annual",
+    "type": "founded",
+    "country": "United States",
+    "field": null
+  },
+  {
+    "year": 1883,
+    "month": 7,
+    "date": 29,
+    "title": "Benito Mussolini",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Italy",
+    "field": "Prime Minister"
+  },
+  {
+    "year": 1981,
+    "month": 7,
+    "date": 29,
+    "title": "Fernando Alonso",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "Spain",
+    "field": "F1 Driver"
   },
   {
     "year": 1863,
@@ -3920,16 +4320,6 @@
     "field": "Football"
   },
   {
-    "year": 1874,
-    "month": 8,
-    "date": 10,
-    "title": "Herbert Hoover",
-    "frequency": "annual",
-    "type": "birthday",
-    "country": "United States",
-    "field": "President"
-  },
-  {
     "year": 2005,
     "month": 8,
     "date": 10,
@@ -3938,6 +4328,16 @@
     "type": "birthday",
     "country": "India",
     "field": "Chess"
+  },
+  {
+    "year": 1874,
+    "month": 8,
+    "date": 10,
+    "title": "Herbert Hoover",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President"
   },
   {
     "year": 1950,
@@ -4100,6 +4500,26 @@
     "field": "Literature"
   },
   {
+    "year": 1833,
+    "month": 8,
+    "date": 20,
+    "title": "Benjamin Harrison",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President"
+  },
+  {
+    "year": 1860,
+    "month": 8,
+    "date": 20,
+    "title": "Henry T. Rainey",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
+  },
+  {
     "year": 1936,
     "month": 8,
     "date": 21,
@@ -4250,6 +4670,16 @@
     "field": "Football"
   },
   {
+    "year": 1823,
+    "month": 8,
+    "date": 31,
+    "title": "Galusha A. Grow",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
+  },
+  {
     "year": 1962,
     "month": 9,
     "date": 1,
@@ -4288,6 +4718,36 @@
     "type": "founded",
     "country": "United Kingdom",
     "field": "Football"
+  },
+  {
+    "year": 1834,
+    "month": 9,
+    "date": 5,
+    "title": "John G. Carlisle",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
+  },
+  {
+    "year": 1844,
+    "month": 9,
+    "date": 6,
+    "title": "John Dalton",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United Kingdom",
+    "field": "Physics"
+  },
+  {
+    "year": 1815,
+    "month": 9,
+    "date": 7,
+    "title": "Howell Cobb",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
   },
   {
     "year": 1872,
@@ -4430,6 +4890,16 @@
     "field": "President"
   },
   {
+    "year": 1956,
+    "month": 9,
+    "date": 16,
+    "title": "David Copperfield",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Magician"
+  },
+  {
     "year": 1739,
     "month": 9,
     "date": 17,
@@ -4448,6 +4918,16 @@
     "type": "birthday",
     "country": "United States",
     "field": "Supreme Court Chief Justice"
+  },
+  {
+    "year": 1776,
+    "month": 9,
+    "date": 17,
+    "title": "Langdon Cheves",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
   },
   {
     "year": 2004,
@@ -4540,16 +5020,6 @@
     "field": "Emperor"
   },
   {
-    "year": 1755,
-    "month": 9,
-    "date": 24,
-    "title": "John Marshall",
-    "frequency": "annual",
-    "type": "birthday",
-    "country": "United States",
-    "field": "Chief Justice"
-  },
-  {
     "year": 1979,
     "month": 9,
     "date": 24,
@@ -4570,14 +5040,24 @@
     "field": "Football"
   },
   {
-    "year": 1849,
+    "year": 1755,
     "month": 9,
-    "date": 26,
-    "title": "Ivan Pavlov",
+    "date": 24,
+    "title": "John Marshall",
     "frequency": "annual",
     "type": "birthday",
-    "country": "Russia",
-    "field": "Psychology"
+    "country": "United States",
+    "field": "Supreme Court Chief Justice"
+  },
+  {
+    "year": 1897,
+    "month": 9,
+    "date": 25,
+    "title": "William Faulkner",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Literature"
   },
   {
     "year": 1849,
@@ -4660,16 +5140,6 @@
     "field": "Football"
   },
   {
-    "year": 1924,
-    "month": 10,
-    "date": 1,
-    "title": "Jimmy Carter",
-    "frequency": "annual",
-    "type": "birthday",
-    "country": "United States",
-    "field": "President"
-  },
-  {
     "year": 1914,
     "month": 10,
     "date": 1,
@@ -4688,6 +5158,16 @@
     "type": "birthday",
     "country": "United States",
     "field": "Supreme Court Chief Justice"
+  },
+  {
+    "year": 1924,
+    "month": 10,
+    "date": 1,
+    "title": "Jimmy Carter",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President"
   },
   {
     "year": 1991,
@@ -4710,6 +5190,16 @@
     "field": "Football"
   },
   {
+    "year": 1871,
+    "month": 10,
+    "date": 2,
+    "title": "Cordell Hull",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Secretary of State"
+  },
+  {
     "year": 1990,
     "month": 10,
     "date": 3,
@@ -4730,16 +5220,6 @@
     "field": "President"
   },
   {
-    "year": 1829,
-    "month": 10,
-    "date": 5,
-    "title": "Chester A. Arthur",
-    "frequency": "annual",
-    "type": "holiday",
-    "country": "United States",
-    "field": "President"
-  },
-  {
     "year": 1958,
     "month": 10,
     "date": 5,
@@ -4748,6 +5228,16 @@
     "type": "birthday",
     "country": "United States",
     "field": "Astrophysics"
+  },
+  {
+    "year": 1829,
+    "month": 10,
+    "date": 5,
+    "title": "Chester A. Arthur",
+    "frequency": "annual",
+    "type": "holiday",
+    "country": "United States",
+    "field": "President"
   },
   {
     "year": 1982,
@@ -4830,14 +5320,14 @@
     "field": null
   },
   {
-    "year": 1872,
+    "year": 1828,
     "month": 10,
-    "date": 11,
-    "title": "Harlan F. Stone",
+    "date": 10,
+    "title": "Samuel J. Randall",
     "frequency": "annual",
     "type": "birthday",
     "country": "United States",
-    "field": "Supreme Court Chief Justice"
+    "field": "Speaker of the House"
   },
   {
     "year": 1937,
@@ -4848,6 +5338,16 @@
     "type": "birthday",
     "country": "United Kingdom",
     "field": "Football"
+  },
+  {
+    "year": 1872,
+    "month": 10,
+    "date": 11,
+    "title": "Harlan F. Stone",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Supreme Court Chief Justice"
   },
   {
     "year": 1892,
@@ -4920,6 +5420,26 @@
     "field": "Tennis"
   },
   {
+    "year": 1760,
+    "month": 10,
+    "date": 16,
+    "title": "Jonathan Dayton",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
+  },
+  {
+    "year": 1851,
+    "month": 10,
+    "date": 16,
+    "title": "Frederick H. Gillett",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
+  },
+  {
     "year": 1972,
     "month": 10,
     "date": 17,
@@ -4948,6 +5468,16 @@
     "type": "birthday",
     "country": "Canada",
     "field": "Prime Minister"
+  },
+  {
+    "year": 1839,
+    "month": 10,
+    "date": 18,
+    "title": "Thomas Brackett Reed",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
   },
   {
     "year": 1910,
@@ -5130,6 +5660,16 @@
     "field": "President"
   },
   {
+    "year": 1925,
+    "month": 10,
+    "date": 27,
+    "title": "Warren Christopher",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Secretary of State"
+  },
+  {
     "year": 1900,
     "month": 10,
     "date": 28,
@@ -5190,16 +5730,6 @@
     "field": "Football"
   },
   {
-    "year": 1735,
-    "month": 10,
-    "date": 30,
-    "title": "John Adams",
-    "frequency": "annual",
-    "type": "birthday",
-    "country": "United States",
-    "field": "President"
-  },
-  {
     "year": 1960,
     "month": 10,
     "date": 30,
@@ -5208,6 +5738,16 @@
     "type": "birthday",
     "country": "Argentina",
     "field": "Football"
+  },
+  {
+    "year": 1735,
+    "month": 10,
+    "date": 30,
+    "title": "John Adams",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President"
   },
   {
     "year": 1930,
@@ -5250,6 +5790,16 @@
     "field": "Football"
   },
   {
+    "year": 1952,
+    "month": 11,
+    "date": 2,
+    "title": "Larry Fink",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Banker"
+  },
+  {
     "year": 1795,
     "month": 11,
     "date": 2,
@@ -5270,14 +5820,14 @@
     "field": "President"
   },
   {
-    "year": 1952,
+    "year": 1945,
     "month": 11,
-    "date": 2,
-    "title": "Larry Fink",
+    "date": 3,
+    "title": "Gerd Müller",
     "frequency": "annual",
     "type": "birthday",
-    "country": "United States",
-    "field": "Banker"
+    "country": "Germany",
+    "field": "Football"
   },
   {
     "year": 1845,
@@ -5290,14 +5840,14 @@
     "field": "Supreme Court Chief Justice"
   },
   {
-    "year": 1945,
+    "year": 1884,
     "month": 11,
     "date": 3,
-    "title": "Gerd Müller",
+    "title": "Joseph W. Martin Jr.",
     "frequency": "annual",
     "type": "birthday",
-    "country": "Germany",
-    "field": "Football"
+    "country": "United States",
+    "field": "Speaker of the House"
   },
   {
     "year": 1972,
@@ -5318,6 +5868,16 @@
     "type": "birthday",
     "country": "Denmark",
     "field": "Football"
+  },
+  {
+    "year": 1869,
+    "month": 11,
+    "date": 5,
+    "title": "Nicholas Longworth",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
   },
   {
     "year": 1913,
@@ -5520,6 +6080,16 @@
     "field": "Literature"
   },
   {
+    "year": 1954,
+    "month": 11,
+    "date": 14,
+    "title": "Condoleezza Rice",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Secretary of State"
+  },
+  {
     "year": 1923,
     "month": 11,
     "date": 15,
@@ -5550,6 +6120,16 @@
     "field": "Director"
   },
   {
+    "year": 1949,
+    "month": 11,
+    "date": 17,
+    "title": "John Boehner",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
+  },
+  {
     "year": 1963,
     "month": 11,
     "date": 18,
@@ -5558,16 +6138,6 @@
     "type": "birthday",
     "country": "Denmark",
     "field": "Football"
-  },
-  {
-    "year": 1831,
-    "month": 11,
-    "date": 19,
-    "title": "James A. Garfield",
-    "frequency": "annual",
-    "type": "birthday",
-    "country": "United States",
-    "field": "President"
   },
   {
     "year": 1888,
@@ -5580,6 +6150,16 @@
     "field": "Chess"
   },
   {
+    "year": 1831,
+    "month": 11,
+    "date": 19,
+    "title": "James A. Garfield",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President"
+  },
+  {
     "year": 0,
     "month": 11,
     "date": 20,
@@ -5588,16 +6168,6 @@
     "type": "celebration",
     "country": "Vietnam",
     "field": null
-  },
-  {
-    "year": 1942,
-    "month": 11,
-    "date": 20,
-    "title": "Joe Biden",
-    "frequency": "annual",
-    "type": "birthday",
-    "country": "United States",
-    "field": "President"
   },
   {
     "year": 1925,
@@ -5620,6 +6190,16 @@
     "field": "Physics"
   },
   {
+    "year": 1942,
+    "month": 11,
+    "date": 20,
+    "title": "Joe Biden",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President"
+  },
+  {
     "year": 1874,
     "month": 11,
     "date": 21,
@@ -5628,6 +6208,36 @@
     "type": "founded",
     "country": "United Kingdom",
     "field": "Football"
+  },
+  {
+    "year": 1791,
+    "month": 11,
+    "date": 22,
+    "title": "John Winston Jones",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
+  },
+  {
+    "year": 1800,
+    "month": 11,
+    "date": 22,
+    "title": "Linn Boyd",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
+  },
+  {
+    "year": 1868,
+    "month": 11,
+    "date": 22,
+    "title": "John Nance Garner",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
   },
   {
     "year": 1922,
@@ -5680,6 +6290,16 @@
     "field": "Physics"
   },
   {
+    "year": 1927,
+    "month": 11,
+    "date": 27,
+    "title": "William E. Simon",
+    "frequency": null,
+    "type": null,
+    "country": null,
+    "field": null
+  },
+  {
     "year": 1962,
     "month": 11,
     "date": 28,
@@ -5700,16 +6320,6 @@
     "field": "Literature"
   },
   {
-    "year": 1816,
-    "month": 11,
-    "date": 29,
-    "title": "Morrison Waite",
-    "frequency": "annual",
-    "type": "birthday",
-    "country": "United States",
-    "field": "Supreme Court Chief Justice"
-  },
-  {
     "year": 1899,
     "month": 11,
     "date": 29,
@@ -5728,6 +6338,16 @@
     "type": "birthday",
     "country": "United Kingdom",
     "field": "Football"
+  },
+  {
+    "year": 1816,
+    "month": 11,
+    "date": 29,
+    "title": "Morrison Waite",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Supreme Court Chief Justice"
   },
   {
     "year": 1835,
@@ -5810,16 +6430,6 @@
     "field": "Programming Language"
   },
   {
-    "year": 1782,
-    "month": 12,
-    "date": 5,
-    "title": "Martin Van Buren",
-    "frequency": "annual",
-    "type": "birthday",
-    "country": "United States",
-    "field": "President"
-  },
-  {
     "year": 1901,
     "month": 12,
     "date": 5,
@@ -5838,6 +6448,16 @@
     "type": "birthday",
     "country": "United States",
     "field": "Chess"
+  },
+  {
+    "year": 1782,
+    "month": 12,
+    "date": 5,
+    "title": "Martin Van Buren",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President"
   },
   {
     "year": 1917,
@@ -5890,16 +6510,6 @@
     "field": "Chess"
   },
   {
-    "year": 1912,
-    "month": 12,
-    "date": 9,
-    "title": "Tip O'Neill",
-    "frequency": "annual",
-    "type": "birthday",
-    "country": "United States",
-    "field": "Speaker of the House"
-  },
-  {
     "year": 1987,
     "month": 12,
     "date": 9,
@@ -5908,6 +6518,16 @@
     "type": "birthday",
     "country": "United States",
     "field": "Chess"
+  },
+  {
+    "year": 1912,
+    "month": 12,
+    "date": 9,
+    "title": "Tip O'Neill",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
   },
   {
     "year": 1969,
@@ -5968,6 +6588,16 @@
     "type": "birthday",
     "country": "Germany",
     "field": "Physics"
+  },
+  {
+    "year": 1920,
+    "month": 12,
+    "date": 13,
+    "title": "George Shultz",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Secretary of State"
   },
   {
     "year": 1916,
@@ -6040,6 +6670,16 @@
     "field": "Physics"
   },
   {
+    "year": 1757,
+    "month": 12,
+    "date": 17,
+    "title": "Nathaniel Macon",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
+  },
+  {
     "year": 1946,
     "month": 12,
     "date": 18,
@@ -6100,6 +6740,16 @@
     "field": "Football"
   },
   {
+    "year": 1891,
+    "month": 12,
+    "date": 21,
+    "title": "John W. McCormack",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
+  },
+  {
     "year": 1788,
     "month": 12,
     "date": 22,
@@ -6118,6 +6768,16 @@
     "type": "birthday",
     "country": "Vietnam",
     "field": "Literature"
+  },
+  {
+    "year": 1922,
+    "month": 12,
+    "date": 22,
+    "title": "Jim Wright",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "Speaker of the House"
   },
   {
     "year": 1745,
@@ -6200,16 +6860,6 @@
     "field": "Engineer"
   },
   {
-    "year": 1856,
-    "month": 12,
-    "date": 28,
-    "title": "Woodrow Wilson",
-    "frequency": "annual",
-    "type": "birthday",
-    "country": "United States",
-    "field": "President"
-  },
-  {
     "year": 1903,
     "month": 12,
     "date": 28,
@@ -6228,6 +6878,16 @@
     "type": "birthday",
     "country": "United States",
     "field": "Comics"
+  },
+  {
+    "year": 1856,
+    "month": 12,
+    "date": 28,
+    "title": "Woodrow Wilson",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United States",
+    "field": "President"
   },
   {
     "year": 1808,
@@ -6260,6 +6920,16 @@
     "field": null
   },
   {
+    "year": 1941,
+    "month": 12,
+    "date": 31,
+    "title": "Alex Ferguson",
+    "frequency": "annual",
+    "type": "birthday",
+    "country": "United Kingdom",
+    "field": "Football"
+  },
+  {
     "year": 1880,
     "month": 12,
     "date": 31,
@@ -6278,15 +6948,5 @@
     "type": "birthday",
     "country": "United States",
     "field": "Speaker of the House"
-  },
-  {
-    "year": 1941,
-    "month": 12,
-    "date": 31,
-    "title": "Alex Ferguson",
-    "frequency": "annual",
-    "type": "birthday",
-    "country": "United Kingdom",
-    "field": "Football"
   }
 ]
